@@ -1,11 +1,22 @@
 ###################
-Validation Overview
+Creating an account
 ###################
 
-Validation is the process of assessing a file using the `IATI Standard <https://iatistandard.org/en/iati-standard/>`_. Both the schema and the rulesets are used in validation. 
+How you sign up to IATI Publisher depends on whether your organisation has previously registered with IATI or not. You can find a list of organisations that have already registered and published data on the `IATI Registry <https://iatiregistry.org/publisher/>`_. 
 
-Validation only covers areas of the standard that can be checked by a computer: some requirements of the IATI standard (such as that text is descriptive) are subjective and therefore are not included in validation. 
+If you have never registered with IATI, follow the instructions below for Option A: My organisation is new to IATI. Otherwise, jump to Option B: My organisation has registered with IATI. 
 
-Validation only checks the structure of the data: no attempt is made to verify that the data is true or accurate. 
+Option A: My organisation is new to IATI
+----------------------------------------
+1. On the IATI Publisher homepage, click “Join Now”
+2. Select “My organisation is new to IATI”
+3. Enter information about your organisation for Step 1
+4. Enter contact information for your organisation in Step 2
+5. Select whether you are publishing data for your own organisation (Source = “Primary”) or on behalf of another organisation (Source = “Secondary”)
+6. Enter your own information in Step 4 to create an admin user account (this is the email address and password that you will use to sign in to IATI Publisher)
+7. Click “Get Started” to return to the homepage
 
-The result of this process is a report, which shows the :ref:`status<Statuses>` of the file, and details of any issues found. Issues are grouped into :ref:`categories<Categories>` for ease of comprehension. 
+Hover your mouse over the question mark icons to view guidance on what each field means. Visit the IATI website for help with `How to create your IATI organisation identifier <https://iatistandard.org/en/guidance/publishing-data/registering-and-managing-your-organisation-account/how-to-create-your-iati-organisation-identifier/>`_.
+
+Option B: My organisation has registered with IATI
+--------------------------------------------------
