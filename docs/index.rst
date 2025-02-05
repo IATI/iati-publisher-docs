@@ -23,9 +23,9 @@ IATI Publisher was first launched in December 2022. It is managed by the IATI Se
    :maxdepth: 2
    :caption: Registration
 
-   creating an account
-   signing in
-   managing your profile
+   account
+   sign-in
+   profile
 
 .. toctree::
    :hidden:
@@ -33,5 +33,5 @@ IATI Publisher was first launched in December 2022. It is managed by the IATI Se
    :maxdepth: 2
    :caption: Settings
 
-   publishing settings
-   default values
+   publishing-settings
+   default-values
