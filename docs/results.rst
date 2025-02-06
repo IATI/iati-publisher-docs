@@ -1,22 +1,15 @@
 ###################
-Creating an account
+Results
 ###################
 
-How you sign up to IATI Publisher depends on whether your organisation has previously registered with IATI or not. You can find a list of organisations that have already registered and published data on the `IATI Registry <https://iatiregistry.org/publisher/>`_. 
+Each result must have at least one indicator. This is a rule of the IATI Standard and should be followed to avoid errors in your published data.
 
-If you have never registered with IATI, follow the instructions below for Option A: My organisation is new to IATI. Otherwise, jump to Option B: My organisation has registered with IATI. 
+Periods can be added to indicators to record their target and actual values over time. Periods are not essential to add to your indicators before publishing for the first time. A result can have multiple indicators, and each indicator can have multiple periods.
 
-Option A: My organisation is new to IATI
+You can add a period from the Indicator Detail page (top screenshot), or from the activity detail page (bottom screenshot):
+
+Deleting results, indicators or periods
 ----------------------------------------
-1. On the IATI Publisher homepage, click “Join Now”
-2. Select “My organisation is new to IATI”
-3. Enter information about your organisation for Step 1
-4. Enter contact information for your organisation in Step 2
-5. Select whether you are publishing data for your own organisation (Source = “Primary”) or on behalf of another organisation (Source = “Secondary”)
-6. Enter your own information in Step 4 to create an admin user account (this is the email address and password that you will use to sign in to IATI Publisher)
-7. Click “Get Started” to return to the homepage
+Deleting a result in the interface will delete any indicators or periods associated with it. 
 
-Hover your mouse over the question mark icons to view guidance on what each field means. Visit the IATI website for help with `How to create your IATI organisation identifier <https://iatistandard.org/en/guidance/publishing-data/registering-and-managing-your-organisation-account/how-to-create-your-iati-organisation-identifier/>`_.
-
-Option B: My organisation has registered with IATI
---------------------------------------------------
+To delete an individual indicator or period, click on “Show full indicator list” or “Show full period list” from the activity detail page, then follow the same steps as above.
