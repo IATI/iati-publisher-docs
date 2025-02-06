@@ -1,22 +1,30 @@
 ###################
-Creating an account
+Organisation data
 ###################
 
-How you sign up to IATI Publisher depends on whether your organisation has previously registered with IATI or not. You can find a list of organisations that have already registered and published data on the `IATI Registry <https://iatiregistry.org/publisher/>`_. 
+The IATI data standard includes two types of data file - organisation and activity. The organisation data file includes information such as your organisation’s unique identifier, future-looking budgets, total expenditure and links to reports or strategy documents. 
 
-If you have never registered with IATI, follow the instructions below for Option A: My organisation is new to IATI. Otherwise, jump to Option B: My organisation has registered with IATI. 
+In IATI Publisher, you must publish organisation data before you can publish activity data. You can start with the basic (“core”) elements and add more information over time.
 
-Option A: My organisation is new to IATI
-----------------------------------------
-1. On the IATI Publisher homepage, click “Join Now”
-2. Select “My organisation is new to IATI”
-3. Enter information about your organisation for Step 1
-4. Enter contact information for your organisation in Step 2
-5. Select whether you are publishing data for your own organisation (Source = “Primary”) or on behalf of another organisation (Source = “Secondary”)
-6. Enter your own information in Step 4 to create an admin user account (this is the email address and password that you will use to sign in to IATI Publisher)
-7. Click “Get Started” to return to the homepage
+You will be prompted to review and publish organisation data in the 'Get Started' guide.
 
-Hover your mouse over the question mark icons to view guidance on what each field means. Visit the IATI website for help with `How to create your IATI organisation identifier <https://iatistandard.org/en/guidance/publishing-data/registering-and-managing-your-organisation-account/how-to-create-your-iati-organisation-identifier/>`_.
+Editing organisation data
+-------------------------
+You can view or edit your organisation data from IATI Publisher's Organisation Data page.
 
-Option B: My organisation has registered with IATI
---------------------------------------------------
+Some of these data elements are mandatory to populate and are labelled “core” (with a yellow ring symbol). Other elements are optional and can be populated if relevant.
+
+You can search elements by name or filter on completion status.
+
+
+Publishing organisation data
+----------------------------
+
+1. Ensure that core elements have been completed on the Organisation Data page
+2. Click “Publish” in the top right of the screen
+3. Click “Continue” after core element completeness has been checked
+4. Publication of your organisation data will be confirmed
+
+You can edit information on the Organisation Data page at any time to update what you have published. After any changes, you will see the option to “Republish” in the top right.
+
+You need to publish organisation data in IATI Publisher before you can publish activity data. Once published, you can edit, add to and republish your organisation data at any time.
