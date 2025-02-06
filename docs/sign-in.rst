@@ -1,10 +1,10 @@
 ###################
-Signing in to IATI Publisher
+Signing in
 ###################
 
 Sign in to IATI Publisher with the email address and password that you entered during registration. You will be need to verify your email address before you can publish data.
 
-When you first sign in, you will see 'Get Started' guidance. This will walk you through the steps to getting set up. Select “Don’t show me this again” in the bottom left to stop the guidance appearing each time you sign in.
+When you first sign in, you will see 'Get Started' guidance. This will walk you through the steps to getting set up. Select “Don’t show me this again” in the bottom left corner of the guidance box to stop it appearing each time you sign in.
 
 
 Adding other people from your organisation to IATI Publisher
