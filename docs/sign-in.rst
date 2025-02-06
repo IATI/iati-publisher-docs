@@ -1,22 +1,18 @@
 ###################
-Creating an account
+Signing in to IATI Publisher
 ###################
 
-How you sign up to IATI Publisher depends on whether your organisation has previously registered with IATI or not. You can find a list of organisations that have already registered and published data on the `IATI Registry <https://iatiregistry.org/publisher/>`_. 
+Sign in to IATI Publisher with the email address and password that you entered during registration. You will be need to verify your email address before you can publish data.
 
-If you have never registered with IATI, follow the instructions below for Option A: My organisation is new to IATI. Otherwise, jump to Option B: My organisation has registered with IATI. 
+When you first sign in, you will see 'Get Started' guidance. This will walk you through the steps to getting set up. Select “Don’t show me this again” in the bottom left to stop the guidance appearing each time you sign in.
 
-Option A: My organisation is new to IATI
+
+Adding other people from your organisation to IATI Publisher
 ----------------------------------------
-1. On the IATI Publisher homepage, click “Join Now”
-2. Select “My organisation is new to IATI”
-3. Enter information about your organisation for Step 1
-4. Enter contact information for your organisation in Step 2
-5. Select whether you are publishing data for your own organisation (Source = “Primary”) or on behalf of another organisation (Source = “Secondary”)
-6. Enter your own information in Step 4 to create an admin user account (this is the email address and password that you will use to sign in to IATI Publisher)
-7. Click “Get Started” to return to the homepage
+If you are a new user from an organisation that is already using IATI Publisher, an admin user from your organisation can create an account for you.
 
-Hover your mouse over the question mark icons to view guidance on what each field means. Visit the IATI website for help with `How to create your IATI organisation identifier <https://iatistandard.org/en/guidance/publishing-data/registering-and-managing-your-organisation-account/how-to-create-your-iati-organisation-identifier/>`_.
+They can do this via the `Users page <https://publisher.iatistandard.org/users/>`_, while signed in. Individuals can be added, removed or edited by anyone with "admin" level permissions in your organisation.
 
-Option B: My organisation has registered with IATI
+Getting help
 --------------------------------------------------
+If you are unable to sign in or need help getting access to your organisation's account, please contact us.
