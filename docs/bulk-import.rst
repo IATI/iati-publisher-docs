@@ -1,11 +1,31 @@
 ###################
-Validation Overview
+Bulk data import
 ###################
 
-Validation is the process of assessing a file using the `IATI Standard <https://iatistandard.org/en/iati-standard/>`_. Both the schema and the rulesets are used in validation. 
+IATI Publisher allows you to import and export activity data in three file formats (XML, CSV and XLS). This functionality can be useful if you want to import multiple activities, transactions, budgets or results in one go.
 
-Validation only covers areas of the standard that can be checked by a computer: some requirements of the IATI standard (such as that text is descriptive) are subjective and therefore are not included in validation. 
+For importing via CSV or XLS, it is normally easiest to export your activity data first to add to it, before re-importing.
 
-Validation only checks the structure of the data: no attempt is made to verify that the data is true or accurate. 
 
-The result of this process is a report, which shows the :ref:`status<Statuses>` of the file, and details of any issues found. Issues are grouped into :ref:`categories<Categories>` for ease of comprehension. 
+Import via XML
+---------------
+XML is the file format used by the IATI Standard. IATI Publisher creates and publishes IATI XML files for you when you publish your activity and organisation data in the interface. The import functionality may be useful if you are transferring IATI data from a different publishing tool to IATI Publisher.
+
+
+Import via CSV
+--------------
+You can download the IATI Publisher CSV template from the CSV/XML data import page. This template contains a wide range of IATI Standard fields and it is not necessary to populate everything. Refer to IATI Standard guidance on how to interpret the fields. 
+
+Note: it is not possible to upload activity results, indicators or periods via the CSV import.
+
+
+Import via XLS
+--------------
+You can find templates and further guidance for XLS importing on the import page.
+
+
+Pre-import checks
+---------------
+Once you have uploaded your data, IATI Publisher will list the activities ready for import with information on any data quality errors. Critical errors prevent the activity from being imported, whereas other errors will not prevent import. It is usually easier to fix errors in your data file before importing, rather than after in the interface.
+
+
