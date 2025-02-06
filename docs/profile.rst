@@ -1,5 +1,5 @@
 ###################
-Managing your profile settings
+Managing your profile
 ###################
 
 You can edit your account information by clicking on your profile icon in the top-right of IATI Publisher while signed in.
