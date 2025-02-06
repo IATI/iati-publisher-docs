@@ -1,5 +1,5 @@
 ###################
-Managing publishing settings
+Publishing settings
 ###################
 
 If you signed up via the 'My organisation is new to IATI' registration route, your publishing settings will be automatically populated and you do can skip to the next section on Default Values.
