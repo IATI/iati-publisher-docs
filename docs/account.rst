@@ -4,7 +4,7 @@ Creating an account
 
 How you sign up to IATI Publisher depends on whether your organisation has previously registered with IATI or not. You can find a list of organisations that have already registered and published data on the `IATI Registry <https://iatiregistry.org/publisher/>`_. 
 
-If you have never registered with IATI, follow the instructions below for Option A: My organisation is new to IATI. Otherwise, see `Option B: My organisation has registered with IATI </en/1/account/#option-b-my-organisation-has-registered-with-iati>`_.
+If you have never registered with IATI, follow the instructions below for 'Option A: My organisation is new to IATI'. Otherwise, jump to `Option B: My organisation has registered with IATI <https://docs.publisher.iatistandard.org/en/latest/account/#option-b-my-organisation-has-registered-with-iati>`_.
 
 Option A: My organisation is new to IATI
 ----------------------------------------
