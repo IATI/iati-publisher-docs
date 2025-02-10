@@ -22,6 +22,7 @@ IATI Publisher was first launched in December 2022. It is managed by the IATI Se
    :maxdepth: 2
    :caption: Registration
 
+   About <self>
    account
    sign-in
    profile
