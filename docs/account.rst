@@ -6,7 +6,7 @@ How you sign up to IATI Publisher depends on whether your organisation has previ
 
 .. important:: 
     If you have never registered with IATI, follow the instructions below for 'Option A: My organisation is new to IATI'. 
-    Otherwise, refer to `Option B: My organisation has registered with IATI <https://docs.publisher.iatistandard.org/en/latest/account/#option-b-my-organisation-has-registered-with-iati>`_.
+    Otherwise, refer to `Option B: My organisation has registered with IATI <https://docs.publisher.iatistandard.org/en/latest/account/#id1>`_.
 
 Option A: My organisation is new to IATI
 ----------------------------------------
