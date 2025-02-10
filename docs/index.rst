@@ -8,15 +8,13 @@ IATI Publisher is designed for small to medium-sized organisations who have a li
 
 Large organisations, such as donor governments or UN agencies, are advised not to use IATI Publisher. These organisations will likely need an alternative publishing method that is more suited to large volumes of data. 
 
-Data is primarily entered into IATI Publisher via online data entry forms, with some functionality for bulk importing.
-
 Help & Support
 --------------
-`Get in touch <https://iatistandard.org/en/contact/>`_ with any questions relating to publishing, using or improving IATI data. There is also an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_.
+`Get in touch <https://iatistandard.org/en/contact/>`_ if you have any questions relating to publishing, using or improving IATI data. You can also find an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_.
 
 Development
 --------------
-IATI Publisher was first launched in December 2022. It is managed by the IATI Secretariat and has been developed by Young Innovations (a software development firm based in Nepal).
+IATI Publisher was first launched in December 2022. It is managed by the IATI Secretariat and has been developed by `YoungInnovations <https://younginnovations.com.np/>`_.
 
 .. toctree::
    :hidden:
