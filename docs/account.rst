@@ -10,8 +10,6 @@ How you sign up to IATI Publisher depends on whether your organisation has previ
 
 There are question mark icons next to each data entry field in IATI Publisher, which you can click on for guidance.
 
-You will receive a verification email after registering to the email address provided for your admin account.
-
 Option A: My organisation is new to IATI
 ----------------------------------------
 1. On the IATI Publisher homepage, click 'Join Now'
@@ -29,3 +27,6 @@ Option B: My organisation has registered with IATI
 3. Enter your organisation details in Step 1, making sure that your organisation name, identifier and publisher ID match your account information on the `IATI Registry <https://iatiregistry.org/>`_
 4. Enter your contact information in Step 2 to create an admin user account (this is the email address and password that you will use to sign in to IATI Publisher)
 5. Click 'Get Started' to return to the homepage
+
+
+
