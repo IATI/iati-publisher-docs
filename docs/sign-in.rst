@@ -13,5 +13,5 @@ Adding other people from your organisation to IATI Publisher
 ----------------------------------------
 If you are a new user from an organisation that is already using IATI Publisher, an admin user from your organisation can create an account for you. You can read more in the `Users section <https://docs.publisher.iatistandard.org/en/latest/users/>`_.
 
-.. getting help:: 
+.. admonition:: Getting help
     If you are unable to sign in, or need help getting access to your organisation's account, please `contact us <https://iatistandard.org/en/contact/>`_.
