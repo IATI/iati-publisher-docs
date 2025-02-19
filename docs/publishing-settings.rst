@@ -4,7 +4,7 @@ Publishing settings
 
 If you signed up via the 'My organisation is new to IATI' registration route, your publishing settings will be automatically populated and you can skip to the next section on `Default Values <https://docs.publisher.iatistandard.org/en/latest/default-values/>`_.
 
-If your organisation was previously registered with IATI, you will need to link your IATI Publisher account to your account on the IATI Registry:
+If your organisation was previously registered with IATI, you need to link your IATI Publisher account to your account on the IATI Registry by following the steps below.
 
 1) Generate an API token
 ---------------------------------------------------
