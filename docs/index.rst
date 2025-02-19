@@ -4,16 +4,16 @@ IATI Publisher
 
 `IATI Publisher <https://publisher.iatistandard.org/>`_ is an online tool for organisations who want to publish data on their development and humanitarian activities according to the IATI Standard. It is free and managed by the IATI Secretariat.
 
-IATI Publisher is designed for small to medium-sized organisations who have a limited amount of IATI data to publish. Typically, this refers to organisations that have fewer than 100 IATI activities. An ‘activity’ is an individual programme, project or other unit of development and humanitarian work, as defined by your organisation. 
+IATI Publisher is designed for small to medium-sized organisations who have a limited amount of IATI data to publish. Typically, this refers to organisations with less than 100 IATI activities. An ‘activity’ in IATI is an individual programme, project or other unit of development and humanitarian work, as defined by your organisation. 
 
-Large organisations, such as donor governments or UN agencies, are advised not to use IATI Publisher. These organisations will likely need an alternative publishing method that is more suited to large volumes of data. 
+IATI Publisher is designed for people to enter data directly in the interface via online forms. It has some bulk import functionality, but is not recommended for organisations that need to manage their data in workbooks or other tools. Large organisations, such as donor governments or UN agencies, are advised not to use IATI Publisher for this reason. These organisations will likely need an alternative publishing method that is more suited to large volumes of data. 
 
 Steps to publishing
 -------------------
 .. tip:: 
    For an overview of what data publishing involves, have a look at `How to publish data <https://iatistandard.org/en/guidance/publishing-data/publishing-checklist/>`_.
 
-If you are using IATI Publisher, you will register, enter data and publish using the tool. IATI Publisher will check your data before publishing, using the `IATI Validator <https://validator.iatistandard.org/>`_, and provide feedback on any errors.
+If you are using IATI Publisher, you will register, enter data and publish using the tool. IATI Publisher will check your data before you publish, using the `IATI Validator <https://validator.iatistandard.org/>`_, and provide feedback on any errors.
 
 Help & Support
 --------------
@@ -27,7 +27,7 @@ IATI Publisher was first launched in December 2022. It is managed by the IATI Se
    :hidden:
    :titlesonly:
    :maxdepth: 2
-   :caption: Registration
+   :caption: Home
 
    About <self>
    account
