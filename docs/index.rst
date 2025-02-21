@@ -13,11 +13,11 @@ Steps to publishing
 .. tip:: 
    For an overview of what data publishing involves, have a look at our page `How to publish data <https://iatistandard.org/en/guidance/publishing-data/publishing-checklist/>`_.
 
-If you are using IATI Publisher, you will register, enter data and publish using the tool. IATI Publisher will check your data before you publish, using the `IATI Validator <https://validator.iatistandard.org/>`_, and provide feedback on any errors.
+If you are using IATI Publisher, you will register with IATI, enter and publish data using the tool. IATI Publisher will check your data before you publish, using the `IATI Validator <https://validator.iatistandard.org/>`_, and provide feedback on any validation errors against the IATI schema.
 
 Help & Support
 --------------
-`Get in touch <https://iatistandard.org/en/contact/>`_ if you have any questions relating to publishing, using or improving IATI data. You can also find an active community of IATI publishers and users on `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_.
+`Get in touch <https://iatistandard.org/en/contact/>`_ if you have any questions relating to publishing, using or improving IATI data. You can also find an active community of IATI publishers and users on our community platform `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_.
 
 Tool development
 --------------
