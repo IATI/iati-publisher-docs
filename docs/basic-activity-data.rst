@@ -15,7 +15,7 @@ Some IATI data elements are labelled “core” and have a yellow ring symbol ag
 
 It is recommended that you complete “core” elements. They are either mandatory according to the IATI Standard or required by most `donor governments’ publishing requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_.
 
-Other elements are optional. You are still encouraged to populate as many optional fields as you can, however, as this makes your data even more useful to our data users. 
+Other elements are optional. You are still encouraged to populate as many optional fields as you can, however, as this makes your data more useful to IATI's data users. 
 
 
 Editing an activity
@@ -36,7 +36,7 @@ Unpublishing activity data
 --------------------------
 Once published, IATI activities should remain public even after they have finished. You can update and republish your activity data as often as needed, for example to update budgets or end dates.
 
-In some cases, however, activity data needs to be removed from public view. To do this, you can “unpublish” your activity in IATI Publisher.
+In some cases, however, activity data needs to be removed from public view. To do this, you can 'unpublish' your activity in IATI Publisher.
 
-To delete an activity from the IATI Publisher interface, select its checkbox in the activity list then click on the trash icon next to “Add Activity”. Deleting permanently removes the activity from IATI Publisher. You will be asked to unpublish the activity first, if applicable, then confirm deletion.
+To delete an activity from the IATI Publisher interface, select its checkbox in the activity list then click on the trash can icon next to 'Add Activity'. Deleting permanently removes the activity from IATI Publisher. You will be asked to unpublish the activity first, if applicable.
 
