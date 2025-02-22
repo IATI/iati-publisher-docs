@@ -13,7 +13,7 @@ User permissions
 ----------------
 There are two types of user accounts on IATI Publisher - admins and general users. Admins have the highest level of permission for your organisation.
 
-Admin users can:
+**Admin users can:**
 
 * Add other users to their organisation (setting them as 'co-admins' or 'general users')
 * Add, edit and publish activity data
@@ -21,7 +21,7 @@ Admin users can:
 * Edit settings such as default values and your organisation's identifiers
 
 
-General users can:
+**General users can:**
 
 * View, but not edit or add, other users for their organisation
 * Add, edit and publish activity data
