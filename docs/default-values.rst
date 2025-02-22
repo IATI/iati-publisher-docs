@@ -14,13 +14,13 @@ Click the question mark icon next to each default value's data entry box in IATI
 
 **Recommended defaults for activity data** - these are commonly required by funders, who may provide specific advice on how to complete them.
 
-**Optional defaults for activity data** - these are not required by IATI or most funders. Populate these only if they are relevant to your organisation's activities.
+**Optional defaults for activity data** - these are not required by the IATI Standard or most funders. You can populate them if relevant to your organisation's activities.
 
 Changing your default values
 ----------------------------
 You can view or edit your default values in IATI Publisher's `Settings <https://publisher.iatistandard.org/setting>`_ at any time. IATI Publisher will apply the updated values to any new activities that you create in the interface.
 
-You can change default values for an individual activity by selecting 'Override this activity’s default values' when editing the activity. This will apply the new values to the specific activity, but not affect the defaults stored in Settings.
+You can change default values for an individual activity by clicking 'Override this activity’s default values' in the top right of the screen when editing the activity. This will apply the new values to the specific activity, but not affect the defaults stored in Settings.
 
 
 
