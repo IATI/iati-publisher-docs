@@ -6,16 +6,16 @@ Budgets are for each financial quarter (or year) over the lifetime of an activit
 
 Transactions are a record of the incoming or outgoing funds for an activity. They have a date (in the past), value, provider organisation and recipient organisation.
 
-Adding budgets to your activity
--------------------------------
-Add budgets via the budget element data entry form. Each budget should span no more than one year.
+Adding budgets
+--------------
+Add budgets via the budget data entry form. Each budget period should be no longer than one year.
 
 
-Adding transactions to your activity
+Adding transactions
 ------------------------------------
-Add transactions one by one via the transaction element data entry form, or in bulk.
+Add transactions one by one in the transaction data entry form, or in bulk via `bulk import functionality<https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_.
 
-Some information can be provided at either activity or transaction level, but not both (e.g. sector, recipient country and recipient region). If you have already provided this information for the activity as a whole, the corresponding sections will be shown in grey as not editable in the transaction data entry form.
+Some information can be provided at either activity or transaction level, but not both (e.g. sector, recipient country and recipient region). If you have already provided this information for the activity as a whole, the corresponding sections will be highlighted grey and not editable in the transaction data entry form.
 
 The Transaction List is a way to view, search and edit all transactions added for your activity.
 
