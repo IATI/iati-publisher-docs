@@ -11,9 +11,9 @@ When you first sign in, you will see 'Get Started' guidance on screen, which wil
 .. figure:: images/get_started_guidance.png
     :width: 100 %
     :align: center
-    :alt: Example query for IATI activities reported by the Food and Agriculture Organization of the United Nations.
+    :alt: Screenshot of the 'Get Started' onboarding guidance, visible on first sign in, to help your organisation get set up.
 
-    *Figure 1:  'Get Started' onboarding guidance to help your organisation get set up.*
+    *Figure 1: 'Get Started' onboarding guidance to help your organisation get set up.*
 
 Adding other people from your organisation to IATI Publisher
 ----------------------------------------
