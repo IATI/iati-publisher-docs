@@ -11,11 +11,18 @@ Most users will create activities manually in the interface, by entering informa
 
 Core elements
 -------------
-Some IATI data elements are labelled “core” and have a yellow ring symbol against them.
+The IATI data elements that you can complete for an activity are listed on the left hand side of the activity page (Figure 1). Some are labelled “core” and have a yellow ring symbol.
 
 It is recommended that you complete “core” elements. They are either mandatory according to the IATI Standard or required by most `donor governments’ publishing requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_.
 
 Other elements are optional. You are still encouraged to populate as many optional fields as you can, however, as this makes your data more useful to IATI's data users. 
+
+.. figure:: images/activity_element_list.png
+    :width: 100 %
+    :align: center
+    :alt: IATI data elements that can be populated for an activity
+
+*Figure 1: The IATI data elements that can be populated for an activity.*
 
 
 Editing an activity
