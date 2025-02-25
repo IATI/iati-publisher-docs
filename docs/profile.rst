@@ -7,9 +7,9 @@ While signed in to IATI Publisher, you can access your profile information via t
 .. figure:: images/profile_dropdown.png
     :width: 100 %
     :align: center
-    :alt: Selection of 'Your Profile' from IATI Publisher's profile menu, while signed in
+    :alt: A screenshot of where to find 'Your Profile' in IATI Publisher's user menu (while the user is signed in)
 
-    Figure 1: Selection of 'Your Profile' from IATI Publisher's profile menu, while signed in
+    Figure 1: Accessing 'Your Profile' from IATI Publisher's top-right dropdown menu.
 
 You can edit the following on your profile page:
 
