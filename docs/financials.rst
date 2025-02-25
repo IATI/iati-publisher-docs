@@ -20,7 +20,7 @@ You can add as many budgets as you need, noting that each budget period should b
     :align: center
     :alt: Viewing and editing budget information from the activity detail page.
 
-    *Figure 1: Viewing and editing budget information from the activity detail page.*
+    Figure 1: Viewing and editing budget information from the activity detail page.
 
 Adding transactions
 ------------------------------------
@@ -31,7 +31,7 @@ Locate "transaction" in the activity element menu, then select a transaction to 
     :align: center
     :alt: Viewing and editing transaction information from the activity detail page.
 
-    *Figure 2: Viewing and editing transaction information from the activity detail page.*
+    Figure 2: Viewing and editing transaction information from the activity detail page.
 
 Information such as sector, recipient country and recipient region can be provided at either activity or transaction level, but not at both. If you have already populated this information at activity level, you won't be able to edit it in the transaction data entry form.
 
@@ -42,4 +42,4 @@ The Transaction List is another way to view your activity transactions (Figure 3
     :align: center
     :alt: Viewing and editing transaction information from the Transaction List.
 
-    *Figure 3: Viewing transaction information from the Transaction List.*
+    Figure 3: Viewing the Transaction List for an activity.
