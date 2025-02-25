@@ -22,7 +22,7 @@ Other elements are optional. You are still encouraged to populate as many option
     :align: center
     :alt: IATI data elements that can be populated for an activity
 
-*Figure 1: The IATI data elements that can be populated for an activity.*
+    Figure 1: The IATI data elements that can be populated for an activity.
 
 
 Editing an activity
