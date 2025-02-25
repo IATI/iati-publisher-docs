@@ -11,14 +11,35 @@ Transactions are a record of the incoming or outgoing funds for an activity. The
 
 Adding budgets
 --------------
-Locate "budget" in the left hand menu of elements for your activity. You can add as many budgets as you need in the data entry form, noting that each budget period should be no longer than one year.
+Locate "budget" in the left hand menu of elements for your activity, then click 'Edit' to open the data entry form (Figure 1).
 
+You can add as many budgets as you need, noting that each budget period should be no longer than one year.
+
+.. figure:: images/budget_element.png
+    :width: 100 %
+    :align: center
+    :alt: Viewing and editing budget information from the activity detail page.
+
+*Figure 1: Viewing and editing budget information from the activity detail page.*
 
 Adding transactions
 ------------------------------------
-Locate "transaction" in the activity element menu to open the relevant data entry form.
+Locate "transaction" in the activity element menu, then select a transaction to edit or click 'Add Transaction' to create a new one (Figure 2).
 
-Some information can be provided at either activity or transaction level, but not both (e.g. sector, recipient country and recipient region). If you have already provided this information for the activity as a whole, the corresponding sections will be highlighted grey and not editable in the transaction data entry form.
+.. figure:: images/transactions.png
+    :width: 100 %
+    :align: center
+    :alt: Viewing and editing transaction information from the activity detail page.
 
-The Transaction List is a way to view, search and edit all transactions added for your activity.
+*Figure 2: Viewing and editing transaction information from the activity detail page.*
 
+Information such as sector, recipient country and recipient region can be provided at either activity or transaction level, but not at both. If you have already populated this information at activity level, you won't be able to edit it in the transaction data entry form.
+
+The Transaction List is another way to view your activity transactions (Figure 3). The table can be filtered or sorted to help you manage a large number of transactions in the interface.
+
+.. figure:: images/transaction_list.png
+    :width: 100 %
+    :align: center
+    :alt: Viewing and editing transaction information from the Transaction List.
+
+*Figure 3: Viewing transaction information from the Transaction List.*
