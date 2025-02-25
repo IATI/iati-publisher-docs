@@ -13,7 +13,7 @@ When you first sign in, you will see 'Get Started' guidance on screen, which wil
     :align: center
     :alt: Example query for IATI activities reported by the Food and Agriculture Organization of the United Nations.
 
-*Figure 1:  'Get Started' onboarding guidance to help your organisation get set up.*
+    *Figure 1:  'Get Started' onboarding guidance to help your organisation get set up.*
 
 Adding other people from your organisation to IATI Publisher
 ----------------------------------------
