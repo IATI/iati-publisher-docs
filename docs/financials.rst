@@ -6,7 +6,8 @@ Budgets are for each financial quarter (or year) over the lifetime of an activit
 
 Transactions are a record of the incoming or outgoing funds for an activity. They have a date (in the past), value, provider organisation and recipient organisation.
 
-Add budgets or transactions one by one in IATI Publisher's data entry forms, or in bulk via the `bulk import functionality <https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_.
+.. tip:: 
+   Add budgets or transactions one by one in IATI Publisher's data entry forms, or in bulk via the `bulk import functionality <https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_.
 
 Adding budgets
 --------------
