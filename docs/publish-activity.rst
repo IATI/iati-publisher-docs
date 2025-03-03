@@ -1,5 +1,5 @@
 ###################
-Publish an activity
+Publishing an activity
 ###################
 
 Activities can be published from the listing page, or from an individual activity's detail page. 
@@ -11,16 +11,12 @@ Activities can be published from the listing page, or from an individual activit
     :align: center
     :alt: Publishing multiple activities from the activity list.
 
-    Figure 1: Publishing multiple activities from the activity list.
-
 *Publishing a single activity from the activity detail page:*
 
 .. figure:: images/publish-activity-detail.png
     :width: 100 %
     :align: center
     :alt: Publishing a single activity from the activity detail page.
-
-    Figure 2: Publishing a single activity from its activity detail page.
 
 If the activity has been edited since it was first published, you will see the option to 'Republish'. Republishing is necessary to update your public data.
 
@@ -34,11 +30,9 @@ After clicking to publish an activity, IATI Publisher will check first for 'core
 Core elements are labelled with yellow rings in the IATI Publisher interface:
 
 .. figure:: images/publish-core.png
-    :width: 60 %
+    :width: 40 %
     :align: center
     :alt: Displaying core (recommended) elements to populate for your activity.
-
-    Figure 3: Core (recommended) elements to populate for your activity.
 
 You will see a warning message if any of the activities you are trying to publish are missing core elements:
 
@@ -46,8 +40,6 @@ You will see a warning message if any of the activities you are trying to publis
     :width: 90 %
     :align: center
     :alt: Warning message about some core elements being missing.
-
-    Figure 4: Warning message about some core elements being missing.
 
 You can cancel publishing at this point to go back and review your activities. Ensuring core elements are complete will help avoid errors at the next validation step.
 
@@ -61,16 +53,12 @@ Activities with validation issues are labelled in a list:
     :align: center
     :alt: Feedback displayed on validation errors before publication.
 
-    Figure 5: Feedback displayed on validation errors before publication.
-
 Click on 'Open in new tab' to view your activity. On the activity detail page, expanding the text box in the top right will display information on the validation errors: 
 
 .. figure:: images/publish-error-detail.png
     :width: 100 %
     :align: center
     :alt: Display of more detail on the validation error(s).
-
-    Figure 6: More detail displayed on the validation error(s).
 
 You can often click on each error to be taken to the relevant data entry form in IATI Publisher where a correction is needed.
 
@@ -83,8 +71,6 @@ If you return to the publication process after having made changes to one of you
     :align: center
     :alt: Revalidating an activity after making changes.
 
-    Figure 7: Revalidating an activity after making changes.
-
 *Data publication*
 If no errors are found during the validation step, IATI Publisher will continue to publish your activities. 
 
@@ -94,8 +80,6 @@ You’ll see a confirmation screen once publication has completed:
     :width: 90 %
     :align: center
     :alt: Confirmation that your activity data has been published.
-
-    Figure 8: Confirmation that your activity data has been published.
 
 Unpublishing activity data
 --------------------------
