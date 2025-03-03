@@ -1,5 +1,5 @@
 ###################
-Creating a new activity
+Creating an activity
 ###################
 
 The IATI data standard includes two types of data file - organisation and activity. The activity file includes information on the activities that your organisation carries out, such as your projects or humanitarian interventions. The IATI Standard includes data fields on what the activity is, where it is taking place, which organisations are involved and how it is financed.
