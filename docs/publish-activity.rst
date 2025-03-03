@@ -2,7 +2,9 @@
 Publish an activity
 ###################
 
-Multiple activities can be published at once from the activity listing page, or individually from each activity's detail page. 
+Activities can be published from the listing page, or from an individual activity's detail page. 
+
+*Publishing multiple activities from the activity listing page:*
 
 .. figure:: images/publish-activity-list.png
     :width: 100 %
@@ -11,6 +13,8 @@ Multiple activities can be published at once from the activity listing page, or 
 
     Figure 1: Publishing multiple activities from the activity list.
 
+*Publishing a single activity from the activity detail page:*
+
 .. figure:: images/publish-activity-detail.png
     :width: 100 %
     :align: center
@@ -18,25 +22,25 @@ Multiple activities can be published at once from the activity listing page, or 
 
     Figure 2: Publishing a single activity from its activity detail page.
 
-If the activity has been edited since it was first published, you will see the option to “Republish”. Republishing is necessary to update your public data.
+If the activity has been edited since it was first published, you will see the option to 'Republish'. Republishing is necessary to update your public data.
 
 Publishing workflow
 -------------------
 
 **Checking core elements**
 
-IATI Publisher will first check your activities for 'core element' completeness. It is recommended that you populate core elements based on IATI Standard rules and most donor governments’ publishing requirements. 
+After clicking to publish an activity, IATI Publisher will check first for 'core element' completeness. It is recommended that you populate core elements based on IATI Standard rules and most donor governments’ publishing requirements. 
 
 Core elements are labelled with yellow rings in the IATI Publisher interface:
 
 .. figure:: images/publish-core.png
     :width: 60 %
-    :align: centre
+    :align: center
     :alt: Displaying core (recommended) elements to populate for your activity.
 
     Figure 3: Core (recommended) elements to populate for your activity.
 
-After you click to publish your activity data, you will see a warning if any activities are missing core elements:
+You will see a warning message if any of the activities you are trying to publish are missing core elements:
 
 .. figure:: images/publish-core-missing.png
     :width: 90 %
