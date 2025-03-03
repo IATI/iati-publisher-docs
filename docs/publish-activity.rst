@@ -30,8 +30,8 @@ IATI Publisher will first check your activities for 'core element' completeness.
 Core elements are labelled with yellow rings in the IATI Publisher interface:
 
 .. figure:: images/publish-core.png
-    :width: 30 %
-    :align: left
+    :width: 60 %
+    :align: centre
     :alt: Displaying core (recommended) elements to populate for your activity.
 
     Figure 3: Core (recommended) elements to populate for your activity.
@@ -39,7 +39,7 @@ Core elements are labelled with yellow rings in the IATI Publisher interface:
 After you click to publish your activity data, you will see a warning if any activities are missing core elements:
 
 .. figure:: images/publish-core-missing.png
-    :width: 75 %
+    :width: 90 %
     :align: center
     :alt: Warning message about some core elements being missing.
 
@@ -53,7 +53,7 @@ If you continue to publish, your activity data is checked next using the IATI Va
 Activities with validation issues are labelled in a list: 
 
 .. figure:: images/publish-error-feedback.png
-    :width: 75 %
+    :width: 90 %
     :align: center
     :alt: Feedback displayed on validation errors before publication.
 
@@ -75,7 +75,7 @@ There are different levels of severity for validation errors. Importantly, you w
 If you return to the publication process after having made changes to one of your activities, you will be prompted to revalidate (i.e. recheck) your data before continuing:
 
 .. figure:: images/publish-changes-detected.png
-    :width: 75 %
+    :width: 90 %
     :align: center
     :alt: Revalidating an activity after making changes.
 
@@ -87,7 +87,7 @@ If no errors are found during the validation step, IATI Publisher will continue 
 You’ll see a confirmation screen once publication has completed: 
 
 .. figure:: images/publish-completed.png
-    :width: 75 %
+    :width: 90 %
     :align: center
     :alt: Confirmation that your activity data has been published.
 
