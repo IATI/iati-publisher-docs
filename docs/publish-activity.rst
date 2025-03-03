@@ -43,7 +43,8 @@ You will see a warning message if any of the activities you are trying to publis
 
 You can cancel publishing at this point to go back and review your activities. Ensuring core elements are complete will help avoid errors at the next validation step.
 
-*Data validation*
+**Data validation**
+
 If you continue to publish, your activity data is checked next using the IATI Validator. This assesses data based on the rules and guidance of the IATI Standard, to make sure it is accessible and useful to data users. 
 
 Activities with validation issues are labelled in a list: 
@@ -71,7 +72,8 @@ If you return to the publication process after having made changes to one of you
     :align: center
     :alt: Revalidating an activity after making changes.
 
-*Data publication*
+**Data publication**
+
 If no errors are found during the validation step, IATI Publisher will continue to publish your activities. 
 
 You’ll see a confirmation screen once publication has completed: 
