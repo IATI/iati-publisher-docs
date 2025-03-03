@@ -60,6 +60,7 @@ IATI Publisher was first launched in December 2022. It is managed by the IATI Se
    :caption: Activity Data
 
    basic-activity-data
+   publish-activity
    financials
    results
    bulk-import
