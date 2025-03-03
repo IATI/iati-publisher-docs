@@ -29,3 +29,10 @@ Click on each data element in the left hand menu of the activity page to add you
 Mandatory fields are marked with a red asterisk (*) and are displayed towards the top of IATI Publisher’s data entry forms. These fields should always be populated to avoid errors in your published data. 
 
 Optional fields are displayed in collapsed format towards the bottom of data entry forms. Use the arrow icons to expand and collapse these sections as needed.
+
+.. figure:: images/data-form.png
+    :width: 100 %
+    :align: center
+    :alt: An example data entry form with mandatory fields highlighted at the top.
+
+    Figure 2: An example data entry form with mandatory fields highlighted at the top.

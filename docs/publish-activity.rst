@@ -1,43 +1,101 @@
 ###################
-Basic activity data
+Publish an activity
 ###################
 
-The IATI data standard includes two types of data file - organisation and activity. The activity file includes information on the activities that your organisation carries out, such as your projects or humanitarian interventions. The IATI Standard includes data fields on what the activity is, where it is taking place, which organisations are involved and how it is financed.
+Activities can be published from the listing page, or from an individual activity's detail page. 
 
-Creating a new activity
---------------------------------
-Most users will create activities manually in the interface, by entering information about the activity in IATI Publisher's data entry forms. If you want to add multiple activities at once, see the section on `bulk importing <https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_.
+*Publishing multiple activities from the activity listing page:*
 
-
-Core elements
--------------
-The IATI data elements that you can complete for an activity are listed on the left hand side of the activity page (Figure 1). Some are labelled “core” and have a yellow ring symbol.
-
-It is recommended that you complete “core” elements. They are either mandatory according to the IATI Standard or required by most `donor governments’ publishing requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_.
-
-Other elements are optional. You are still encouraged to populate as many optional fields as you can, however, as this makes your data more useful to IATI's data users. 
-
-.. figure:: images/activity_element_list.png
+.. figure:: images/publish-activity-list.png
     :width: 100 %
     :align: center
-    :alt: IATI data elements that can be populated for an activity
+    :alt: Publishing multiple activities from the activity list.
 
-    Figure 1: The IATI data elements that can be populated for an activity.
+    Figure 1: Publishing multiple activities from the activity list.
 
+*Publishing a single activity from the activity detail page:*
 
-Editing an activity
+.. figure:: images/publish-activity-detail.png
+    :width: 100 %
+    :align: center
+    :alt: Publishing a single activity from the activity detail page.
+
+    Figure 2: Publishing a single activity from its activity detail page.
+
+If the activity has been edited since it was first published, you will see the option to 'Republish'. Republishing is necessary to update your public data.
+
+Publishing workflow
 -------------------
-Click on each data element in the left hand menu of the activity page to add your data.
 
-Mandatory fields are marked with a red asterisk (*) and are displayed towards the top of IATI Publisher’s data entry forms. These fields should always be populated to avoid errors in your published data. 
+**Checking core elements**
 
-Optional fields are displayed in collapsed format towards the bottom of data entry forms. Use the arrow icons to expand and collapse these sections as needed.
+After clicking to publish an activity, IATI Publisher will check first for 'core element' completeness. It is recommended that you populate core elements based on IATI Standard rules and most donor governments’ publishing requirements. 
 
+Core elements are labelled with yellow rings in the IATI Publisher interface:
 
-Publishing activity data
-------------------------
-Activities can be published in bulk from the activity list page or individually from the activity detail page. If the activity has been edited since it was published, you will see the option to “Republish”. Republishing is necessary to update your public data.
+.. figure:: images/publish-core.png
+    :width: 60 %
+    :align: center
+    :alt: Displaying core (recommended) elements to populate for your activity.
 
+    Figure 3: Core (recommended) elements to populate for your activity.
+
+You will see a warning message if any of the activities you are trying to publish are missing core elements:
+
+.. figure:: images/publish-core-missing.png
+    :width: 90 %
+    :align: center
+    :alt: Warning message about some core elements being missing.
+
+    Figure 4: Warning message about some core elements being missing.
+
+You can cancel publishing at this point to go back and review your activities. Ensuring core elements are complete will help avoid errors at the next validation step.
+
+*Data validation*
+If you continue to publish, your activity data is checked next using the IATI Validator. This assesses data based on the rules and guidance of the IATI Standard, to make sure it is accessible and useful to data users. 
+
+Activities with validation issues are labelled in a list: 
+
+.. figure:: images/publish-error-feedback.png
+    :width: 90 %
+    :align: center
+    :alt: Feedback displayed on validation errors before publication.
+
+    Figure 5: Feedback displayed on validation errors before publication.
+
+Click on 'Open in new tab' to view your activity. On the activity detail page, expanding the text box in the top right will display information on the validation errors: 
+
+.. figure:: images/publish-error-detail.png
+    :width: 100 %
+    :align: center
+    :alt: Display of more detail on the validation error(s).
+
+    Figure 6: More detail displayed on the validation error(s).
+
+You can often click on each error to be taken to the relevant data entry form in IATI Publisher where a correction is needed.
+
+There are different levels of severity for validation errors. Importantly, you will not be able to publish any activity that has critical errors. Critical errors usually prevent your activity from being publicly visible in IATI’s tools, so it is important to correct these before publication.
+
+If you return to the publication process after having made changes to one of your activities, you will be prompted to revalidate (i.e. recheck) your data before continuing:
+
+.. figure:: images/publish-changes-detected.png
+    :width: 90 %
+    :align: center
+    :alt: Revalidating an activity after making changes.
+
+    Figure 7: Revalidating an activity after making changes.
+
+*Data publication*
+If no errors are found during the validation step, IATI Publisher will continue to publish your activities. 
+
+You’ll see a confirmation screen once publication has completed: 
+
+.. figure:: images/publish-completed.png
+    :width: 90 %
+    :align: center
+    :alt: Confirmation that your activity data has been published.
+
+    Figure 8: Confirmation that your activity data has been published.
 
 Unpublishing activity data
 --------------------------
@@ -46,4 +104,3 @@ Once published, IATI activities should remain public even after they have finish
 In some cases, however, activity data needs to be removed from public view. To do this, you can 'unpublish' your activity in IATI Publisher.
 
 To delete an activity from the IATI Publisher interface, select its checkbox in the activity list then click on the trash can icon next to 'Add Activity'. Deleting permanently removes the activity from IATI Publisher. You will be asked to unpublish the activity first, if applicable.
-
