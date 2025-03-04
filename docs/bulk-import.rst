@@ -33,4 +33,9 @@ Once you have uploaded your data, IATI Publisher will list the activities ready 
 
 Critical errors prevent the activity from being imported, whereas other errors will not prevent import. It is usually easier to fix errors in your data file before importing, rather than after in the interface.
 
+.. toctree::
+    :hidden:
+    :titlesonly:
+    :maxdepth: 3
 
+    import-transactions
