@@ -1,49 +1,41 @@
 ###################
-Basic activity data
+How do I import transactions in bulk?
 ###################
 
-The IATI data standard includes two types of data file - organisation and activity. The activity file includes information on the activities that your organisation carries out, such as your projects or humanitarian interventions. The IATI Standard includes data fields on what the activity is, where it is taking place, which organisations are involved and how it is financed.
+You can use IATI Publisher's bulk import functionality to add or edit transactions for your existing activities. This involves exporting your existing activity data first and selecting which file format you want to work with (CSV or XLS).
 
-Creating a new activity
---------------------------------
-Most users will create activities manually in the interface, by entering information about the activity in IATI Publisher's data entry forms. If you want to add multiple activities at once, see the section on `bulk importing <https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_.
+Importing via CSV
+-----------------
 
+1. On the activity listing page, select the activity (or activities) that you want to upload transactions for. 
+2. Click the download icon to the left of the 'Publish Selected' button, then select "Download CSV" from the drop-down menu.
 
-Core elements
--------------
-The IATI data elements that you can complete for an activity are listed on the left hand side of the activity page (Figure 1). Some are labelled “core” and have a yellow ring symbol.
-
-It is recommended that you complete “core” elements. They are either mandatory according to the IATI Standard or required by most `donor governments’ publishing requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_.
-
-Other elements are optional. You are still encouraged to populate as many optional fields as you can, however, as this makes your data more useful to IATI's data users. 
-
-.. figure:: images/activity_element_list.png
+.. figure:: images/activity_selection.png
     :width: 100 %
     :align: center
-    :alt: IATI data elements that can be populated for an activity
+    :alt: Selecting activities to export from the activity list.
 
-    Figure 1: The IATI data elements that can be populated for an activity.
+    Figure 1: Selecting activities to export from the activity list.
 
+3. In the downloaded CSV file, locate column AH to find the columns containing your activity transaction data.
 
-Editing an activity
--------------------
-Click on each data element in the left hand menu of the activity page to add your data.
+.. figure:: images/transaction-csv.png
+    :width: 100 %
+    :align: center
+    :alt: Columns containing transaction data in the exported CSV file.
 
-Mandatory fields are marked with a red asterisk (*) and are displayed towards the top of IATI Publisher’s data entry forms. These fields should always be populated to avoid errors in your published data. 
+    Figure 2: Columns containing transaction data in the exported CSV file.
 
-Optional fields are displayed in collapsed format towards the bottom of data entry forms. Use the arrow icons to expand and collapse these sections as needed.
+4. Add new transaction data on this sheet (1 row per transaction). This data will overwrite any existing transaction data in IATI Publisher, so make sure that you do not remove existing rows that you want to keep. Save the CSV file when finished.
 
+5. Re-upload the CSV file to IATI Publisher by going to 'Add/Import Activity' from the main menu, then 'Import Activities from .CSV/.XML'.
+​
+6. Your activity data will be checked before upload and any validation errors will be listed. You will have the chance to confirm the activities that you want to add or update on the 'Import Activity' page.
 
-Publishing activity data
-------------------------
-Activities can be published in bulk from the activity list page or individually from the activity detail page. If the activity has been edited since it was published, you will see the option to “Republish”. Republishing is necessary to update your public data.
+.. figure:: images/upload-existing-activity.png
+    :width: 100 %
+    :align: center
+    :alt: The 'Import Activity' screen allows you to confirm which activities you want to add or update.
 
-
-Unpublishing activity data
---------------------------
-Once published, IATI activities should remain public even after they have finished. You can update and republish your activity data as often as needed, for example to update budgets or end dates.
-
-In some cases, however, activity data needs to be removed from public view. To do this, you can 'unpublish' your activity in IATI Publisher.
-
-To delete an activity from the IATI Publisher interface, select its checkbox in the activity list then click on the trash can icon next to 'Add Activity'. Deleting permanently removes the activity from IATI Publisher. You will be asked to unpublish the activity first, if applicable.
+    Figure 3: The 'Import Activity' screen allows you to confirm which activities you want to add or update.
 
