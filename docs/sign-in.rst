@@ -6,7 +6,7 @@ Sign in to IATI Publisher with the email address and password that you entered d
 
 You will have received a verification email after registering. Use the link in this email to activate your new account, which is required before you can publish data. 
 
-When you first sign in, you will see 'Get Started' guidance on screen, which will walk you through remaining setup steps (Figure 1). Select 'Don’t show me this again' in the bottom left-hand corner of the guidance box to stop it appearing when you sign in. You can re-access it from your profile menu if needed.
+When you first sign in, you will see 'Get Started' guidance on screen, which will walk you through remaining setup steps (Figure 1). Select 'Don’t show me this again' in the bottom-left corner of the guidance box to stop it appearing when you sign in. You can re-access it from your profile menu if needed.
 
 .. figure:: images/get_started_guidance.png
     :width: 100 %
