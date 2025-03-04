@@ -4,19 +4,8 @@ How do I import transactions in bulk?
 
 You can use IATI Publisher's bulk import functionality to add or edit transactions for your existing activities. This involves exporting your existing activity data first and selecting which file format you want to work with (CSV or XLS).
 
-`Importing via CSV <https://docs.publisher.iatistandard.org/en/latest/import-transactions/#importing-via-csv>`_
-
-`Importing via CSV <https://docs.publisher.iatistandard.org/en/latest/import-transactions/#importing-via-csv>`_
-
-In both cases, the columns listed below are mandatory to complete. Other transaction information is encouraged, but optional.
-
-**Mandatory to complete:**
-
-- Transaction Type
-- Transaction Date
-- Transaction Value
-- Transaction Value Data
-
+- `Importing via CSV <https://docs.publisher.iatistandard.org/en/latest/import-transactions/#importing-via-csv>`_
+- `Importing via XLS <https://docs.publisher.iatistandard.org/en/latest/import-transactions/#importing-via-xls>`_
 
 Importing via CSV
 -----------------
@@ -58,7 +47,7 @@ Importing via XLS
 
 5. Locate the 'Transaction' sheet within the workbook. Add new transaction data on this sheet, ensuring one row per transaction. Data on this sheet will overwrite any existing transaction data in IATI Publisher, so make sure that you do not remove rows that you want to keep. Save the XLS file when finished.
 
-.. figure:: images/transaction-xls.png
+.. figure:: images/transaction-xlsx.png
     :width: 100 %
     :align: center
     :alt: A screenshot of the Transactions sheet within the XLS template.
