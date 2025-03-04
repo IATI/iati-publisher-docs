@@ -33,6 +33,13 @@ Once you have uploaded your data, IATI Publisher will list the activities ready 
 
 Critical errors prevent the activity from being imported, whereas other errors will not prevent import. It is usually easier to fix errors in your data file before importing, rather than after in the interface.
 
+You will have the chance to confirm the activities that you want to add or overwrite on the 'Import Activity' page:
+
+.. figure:: images/upload-existing-activity.png
+    :width: 100 %
+    :align: center
+    :alt: The 'Import Activity' screen allows you to confirm which activities you want to add or update.
+
 .. toctree::
     :hidden:
     :titlesonly:
