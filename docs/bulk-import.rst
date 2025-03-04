@@ -6,6 +6,8 @@ IATI Publisher allows you to import and export activity data in three file forma
 
 For importing via CSV or XLS, it is normally easiest to export your activity data first, make edits to the activity file, then re-import the data.
 
+**Example:** `How do I upload transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_
+
 .. caution::
 
    IATI Publisher will overwrite your data in the interface if you upload data for an existing activity. Activity identifiers are checked on import to assess whether the activity is new or existing, and you will have the option to review this on a summary screen prior to import. Be careful to avoid data loss caused by this overwriting.
