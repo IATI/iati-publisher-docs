@@ -136,8 +136,13 @@ html_css_files = [
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the    
 # documentation.
-#
-# html_theme_options = {}
+html_theme_options = {
+    "github_repository": "https://github.com/IATI/iati-publisher-docs",
+    "header_title_text": "IATI Publisher",
+    "languages": ["en"],
+    "tool_name": "IATI Publisher",
+    "tool_url": "https://publisher.iatistandard.org/",
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 # html_theme_path = []
