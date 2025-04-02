@@ -4,7 +4,9 @@ Bulk data import
 
 IATI Publisher allows you to import and export activity data in three file formats (XML, CSV and XLSX). This functionality can be useful if you want to import multiple activities, transactions, budgets or results in one go.
 
-For importing via CSV or XLSX, it is normally easiest to export your activity data first, make edits to the activity file, then re-import the data.
+All three file formats require complete activities to be uploaded (i.e. activities that include all mandatory elements according to the IATI Standard). 
+
+New activities will be added to your list of activities in IATI Publisher. Existing activities (based on the activity identifier) will be overwritten.
 
 **Example:** `How do I upload transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_
 
@@ -14,7 +16,7 @@ For importing via CSV or XLSX, it is normally easiest to export your activity da
 
 Exporting your existing data
 ================
-As IATI Publisher's import functionality requires complete activities to be uploaded, it is normally easiest to create your activities in the IATI Publisher interface, then export them to have basic activity data pre-populated. Your data will be exported in the correct template format, which makes it easier to add to and re-upload without errors.
+As IATI Publisher's import functionality requires complete activities to be uploaded, it is normally easiest to export your activity data first, edit the exported data file, then re-import it. This means creating your activities manually in the IATI Publisher interface first. When you then export them, you will be able to add to or edit pre-populated activity data in your data template. This makes it easier to add to your activity data and re-upload the template without errors.
 
 1. On the activity listing page, select the activity (or activities) that you want to edit or add data to. 
 2. Click the download icon to the left of the 'Publish Selected' button.
@@ -38,7 +40,7 @@ This will download a zipped (compressed) folder containing IATI Publisher's four
 
 Adding data
 ================
-Make changes to your activity data while avoiding deleting columns in the import templates, or renaming sheets.
+Make changes to your activity data making sure to avoid deleting columns in the import templates, or renaming sheets.
 
 See `How do I upload transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_ as an example.
 
@@ -52,10 +54,6 @@ You can access the data import pages from 'Add or Import Activity' in IATI Publi
     :width: 100 %
     :align: center
     :alt: A screenshot of the dropdown header menu, which allows the user to select whether they want to add activity data manually, via XML/CSV, or via XLSX file.
-
-All three file formats require complete activities to be uploaded (i.e. activities that include all mandatory elements according to the IATI Standard). 
-
-New activities will be added to your list of activities in IATI Publisher. Existing activities (based on the activity identifier) will be overwritten.
 
 Import via XML
 """"""""""""""""""
