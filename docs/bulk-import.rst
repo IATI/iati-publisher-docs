@@ -2,15 +2,46 @@
 Bulk data import
 ###################
 
-IATI Publisher allows you to import and export activity data in three file formats (XML, CSV and XLS). This functionality can be useful if you want to import multiple activities, transactions, budgets or results in one go.
+IATI Publisher allows you to import and export activity data in three file formats (XML, CSV and XLSX). This functionality can be useful if you want to import multiple activities, transactions, budgets or results in one go.
 
-For importing via CSV or XLS, it is normally easiest to export your activity data first, make edits to the activity file, then re-import the data.
+For importing via CSV or XLSX, it is normally easiest to export your activity data first, make edits to the activity file, then re-import the data.
 
 **Example:** `How do I upload transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_
 
 .. caution::
 
-   IATI Publisher will overwrite your data in the interface if you upload data for an existing activity. Activity identifiers are checked during import to assess whether you are importing a new or updating an existing activity. You will have the option to review this on a summary screen prior to import. Be careful to avoid data loss when your existing activities are overwritten.
+   IATI Publisher will overwrite your data in the interface if you upload data for an existing activity. Activity identifiers are checked during import to assess whether you are importing a new or updating an existing activity. You will have the option to review this on a summary screen prior to import. Be careful to avoid data loss when overwriting your existing activities.
+
+Exporting your existing data
+================
+As IATI Publisher's import functionality requires complete activities to be uploaded, it is normally easiest to create your activities in the IATI Publisher interface, then export them to have basic activity data pre-populated. Your data will be exported in the correct template format, which makes it easier to add to and re-upload without errors.
+
+1. On the activity listing page, select the activity (or activities) that you want to edit or add data to. 
+2. Click the download icon to the left of the 'Publish Selected' button.
+3. Select which file format you want to work with from the drop-down menu:
+
+.. figure:: images/export-activity-data.png
+    :width: 100 %
+    :align: center
+    :alt: Selecting activities to export data for from the activity listing page.
+
+If you choose XML or CSV, your data file will be prepared in the background and automatically downloaded (this could take up to a few minutes).
+
+If you choose XLSX files, IATI Publisher will show a progress bar as your data files are prepared. You will need to click 'Download' in the bottom-right task box when prompted:
+
+.. figure:: images/download-ready.png
+    :width: 100 %
+    :align: center
+    :alt: Clicking the bottom-right 'Download' button when the XLS files have finished being prepared.
+
+This will download a zipped (compressed) folder containing IATI Publisher's four XLSX templates.
+
+Adding data
+================
+Make changes to your activity data while avoiding deleting columns in the import templates, or renaming sheets.
+
+See `How do I upload transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_ as an example.
+
 
 Importing your data file
 ================
@@ -41,15 +72,14 @@ You can download the IATI Publisher CSV template from the `CSV/XML data import p
 
 Import via XLSX
 """"""""""""""""""
-You can find templates and further guidance for XLSX file imports on the `XLSX import page <https://publisher.iatistandard.org/import/xls>`_.
+There are four templates available on the `XLSX import page <https://publisher.iatistandard.org/import/xls>`_:
 
-There are four templates available:
 1. Basic Activity Data
 2. Results
 3. Indicators
 4. Periods
 
-If you are not publishing results data, you will only need to use the 'Basic Activity Data' template.
+If you are not publishing results data, you only need to use the 'Basic Activity Data' template.
 
 
 Pre-import checks
