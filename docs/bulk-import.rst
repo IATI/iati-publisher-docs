@@ -4,11 +4,9 @@ Bulk data import
 
 IATI Publisher allows you to import and export activity data in three file formats (XML, CSV and XLSX). This functionality can be useful if you want to import multiple activities, transactions, budgets or results in one go.
 
-All three file formats require complete activities to be uploaded (i.e. activities that include all mandatory elements according to the IATI Standard). 
+All three file formats require complete activities to be uploaded (i.e. activities that include all mandatory elements according to the IATI Standard). New activities will be added to your list of activities in IATI Publisher. Existing activities (based on the activity identifier) will be overwritten. 
 
-New activities will be added to your list of activities in IATI Publisher. Existing activities (based on the activity identifier) will be overwritten. 
-
-While it is possible to add new activities by bulk import, we normally recommend that activities are created manually in the IATI Publisher interface, with basic information entered first. The interface makes it clear which data elements are recommended vs. optional for a new activity. It is typically easier to add to exported data, rather than populating blank copies of IATI Publisher's import templates.  
+While it is possible to add new activities by bulk import, we normally recommend that activities are created manually in the IATI Publisher interface, with basic information entered first. The interface makes it clear which data elements are recommended vs. optional for a new activity.
 
 **Example:** `How do I upload transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_
 
