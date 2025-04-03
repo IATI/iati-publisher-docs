@@ -6,17 +6,19 @@ IATI Publisher allows you to import and export activity data in three file forma
 
 All three file formats require complete activities to be uploaded (i.e. activities that include all mandatory elements according to the IATI Standard). 
 
-New activities will be added to your list of activities in IATI Publisher. Existing activities (based on the activity identifier) will be overwritten.
+New activities will be added to your list of activities in IATI Publisher. Existing activities (based on the activity identifier) will be overwritten. 
+
+While it is possible to add new activities by bulk import, we normally recommend that activities are created manually in the IATI Publisher interface, with basic information entered first. The interface makes it clear which data elements are recommended vs. optional for a new activity. It is typically easier to add to exported data, rather than populating blank copies of IATI Publisher's import templates.  
 
 **Example:** `How do I upload transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_
 
 .. caution::
 
-   IATI Publisher will overwrite your data in the interface if you upload data for an existing activity. Activity identifiers are checked during import to assess whether you are importing a new or updating an existing activity. You will have the option to review this on a summary screen prior to import. Be careful to avoid data loss when overwriting your existing activities.
+   IATI Publisher will overwrite your data in the interface if you upload data for an existing activity. Activity identifiers are checked during import to assess whether you are importing a new activity, or updating an existing one. Be careful to avoid losing data when overwriting existing activities.
 
 Exporting your existing data
 ================
-As IATI Publisher's import functionality requires complete activities to be uploaded, it is normally easiest to export your activity data first, edit the exported data file, then re-import it. This means creating your activities manually in the IATI Publisher interface first. When you then export them, you will be able to add to or edit pre-populated activity data in your data template. This makes it easier to add to your activity data and re-upload the template without errors.
+As IATI Publisher's import functionality requires complete activities to be uploaded, if you are updating an existing activity, you will need to export the data you have entered for it in the interface first. 
 
 1. On the activity listing page, select the activity (or activities) that you want to edit or add data to. 
 2. Click the download icon to the left of the 'Publish Selected' button.
@@ -40,7 +42,7 @@ This will download a zipped (compressed) folder containing IATI Publisher's four
 
 Adding data
 ================
-Make changes to your activity data making sure to avoid deleting columns in the import templates, or renaming sheets.
+Once you have exported your activity data, you can edit or add to the exported file as needed, then re-import it to update your activity. Avoid changing the template structure in any way - e.g. by deleting columns or renaming sheets.
 
 See `How do I upload transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_ as an example.
 
@@ -62,7 +64,7 @@ XML is the file format used by the IATI Standard. IATI Publisher creates and sto
 
 Import via CSV
 """"""""""""""""""
-You can download the IATI Publisher CSV template from the `CSV/XML data import page <https://publisher.iatistandard.org/import>`_. This template contains a wide range of IATI Standard fields and it is not necessary to populate everything. Refer to IATI Standard guidance on how to interpret the fields. 
+You can download the IATI Publisher CSV template from the `CSV/XML data import page <https://publisher.iatistandard.org/import>`_. This template contains a wide range of IATI Standard fields and it is not necessary to populate everything. Refer to `IATI Standard guidance <https://iatistandard.org/en/iati-standard/203/activity-standard>`_ on how to interpret the fields. 
 
 .. note:: 
    It is not possible to upload results, indicators or periods for your activities via the CSV import. Use the XLSX import functionality instead.
