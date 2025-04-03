@@ -10,7 +10,7 @@ You can use IATI Publisher's bulk import functionality to add or edit transactio
 Importing via CSV
 -----------------
 
-1. Follow the instructions for `exporting your activity data in CSV format <https://iati-iati-publisher-docs--6.com.readthedocs.build/en/6/bulk-import/#exporting-your-existing-data>`_. 
+1. Follow the instructions for `exporting your activity data in CSV format <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_. 
 
 2. In the downloaded CSV file, locate columns AH to BB to view your activity transaction data:
 
@@ -27,7 +27,7 @@ Importing via CSV
 Importing via XLSX
 -----------------
 
-1. Follow the instructions for `exporting your activity data in XLSX format <https://iati-iati-publisher-docs--6.com.readthedocs.build/en/6/bulk-import/#exporting-your-existing-data>`_. 
+1. Follow the instructions for `exporting your activity data in XLSX format <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_. 
 
 2. Wait for the download to be prepared, then click 'Download' in the bottom-right task box when ready:
 
