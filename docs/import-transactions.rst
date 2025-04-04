@@ -49,5 +49,11 @@ Importing via XLSX
 
 5. Go to 'Add or Import Activity' from IATI Publisher's header menu, then select 'Import Activities from .XLSX'.
 
-6. On the 'Import Activities from .XLSX' page, select that you want to import "Basic Activity Elements", then upload your file. Your data will be checked and validation feedback given prior to import.
+6. On the 'Import Activities from .XLSX' page, select that you want to import "Basic Activity Elements", then upload your file:
 
+.. figure:: images/upload-activity-xlsx-file.png
+    :width: 100 %
+    :align: center
+    :alt: A screenshot of the XLSX import page with "basic activity elements" selected as the import option and a file chosen for upload.
+
+Your data will be checked and validation feedback given prior to import.
