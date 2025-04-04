@@ -19,9 +19,11 @@ Importing via CSV
     :align: center
     :alt: Columns containing transaction data in the exported CSV file.
 
-3. Add new transaction data on this sheet (one row per transaction). Data on this sheet will overwrite any existing transaction data in IATI Publisher, so make sure that you do not remove rows that you want to keep. Save the CSV file when finished.
+3. Add new transaction data on this sheet (one row per transaction). Data on this sheet will overwrite any existing transaction data in IATI Publisher, so make sure that you do not remove rows that you want to keep. Refer to the `transaction type codelist <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_ to understand the different numerical codes you can enter in this column. Save the CSV file when finished.
 
-4. Re-upload the CSV file to IATI Publisher by going to 'Add/Import Activity' from the main menu, then 'Import Activities from .CSV/.XML'.
+5. Go to 'Add or Import Activity' from IATI Publisher's header menu, then select 'Import Activities from .CSV/.XML'.
+
+6. Choose your file and click "Upload file". Your data will be checked and validation feedback given prior to import.
 
 
 Importing via XLSX
@@ -45,5 +47,7 @@ Importing via XLSX
     :align: center
     :alt: A screenshot of the Transactions sheet within the XLSX template.
 
-5. Re-upload the activity data to IATI Publisher by going to 'Add or Import Activity' from the main menu, then 'Import Activities from .XLSX'.
+5. Go to 'Add or Import Activity' from IATI Publisher's header menu, then select 'Import Activities from .XLSX'.
+
+6. On the 'Import Activities from .XLSX' page, select that you want to import "Basic Activity Elements", then upload your file. Your data will be checked and validation feedback given prior to import.
 
