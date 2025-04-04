@@ -19,9 +19,11 @@ Importing via CSV
     :align: center
     :alt: Columns containing transaction data in the exported CSV file.
 
-3. Add new transaction data on this sheet (one row per transaction). Data on this sheet will overwrite any existing transaction data in IATI Publisher, so make sure that you do not remove rows that you want to keep. Save the CSV file when finished.
+3. Add new transaction data on this sheet (one row per transaction). Data on this sheet will overwrite any existing transaction data in IATI Publisher, so make sure that you do not remove rows that you want to keep. Refer to the `transaction type codelist <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_ to understand the different numerical codes you can enter in this column. 
 
-4. Re-upload the CSV file to IATI Publisher by going to 'Add/Import Activity' from the main menu, then 'Import Activities from .CSV/.XML'.
+4. Go to 'Add or Import Activity' from IATI Publisher's header menu, then select 'Import Activities from .CSV/.XML'.
+
+5. Upload your edited CSV file. Your data will be checked and validation feedback given after you click "Upload file".
 
 
 Importing via XLSX
@@ -45,5 +47,13 @@ Importing via XLSX
     :align: center
     :alt: A screenshot of the Transactions sheet within the XLSX template.
 
-5. Re-upload the activity data to IATI Publisher by going to 'Add or Import Activity' from the main menu, then 'Import Activities from .XLSX'.
+5. Go to 'Add or Import Activity' from IATI Publisher's header menu, then select 'Import Activities from .XLSX'.
 
+6. On the 'Import Activities from .XLSX' page, select that you want to import "Basic Activity Elements", then upload your edited XLSX file:
+
+.. figure:: images/upload-activity-xlsx-file.png
+    :width: 100 %
+    :align: center
+    :alt: A screenshot of the XLSX import page with "basic activity elements" selected as the import option and a file chosen for upload.
+
+Your data will be checked and validation feedback given after you click "Upload file".
