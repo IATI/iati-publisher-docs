@@ -89,9 +89,9 @@ You will have the chance to confirm the activities that you want to add or overw
     :alt: The 'Import Activity' screen allows you to confirm which activities you want to add or update.
 
 .. toctree::
-    :hidden:
-    :titlesonly:
-    :maxdepth: 3
+   :hidden:
+   :titlesonly:
+   :maxdepth: 3
 
-   which-template    
+   which-template
    import-transactions
