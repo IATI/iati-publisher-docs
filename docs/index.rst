@@ -26,7 +26,7 @@ IATI Publisher was first launched in December 2022. It is managed by the IATI Se
 .. toctree::
    :hidden:
    :titlesonly:
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Home
 
    About <self>
@@ -36,7 +36,7 @@ IATI Publisher was first launched in December 2022. It is managed by the IATI Se
 .. toctree::
    :hidden:
    :titlesonly:
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Settings
 
    publishing-settings
@@ -47,7 +47,7 @@ IATI Publisher was first launched in December 2022. It is managed by the IATI Se
 .. toctree::
    :hidden:
    :titlesonly:
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Organisation Data
 
    organisation-data
@@ -55,7 +55,7 @@ IATI Publisher was first launched in December 2022. It is managed by the IATI Se
 .. toctree::
    :hidden:
    :titlesonly:
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Activity Data
 
    basic-activity-data

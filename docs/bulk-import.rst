@@ -8,7 +8,7 @@ All three file formats require complete activities to be uploaded (i.e. activiti
 
 While it is possible to add new activities by bulk import, we normally recommend that activities are created manually in the IATI Publisher interface, with basic information entered first. The interface makes it clear which data elements are recommended vs. optional for a new activity.
 
-**Example:** `How do I upload transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_
+**Example:** `How do I import transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_
 
 .. caution::
 
@@ -89,9 +89,9 @@ You will have the chance to confirm the activities that you want to add or overw
     :alt: The 'Import Activity' screen allows you to confirm which activities you want to add or update.
 
 .. toctree::
-    :hidden:
-    :titlesonly:
-    :maxdepth: 3
+   :hidden:
+   :titlesonly:
+   :maxdepth: 3
 
-   which-template    
+   which-template
    import-transactions
