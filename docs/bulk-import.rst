@@ -70,14 +70,9 @@ You can download the IATI Publisher CSV template from the `CSV/XML data import p
 
 Import via XLSX
 """"""""""""""""""
-There are four templates available on the `XLSX import page <https://publisher.iatistandard.org/import/xls>`_:
+There are four templates available on the `XLSX import page <https://publisher.iatistandard.org/import/xls>`_. These cover basic activity data, results, indicators and periods.
 
-1. Basic Activity Data
-2. Results
-3. Indicators
-4. Periods
-
-If you are not publishing results data, you only need to use the 'Basic Activity Data' template.
+See `Which import template should I use? <https://docs.publisher.iatistandard.org/en/latest/which-template/>`_ for help choosing the right template. If you are not publishing results data, you only need to use the 'Basic Activity Data' template. 
 
 
 Pre-import checks
@@ -98,4 +93,5 @@ You will have the chance to confirm the activities that you want to add or overw
     :titlesonly:
     :maxdepth: 3
 
-    import-transactions
+   which-template    
+   import-transactions

@@ -23,7 +23,7 @@ Importing via CSV
 
 4. Go to 'Add or Import Activity' from IATI Publisher's header menu, then select 'Import Activities from .CSV/.XML'.
 
-5. Upload your edited CSV file. Your data will be checked and validation feedback given after you click "Upload file".
+5. Upload your edited CSV file. Your `data will be checked <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#pre-import-checks>`_ and validation feedback given after you click "Upload file".
 
 
 Importing via XLSX
@@ -49,11 +49,9 @@ Importing via XLSX
 
 5. Go to 'Add or Import Activity' from IATI Publisher's header menu, then select 'Import Activities from .XLSX'.
 
-6. On the 'Import Activities from .XLSX' page, select that you want to import "Basic Activity Elements", then upload your edited XLSX file:
+6. On the 'Import Activities from .XLSX' page, select that you want to import "Basic Activity Elements", then upload your edited XLSX file. Your `data will be checked <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#pre-import-checks>`_ and validation feedback given after you click "Upload file":
 
 .. figure:: images/upload-activity-xlsx-file.png
     :width: 100 %
     :align: center
     :alt: A screenshot of the XLSX import page with "basic activity elements" selected as the import option and a file chosen for upload.
-
-Your data will be checked and validation feedback given after you click "Upload file".
