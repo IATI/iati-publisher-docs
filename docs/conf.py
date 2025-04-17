@@ -56,7 +56,7 @@ source_suffix = ['.rst']
 master_doc = 'index'
 
 # General information about the project.
-project = 'IATI Publisher Docs'
+project = 'IATI Publisher: Documentation'
 copyright = '2024 United Nations Development Programme, on behalf of the IATI Secretariat'
 author = 'IATI Secretariat'
 
@@ -140,8 +140,9 @@ html_theme_options = {
     "github_repository": "https://github.com/IATI/iati-publisher-docs",
     "header_title_text": "IATI Publisher",
     "languages": ["en"],
-    "tool_name": "IATI Publisher",
-    "tool_url": "https://publisher.iatistandard.org/",
+    "tool_nav_items": {
+        "IATI Publisher": "https://publisher.iatistandard.org/"
+    },
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
