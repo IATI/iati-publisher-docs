@@ -140,6 +140,7 @@ html_theme_options = {
     "github_repository": "https://github.com/IATI/iati-publisher-docs",
     "header_title_text": "IATI Publisher",
     "languages": ["en"],
+    "project_title": "IATI Publisher: Documentation",
     "tool_nav_items": {
         "IATI Publisher": "https://publisher.iatistandard.org/"
     },
