@@ -95,3 +95,4 @@ You will have the chance to confirm the activities that you want to add or overw
 
    which-template
    import-transactions
+   results-import
