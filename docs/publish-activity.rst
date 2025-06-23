@@ -1,6 +1,6 @@
-###################
+######################
 Publishing an activity
-###################
+######################
 
 Activities can be published from the listing page, or from an individual activity's detail page. 
 

@@ -1,6 +1,6 @@
-###################
+##########
 Signing in
-###################
+##########
 
 Sign in to IATI Publisher with the email address and password that you entered during registration. You can reset your password if needed from `IATI Publisher's homepage <https://publisher.iatistandard.org/>`_.
 
@@ -16,7 +16,7 @@ When you first sign in, you will see 'Get Started' guidance on screen, which wil
     *Figure 1: 'Get Started' onboarding guidance to help your organisation get set up.*
 
 Adding other people from your organisation to IATI Publisher
-----------------------------------------
+------------------------------------------------------------
 If you are a new user from an organisation that is already using IATI Publisher, an admin user from your organisation can create an account for you. You can read more in the `Users section <https://docs.publisher.iatistandard.org/en/latest/users/>`_.
 
 .. admonition:: Getting help

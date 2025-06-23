@@ -1,6 +1,6 @@
-#######################################
+###################################
 Which import template should I use?
-#######################################
+###################################
 
 IATI Publisher has activity import templates in CSV and XLSX file format. If you are uploading results data (i.e. results, indicators and periods for existing activities), you will need to use the XLSX import. If you are uploading basic activity data, which can include budgets and transactions, you can choose between the CSV and XLSX imports.
 

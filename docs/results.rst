@@ -1,6 +1,6 @@
-###################
+#######
 Results
-###################
+#######
 
 Each result must have at least one indicator. This is a rule of the IATI Standard and should be followed to avoid errors in your published data.
 

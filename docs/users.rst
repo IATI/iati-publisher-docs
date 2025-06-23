@@ -1,6 +1,6 @@
-###################
+#####
 Users
-###################
+#####
 
 IATI Publisher's `Users page <https://publisher.iatistandard.org/users/>`_ lists all individuals in your organisation that have an account. Anyone with admin level permissions can add, edit or remove users from this page. 
 

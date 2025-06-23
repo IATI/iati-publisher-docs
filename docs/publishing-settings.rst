@@ -7,7 +7,7 @@ If you signed up via the 'My organisation is new to IATI' registration route, yo
 If your organisation was previously registered with IATI, you need to link your IATI Publisher account to your account on the IATI Registry by following the steps below.
 
 1) Generate an API token
----------------------------------------------------
+------------------------
 
 * Log in to the `IATI Registry <https://iatiregistry.org/publisher/>`_ (note - credentials for the IATI Registry are not the same as for IATI Publisher) 
 * Click "My Account” in the top-right, then on the tab 'API Tokens'

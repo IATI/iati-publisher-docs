@@ -1,6 +1,6 @@
-###################
+####################
 Creating an activity
-###################
+####################
 
 The IATI data standard includes two types of data file - organisation and activity. The activity file includes information on the activities that your organisation carries out, such as your projects or humanitarian interventions. The IATI Standard includes data fields on what the activity is, where it is taking place, which organisations are involved and how it is financed.
 
@@ -23,7 +23,7 @@ Other elements are optional. You are still encouraged to populate as many option
 
 
 Adding or editing activity information
--------------------
+--------------------------------------
 Click on each data element in the left hand menu of the activity page to add your data.
 
 Mandatory fields are marked with a red asterisk (*) and are displayed towards the top of IATI Publisher’s data entry forms. These fields should always be populated to avoid errors in your published data. 
