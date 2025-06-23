@@ -64,4 +64,10 @@ IATI Publisher was first launched in December 2022. It is managed by the IATI Se
    results
    bulk-import
 
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+   :caption: Download
+   :hidden:
 
+   PDF  <https://docs.publisher.iatistandard.org/_/downloads/en/latest/pdf/>
