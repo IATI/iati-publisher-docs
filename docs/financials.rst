@@ -1,6 +1,6 @@
-###################
+########################
 Budgets and transactions
-###################
+########################
 
 Budgets are for each financial quarter (or year) over the lifetime of an activity. They are useful to give recipient countries predictability of funding and to inform their planning.
 
@@ -23,7 +23,7 @@ You can add as many budgets as you need, noting that each budget period should b
     Figure 1: Viewing and editing budget information from the activity detail page.
 
 Adding transactions
-------------------------------------
+-------------------
 Locate "transaction" in the activity element menu, then select a transaction to edit or click 'Add Transaction' to create a new one (Figure 2).
 
 .. figure:: images/transactions.png

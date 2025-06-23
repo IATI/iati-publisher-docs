@@ -1,6 +1,6 @@
-###################
+###############
 Other resources 
-###################
+###############
 
 - An IATI Publisher demo video, and more information on other IATI tools, can be found on the `IATI website <https://iatistandard.org/en/iati-tools-and-resources/iati-publisher/>`_.
 

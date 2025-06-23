@@ -1,6 +1,6 @@
-******************
+**************
 IATI Publisher
-******************
+**************
 
 `IATI Publisher <https://publisher.iatistandard.org/>`_ is an online tool for organisations who want to publish data on their development and humanitarian activities according to the IATI Standard. It is free and managed by the IATI Secretariat.
 
@@ -20,7 +20,7 @@ Help & Support
 `Get in touch <https://iatistandard.org/en/contact/>`_ if you have any questions relating to publishing, using or improving IATI data. You can also find an active community of IATI publishers and users on our community platform `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_.
 
 Tool development
---------------
+----------------
 IATI Publisher was first launched in December 2022. It is managed by the IATI Secretariat and has been developed by `YoungInnovations <https://younginnovations.com.np/>`_.
 
 .. toctree::

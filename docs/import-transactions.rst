@@ -1,6 +1,6 @@
-###################
+#####################################
 How do I import transactions in bulk?
-###################
+#####################################
 
 You can use IATI Publisher's bulk import functionality to add or edit transactions for your existing activities. This involves exporting your existing activity data first and selecting which file format you want to work with (CSV or XLSX).
 
@@ -27,7 +27,7 @@ Importing via CSV
 
 
 Importing via XLSX
------------------
+------------------
 
 1. Follow the instructions for `exporting your activity data in XLSX format <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_. 
 
