@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../results.rst:3
+msgid "Results"
+msgstr "Résultats"
+
+#: ../../results.rst:5
+msgid "Each result must have at least one indicator. This is a rule of the IATI Standard and should be followed to avoid errors in your published data."
+msgstr "Chaque résultat doit être assorti dʼau moins un indicateur. Il s'agit d'une règle de la norme de lʼIITA qui doit être respectée pour éviter les erreurs dans les données publiées."
+
+#: ../../results.rst:7
+msgid "Periods can be added to indicators to record their target and actual values over time. Periods are not essential to add to your indicators before publishing for the first time. A result can have multiple indicators, and each indicator can have multiple periods."
+msgstr "Des périodes peuvent être ajoutées aux indicateurs pour enregistrer leurs valeurs cibles et réelles dans le temps. Il n'est pas indispensable d'ajouter des points à vos indicateurs avant de les publier pour la première fois. Un résultat peut être doré de plusieurs indicateurs et chaque indicateur peut comporter plusieurs périodes."
+
+#: ../../results.rst:9
+msgid "You can add indicators and periods from the activity detail page (Figure 1), or from the individual result page."
+msgstr "Vous pouvez ajouter des indicateurs et des périodes depuis la page descriptive de l'activité (figure 1) ou depuis la page des résultats individuels."
+
+#: ../../results.rst:11
+msgid "How to add a new indicator or period from the activity detail page."
+msgstr "Comment ajouter un nouvel indicateur ou une nouvelle période depuis la page descriptive de l'activité."
+
+#: ../../results.rst:16
+msgid "Figure 1: How to add a new indicator or period from the activity detail page."
+msgstr "Figure 1 : Comment ajouter un nouvel indicateur ou une nouvelle période depuis la page descriptive de l'activité."
+
+#: ../../results.rst:20
+msgid "Deleting results, indicators or periods"
+msgstr "Suppression de résultats, d'indicateurs ou de périodes"
+
+#: ../../results.rst:21
+msgid "Deleting a result in the interface will delete any indicators or periods associated with it."
+msgstr "La suppression d'un résultat dans l'interface entraîne la suppression des indicateurs et des périodes qui lui sont associés."
+
+#: ../../results.rst:23
+msgid "How to delete results from the Results List"
+msgstr "Comment supprimer des résultats de la liste des résultats"
+
+#: ../../results.rst:28
+msgid "Figure 2: How to delete results from the Results List."
+msgstr "Figure 2 : Comment supprimer des résultats de la liste des résultats."
+
+#: ../../results.rst:30
+msgid "To delete an indicator or period, click on 'Show full indicator list' or 'Show full period list' from the activity detail page, then locate the trash can icon next to the entry you want to delete."
+msgstr "Pour supprimer un indicateur ou une période, cliquez sur « Afficher la liste complète des indicateurs » ou « Afficher la liste complète des périodes » dans la page descriptive de l'activité, puis localisez l'icône de la corbeille à côté de l'entrée que vous souhaitez supprimer."

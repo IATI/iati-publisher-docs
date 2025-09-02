@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../which-template.rst:3
+msgid "Which import template should I use?"
+msgstr "Quel modèle d'importation dois-je utiliser ?"
+
+#: ../../which-template.rst:5
+msgid "IATI Publisher has activity import templates in CSV and XLSX file format. If you are uploading results data (i.e. results, indicators and periods for existing activities), you will need to use the XLSX import. If you are uploading basic activity data, which can include budgets and transactions, you can choose between the CSV and XLSX imports."
+msgstr "IATI Publisher propose des modèles d'importation d'activités aux formats CSV et XLSX. Si vous téléversez des données de résultats (c'est-à-dire des résultats, des indicateurs et des périodes pour des activités existantes), vous devrez utiliser l'importation de fichiers XLSX. Si vous téléversez des données d'activité de base, qui peuvent inclure des budgets et des transactions, vous pouvez choisir entre les importations de fichiers CSV et XLSX."
+
+#: ../../which-template.rst:8
+msgid "CSV template"
+msgstr "Modèle CSV"
+
+#: ../../which-template.rst:9
+msgid "IATI Publisher has a single CSV import template, which covers all elements of the IATI Standard for activities apart from `results <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/>`_."
+msgstr "IATI Publisher dispose d'un modèle d'importation CSV unique, qui couvre tous les éléments de la norme IITA pour les activités, à l'exception des `résultats <https://IITAstandard.org/en/IITA-standard/203/activity-standard/IITA-activities/IITA-activity/result/>`_."
+
+#: ../../which-template.rst:11
+msgid "This template is recommended if you:"
+msgstr "Ce modèle est recommandé si vous :"
+
+#: ../../which-template.rst:13
+msgid "want to work in a single flat file, rather than a workbook with multiple sheets"
+msgstr "souhaitez travailler dans un seul fichier plat, plutôt que dans un classeur à feuilles multiples ;"
+
+#: ../../which-template.rst:14
+msgid "don't need embedded codelists or dropdown menus to enter your data"
+msgstr "nʼavez pas besoin de listes de codes intégrées ou de menus déroulants pour saisir vos données"
+
+#: ../../which-template.rst:18
+msgid "XLSX templates"
+msgstr "Modèles XLSX"
+
+#: ../../which-template.rst:19
+msgid "There are four templates available on the `XLSX import page <https://publisher.iatistandard.org/import/xls>`_:"
+msgstr "Quatre modèles sont disponibles sur la `page d'importation via XLSX <https://publisher.IITAstandard.org/import/xls>`_ :"
+
+#: ../../which-template.rst:21
+msgid "Basic Activity Data - covers core and optional IATI data elements for activities, including transactions"
+msgstr "Données de base sur les activités – couvre les éléments de données essentiels et facultatifs de l'IITA concernant les activités, y compris les transactions"
+
+#: ../../which-template.rst:22
+msgid "Results - to import `results <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/>`_ for existing activities"
+msgstr "Résultats – pour importer des `résultats <https://IITAstandard.org/en/IITA-standard/203/activity-standard/IITA-activities/IITA-activity/result/>`_ pour des activités existantes"
+
+#: ../../which-template.rst:23
+msgid "Indicators - to import `indicators <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/indicator/>`_ for existing results"
+msgstr "Indicateurs – pour importer des `indicateurs <https://IITAstandard.org/en/IITA-standard/203/activity-standard/IITA-activities/IITA-activity/result/indicator/>`_ pour des résultats existants"
+
+#: ../../which-template.rst:24
+msgid "Periods - to import `periods <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/indicator/period/>`_ for existing indicators"
+msgstr "Périodes – pour importer des `périodes <https://IITAstandard.org/en/IITA-standard/203/activity-standard/IITA-activities/IITA-activity/result/indicator/period/>`_ pour des indicateurs existants"
+
+#: ../../which-template.rst:26
+msgid "These templates are recommended if you:"
+msgstr "Ces modèles sont recommandés si vous :"
+
+#: ../../which-template.rst:28
+msgid "prefer to work in a workbook that has multiple sheets (typically one per element of the IATI Standard)"
+msgstr "préférez travailler dans un classeur comportant plusieurs feuilles (typiquement une par élément de la norme de lʼIITA)"
+
+#: ../../which-template.rst:29
+msgid "find embedded codelists and dropdown menus helpful for entering your data"
+msgstr "trouvez les listes de codes intégrées et les menus déroulants utiles pour la saisie de vos données"
+
+#: ../../which-template.rst:30
+msgid "need help distinguishing between elements of the IATI Standard that require a single entry (e.g. activity status), versus those that accept multiple entries (e.g. budget)"
+msgstr "avez besoin d'aide pour faire la distinction entre les éléments de la norme de lʼIITA qui requièrent une seule entrée (par exemple, le statut de l'activité) et ceux qui admettent des entrées multiples (par exemple, le budget)"
+
+#: ../../which-template.rst:32
+msgid "Only one template can be uploaded at a time. It is normally recommended to `export existing activity data <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_ before adding to it via the import functionality."
+msgstr "Un seul modèle peut être téléversé à la fois. Il est normalement recommandé d'exporter les données d'activité existantes <https://docs.publisher.IITAstandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_ avant de les renseigner au moyen de la fonction d'importation."

@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../profile.rst:3
+msgid "Managing your profile"
+msgstr "Gestion de votre profil"
+
+#: ../../profile.rst:5
+msgid "While signed in to IATI Publisher, you can access your profile information via the user icon in the top-right corner of the screen. Click this, then select 'Your Profile' from the drop-down menu."
+msgstr "Lorsque vous êtes connecté à IATI Publisher, vous pouvez accéder à votre profil en cliquant sur l'icône de l'utilisateur dans le coin supérieur droit de l'écran. Cliquez sur ce lien, puis sélectionnez « Votre profil » dans le menu déroulant."
+
+#: ../../profile.rst:7
+msgid "A screenshot of where to find 'Your Profile' in IATI Publisher's user menu (while the user is signed in)"
+msgstr "Une capture d'écran de l'endroit où se trouve « Votre profil » dans le menu utilisateur d'IATI Publisher (lorsque l'utilisateur est connecté)"
+
+#: ../../profile.rst:12
+msgid "Figure 1: Accessing 'Your Profile' from IATI Publisher's top-right dropdown menu."
+msgstr "Figure 1 : Accéder à « Votre profil » depuis le menu déroulant en haut à droite d'IATI Publisher."
+
+#: ../../profile.rst:14
+msgid "You can edit the following on your profile page:"
+msgstr "Vous pouvez modifier les éléments suivants sur votre page de profil :"
+
+#: ../../profile.rst:16
+msgid "Name"
+msgstr "Nom"
+
+#: ../../profile.rst:17
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: ../../profile.rst:18
+msgid "Email address"
+msgstr "Adresse électronique"
+
+#: ../../profile.rst:19
+msgid "Language preference"
+msgstr "Préférence linguistique"
+
+#: ../../profile.rst:20
+msgid "Password"
+msgstr "Mot de passe"

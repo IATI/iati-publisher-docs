@@ -1,0 +1,28 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../resources.rst:3
+msgid "Other resources"
+msgstr "Otros recursos"
+
+#: ../../resources.rst:5
+msgid "An IATI Publisher demo video, and more information on other IATI tools, can be found on the `IATI website <https://iatistandard.org/en/iati-tools-and-resources/iati-publisher/>`_."
+msgstr "Puede encontrar un vídeo de demostración de IATI Publisher, así como más información sobre otras herramientas de la IATI, en el `sitio web de la IATI <https://iatistandard.org/en/iati-tools-and-resources/iati-publisher/>`_."
+
+#: ../../resources.rst:7
+msgid "A PDF version of this user documentation is available to download here: IATI Publisher user manual v.1.1"
+msgstr "Aquí puede descargar una versión en PDF de esta documentación de usuario: Manual del usuario de IATI Publisher v.1.1"

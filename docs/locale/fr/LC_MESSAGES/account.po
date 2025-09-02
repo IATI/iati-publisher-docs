@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-23 17:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../account.rst:3
+msgid "Creating an account"
+msgstr "Créer un compte"
+
+#: ../../account.rst:5
+msgid "How you sign up to IATI Publisher depends on whether your organisation has previously registered with IATI or not. You can find a list of organisations that have already registered and published data on the `IATI Registry`_."
+msgstr "La manière dont vous vous connectez à IATI Publisher dépend du fait que votre organisation sʼest déjà inscrite à lʼIITA ou non. Vous trouverez une liste des organisations qui se sont déjà inscrites et ont déjà publié des données dans le `Registre de lʼIITA`_."
+
+#: ../../account.rst:8
+msgid "If you have never registered with IATI, follow the instructions below for `Option A: My organisation is new to IATI <https://docs.publisher.iatistandard.org/en/latest/account/#id1>`_. Otherwise, refer to `Option B: My organisation has registered with IATI <https://docs.publisher.iatistandard.org/en/latest/account/#id2>`_."
+msgstr "Si vous nʼavez pas encore procédé à votre inscription à lʼIITA, suivez les instructions ci-dessous pour l'`Option A : Mon organisation est nouvelle au sein de lʼIITA <https://docs.publisher.IITAstandard.org/en/latest/account/#id1>`_. Dans le cas contraire, se reporter à l'`Option B : Mon organisation sʼest inscrite à lʼIITA <https://docs.publisher.IITAstandard.org/en/latest/account/#id2>`_."
+
+#: ../../account.rst:11
+msgid "There are question mark icons next to each data entry field in IATI Publisher, which you can click on for guidance."
+msgstr "Des icônes en forme de point dʼinterrogation se trouvent à côté de chaque champ de saisie dans IATI Publisher, sur lesquelles vous pouvez cliquer pour obtenir des orientations."
+
+#: ../../account.rst:14
+msgid "Option A: My organisation is new to IATI"
+msgstr "Option A : Mon organisation est nouvelle au sein de lʼIITA"
+
+#: ../../account.rst:15
+msgid "On the IATI Publisher homepage, click 'Join Now', then select 'My organisation is new to IATI'."
+msgstr "Sur la page dʼaccueil dʼIITA Publisher, Cliquez sur « Rejoignez-nous », puis sélectionnez « Mon organisation est nouvelle au sein de lʼIITA »."
+
+#: ../../account.rst:17
+msgid "Enter information about your organisation. Visit the `How to create your IATI organisation identifier`_ page for help."
+msgstr "Saisissez les informations relatives à votre organisation. Consultez la page `Comment créer lʼidentifiant IITA de votre organisation`_ pour obtenir de lʼaide."
+
+#: ../../account.rst:18
+msgid "Enter contact information for your organisation, noting that this will be publicly visible."
+msgstr "Saisissez les coordonnées de votre organisation, sachant quʼelles seront visibles par le public."
+
+#: ../../account.rst:19
+msgid "Select whether you are publishing data for your own organisation (Source = 'Primary') or on behalf of another organisation (Source = 'Secondary')."
+msgstr "Choisissez si vous publiez des données pour votre propre organisation (Source = « Primaire ») ou pour le compte dʼune autre organisation (Source = « Secondaire »)."
+
+#: ../../account.rst:20
+msgid "Enter your own information to create an admin user account. This is the email address and password that you will use to sign in to IATI Publisher."
+msgstr "Saisissez vos propres informations pour créer un compte dʼutilisateur administrateur. Il sʼagit de lʼadresse électronique et du mot de passe que vous utiliserez pour vous connecter à IATI Publisher."
+
+#: ../../account.rst:22
+#: ../../account.rst:31
+msgid "Click 'Get Started' to return to the homepage."
+msgstr "Cliquez sur « Premiers pas » pour revenir à la page dʼaccueil."
+
+#: ../../account.rst:25
+msgid "Option B: My organisation has registered with IATI"
+msgstr "Option B : Mon organisation sʼest inscrite à lʼIITA"
+
+#: ../../account.rst:26
+msgid "On the IATI Publisher homepage, click 'Join Now', then select 'My organisation has registered with IATI'."
+msgstr "Sur la page dʼaccueil dʼIITA Publisher, Cliquez sur « Rejoignez-nous », puis sélectionnez « Mon organisation sʼest inscrite à lʼIITA »."
+
+#: ../../account.rst:28
+msgid "Enter your organisation details, making sure that your organisation name, identifier and publisher ID match your account information on the `IATI Registry`_."
+msgstr "Saisissez les coordonnées de votre organisation, en veillant à ce que le nom, lʼidentifiant et lʼidentifiant de lʼorganisme de publication correspondent aux informations de votre compte sur le `Registre de lʼITTA`_."
+
+#: ../../account.rst:29
+msgid "Enter your contact information to create an admin user account. This is the email address and password that you will use to sign in to IATI Publisher."
+msgstr "Saisissez vos coordonnées pour créer un compte dʼutilisateur administrateur. Il sʼagit de lʼadresse électronique et du mot de passe que vous utiliserez pour vous connecter à IATI Publisher."

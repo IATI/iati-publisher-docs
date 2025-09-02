@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../financials.rst:3
+msgid "Budgets and transactions"
+msgstr "Budgets et transactions"
+
+#: ../../financials.rst:5
+msgid "Budgets are for each financial quarter (or year) over the lifetime of an activity. They are useful to give recipient countries predictability of funding and to inform their planning."
+msgstr "Les budgets sont établis pour chaque trimestre financier (ou année financière) tout au long de la durée de vie d'une activité. Ils sont utiles pour donner aux pays bénéficiaires les moyens d'anticiper les financements et pour éclairer leur planification."
+
+#: ../../financials.rst:7
+msgid "Transactions are a record of the incoming or outgoing funds for an activity. They have a date (in the past), value, provider organisation and recipient organisation."
+msgstr "Les transactions sont un registre des entrées et sorties de fonds pour une activité. Elles comportent une date (dans le passé), une valeur, une organisation prestataire et une organisation bénéficiaire."
+
+#: ../../financials.rst:10
+msgid "Add budgets or transactions individually in IATI Publisher's data entry forms, or in bulk via the `bulk import functionality <https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_."
+msgstr "Ajoutez des budgets ou des transactions individuellement dans les formulaires de saisie dʼIATI Publisher, ou de manière groupée grâce à la `fonction d'importation groupée <https://docs.publisher.IITAstandard.org/en/latest/bulk-import/>`_."
+
+#: ../../financials.rst:13
+msgid "Adding budgets"
+msgstr "Ajouter des budgets"
+
+#: ../../financials.rst:14
+msgid "Locate \"budget\" in the left hand menu of elements for your activity, then click 'Edit' to open the data entry form (Figure 1)."
+msgstr "Localisez « budget » dans le menu de gauche des éléments de votre activité, puis cliquez sur « Modifier » pour ouvrir le formulaire de saisie des données (figure 1)."
+
+#: ../../financials.rst:16
+msgid "You can add as many budgets as you need, noting that each budget period should be no longer than one year."
+msgstr "Vous pouvez ajouter autant de budgets que nécessaire, sachant que chaque période budgétaire ne doit pas dépasser un an."
+
+#: ../../financials.rst:18
+msgid "Viewing and editing budget information from the activity detail page."
+msgstr "Visualisation et modification des informations budgétaires depuis la page descriptive de l'activité."
+
+#: ../../financials.rst:23
+msgid "Figure 1: Viewing and editing budget information from the activity detail page."
+msgstr "Figure 1 : Visualisation et modification des informations budgétaires depuis la page descriptive de l'activité."
+
+#: ../../financials.rst:26
+msgid "Adding transactions"
+msgstr "Ajout de transactions"
+
+#: ../../financials.rst:27
+msgid "Locate \"transaction\" in the activity element menu, then select a transaction to edit or click 'Add Transaction' to create a new one (Figure 2)."
+msgstr "Localisez « transaction » dans le menu des éléments de l'activité, puis sélectionnez une transaction à modifier ou cliquez sur « Ajouter une transaction » pour en créer une nouvelle (figure 2)."
+
+#: ../../financials.rst:29
+msgid "Viewing and editing transaction information from the activity detail page."
+msgstr "Visualisation et modification des informations relatives à la transaction depuis la page descriptive de l'activité."
+
+#: ../../financials.rst:34
+msgid "Figure 2: Viewing and editing transaction information from the activity detail page."
+msgstr "Figure 2 : Visualisation et modification des informations relatives à la transaction depuis la page descriptive de l'activité."
+
+#: ../../financials.rst:36
+msgid "Information such as sector, recipient country and recipient region can be provided at either activity or transaction level, but not at both. If you have already populated this information at activity level, you won't be able to edit it in the transaction data entry form."
+msgstr "Des informations telles que le secteur, le pays bénéficiaire et la région bénéficiaire peuvent être fournies au niveau de l'activité ou de la transaction, mais pas aux deux niveaux. Si vous avez déjà renseigné ces informations au niveau de l'activité, vous ne pourrez pas les modifier dans le formulaire de saisie des données de la transaction."
+
+#: ../../financials.rst:38
+msgid "The Transaction List is another way to view your activity transactions (Figure 3). The table can be filtered or sorted to help you manage a large number of transactions in the interface."
+msgstr "La liste des transactions est un autre moyen de visualiser les transactions de votre activité (figure 3). Le tableau peut être filtré ou trié pour vous aider à gérer un grand nombre de transactions dans l'interface."
+
+#: ../../financials.rst:40
+msgid "Viewing and editing transaction information from the Transaction List."
+msgstr "Visualisation et modification des informations relatives aux transactions depuis la liste des transactions."
+
+#: ../../financials.rst:45
+msgid "Figure 3: Viewing the Transaction List for an activity."
+msgstr "Figure 3 : Visualisation de la liste des transactions pour une activité."
