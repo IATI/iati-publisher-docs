@@ -25,11 +25,11 @@ msgstr "Vous pouvez utiliser la fonction d'importation groupée dʼIATI Publishe
 
 #: ../../import-transactions.rst:7
 msgid "`Importing via CSV <https://docs.publisher.iatistandard.org/en/latest/import-transactions/#id1>`_"
-msgstr "`Importation via CSV <https://docs.publisher.IITAstandard.org/en/latest/import-transactions/#id1>`_"
+msgstr "`Importation via CSV <https://docs.publisher.iatistandard.org/en/latest/import-transactions/#id1>`_"
 
 #: ../../import-transactions.rst:8
 msgid "`Importing via XLSX <https://docs.publisher.iatistandard.org/en/latest/import-transactions/#id2>`_"
-msgstr "`Importation via XLSX <https://docs.publisher.IITAstandard.org/en/latest/import-transactions/#id2>`_"
+msgstr "`Importation via XLSX <https://docs.publisher.iatistandard.org/en/latest/import-transactions/#id2>`_"
 
 #: ../../import-transactions.rst:11
 msgid "Importing via CSV"
@@ -37,7 +37,7 @@ msgstr "Importation via CSV"
 
 #: ../../import-transactions.rst:13
 msgid "Follow the instructions for `exporting your activity data in CSV format <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_."
-msgstr "Suivez les instructions pour `exporter vos données d'activité au format CSV <https://docs.publisher.IITAstandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_."
+msgstr "Suivez les instructions pour `exporter vos données d'activité au format CSV <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_."
 
 #: ../../import-transactions.rst:15
 msgid "In the downloaded CSV file, locate columns AH to BB to view your activity transaction data:"
@@ -49,15 +49,15 @@ msgstr "Colonnes contenant les données de transaction dans le fichier CSV expo
 
 #: ../../import-transactions.rst:22
 msgid "Add new transaction data on this sheet (one row per transaction). Data on this sheet will overwrite any existing transaction data in IATI Publisher, so make sure that you do not remove rows that you want to keep. Refer to the `transaction type codelist <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_ to understand the different numerical codes you can enter in this column."
-msgstr "Ajoutez de nouvelles données de transaction sur cette feuille (une ligne par transaction). Les données de cette feuille écraseront toutes les données de transaction existantes dans IATI Publisher, veillez donc à ne pas supprimer les lignes que vous souhaitez conserver. Reportez-vous à la `liste de codes de type de transaction <https://IITAstandard.org/en/IITA-standard/203/codelists/transactiontype/>`_ pour comprendre les différents codes numériques que vous pouvez saisir dans cette colonne."
+msgstr "Ajoutez de nouvelles données de transaction sur cette feuille (une ligne par transaction). Les données de cette feuille écraseront toutes les données de transaction existantes dans IATI Publisher, veillez donc à ne pas supprimer les lignes que vous souhaitez conserver. Reportez-vous à la `liste de codes de type de transaction <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_ pour comprendre les différents codes numériques que vous pouvez saisir dans cette colonne."
 
 #: ../../import-transactions.rst:24
 msgid "Go to 'Add or Import Activity' from IATI Publisher's header menu, then select 'Import Activities from .CSV/.XML'."
-msgstr "Cliquez sur « Ajouter ou importer une activité » dans le menu de l'en-tête dʼIATI Publisher, puis sélectionnez « Importer des activités viaCSV ouXML »."
+msgstr "Cliquez sur « Ajouter ou importer une activité » dans le menu de l'en-tête dʼIATI Publisher, puis sélectionnez « Importer des activités via CSV ou XML »."
 
 #: ../../import-transactions.rst:26
 msgid "Upload your edited CSV file. Your `data will be checked <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#pre-import-checks>`_ and validation feedback given after you click \"Upload file\"."
-msgstr "Téléversez votre fichier CSV modifié. Vos `données seront vérifiées <https://docs.publisher.IITAstandard.org/en/latest/bulk-import/#pre-import-checks>`_ et un retour dʼinformations vous sera donné pour confirmer la validation après que vous avez cliqué sur « Téléverser le fichier »."
+msgstr "Téléversez votre fichier CSV modifié. Vos `données seront vérifiées <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#pre-import-checks>`_ et un retour dʼinformations vous sera donné pour confirmer la validation après que vous avez cliqué sur « Téléverser le fichier »."
 
 #: ../../import-transactions.rst:30
 msgid "Importing via XLSX"
@@ -65,7 +65,7 @@ msgstr "Importation via XLSX"
 
 #: ../../import-transactions.rst:32
 msgid "Follow the instructions for `exporting your activity data in XLSX format <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_."
-msgstr "Suivez les instructions pour `exporter vos données d'activité au format XLSX <https://docs.publisher.IITAstandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_."
+msgstr "Suivez les instructions pour `exporter vos données d'activité au format XLSX <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_."
 
 #: ../../import-transactions.rst:34
 msgid "Wait for the download to be prepared, then click 'Download' in the bottom-right task box when ready:"
@@ -89,11 +89,11 @@ msgstr "Une capture d'écran de la feuille « Transactions » dans le modèle 
 
 #: ../../import-transactions.rst:50
 msgid "Go to 'Add or Import Activity' from IATI Publisher's header menu, then select 'Import Activities from .XLSX'."
-msgstr "Cliquez sur « Ajouter ou importer une activité » dans le menu de l'en-tête dʼIATI Publisher, puis sélectionnez « Importer des activités viaXLSX »."
+msgstr "Cliquez sur « Ajouter ou importer une activité » dans le menu de l'en-tête dʼIATI Publisher, puis sélectionnez « Importer des activités via XLSX »."
 
 #: ../../import-transactions.rst:52
 msgid "On the 'Import Activities from .XLSX' page, select that you want to import \"Basic Activity Elements\", then upload your edited XLSX file. Your `data will be checked <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#pre-import-checks>`_ and validation feedback given after you click \"Upload file\":"
-msgstr "Sur la page « Importer des activités viaXLSX », sélectionnez l'importation des « Éléments d'activité de base », puis téléversez votre fichier XLSX modifié. Vos `données seront vérifiées <https://docs.publisher.IITAstandard.org/en/latest/bulk-import/#pre-import-checks>`_ et un retour dʼinformations vous sera donné pour confirmer la validation après que vous avez cliqué sur « Téléverser le fichier » :"
+msgstr "Sur la page « Importer des activités via XLSX », sélectionnez l'importation des « Éléments d'activité de base », puis téléversez votre fichier XLSX modifié. Vos `données seront vérifiées <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#pre-import-checks>`_ et un retour dʼinformations vous sera donné pour confirmer la validation après que vous avez cliqué sur « Téléverser le fichier » :"
 
 #: ../../import-transactions.rst:54
 msgid "A screenshot of the XLSX import page with \"basic activity elements\" selected as the import option and a file chosen for upload."

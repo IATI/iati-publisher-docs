@@ -21,7 +21,7 @@ msgstr "Utilisateurs"
 
 #: ../../users.rst:5
 msgid "IATI Publisher's `Users page <https://publisher.iatistandard.org/users/>`_ lists all individuals in your organisation that have an account. Anyone with admin level permissions can add, edit or remove users from this page."
-msgstr "La page « Utilisateurs » d'IATI Publisher <https://publisher.IITAstandard.org/users/>`_ liste tous les individus de votre organisation qui ont un compte. Toute personne ayant des droits d'administrateur peut ajouter, modifier ou supprimer des comptes dʼutilisateurs depuis cette page."
+msgstr "La page « Utilisateurs » d'IATI Publisher <https://publisher.iatistandard.org/users/>`_ liste tous les individus de votre organisation qui ont un compte. Toute personne ayant des droits d'administrateur peut ajouter, modifier ou supprimer des comptes dʼutilisateurs depuis cette page."
 
 #: ../../users.rst:8
 msgid "Adding or removing user accounts"

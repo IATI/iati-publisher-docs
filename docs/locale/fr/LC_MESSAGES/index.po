@@ -49,7 +49,7 @@ msgstr "IATI Publisher"
 
 #: ../../index.rst:5
 msgid "`IATI Publisher <https://publisher.iatistandard.org/>`_ is an online tool for organisations who want to publish data on their development and humanitarian activities according to the IATI Standard. It is free and managed by the IATI Secretariat."
-msgstr "`IATI Publisher <https://publisher.IITAstandard.org/>`_ est un outil en ligne destiné aux organisations qui souhaitent publier des données sur leurs activités humanitaires et de développement conformément à la norme de lʼIITA. Il est gratuit et géré par le Secrétariat de l'IITA."
+msgstr "`IATI Publisher <https://publisher.iatistandard.org/>`_ est un outil en ligne destiné aux organisations qui souhaitent publier des données sur leurs activités humanitaires et de développement conformément à la norme de lʼIITA. Il est gratuit et géré par le Secrétariat de l'IITA."
 
 #: ../../index.rst:7
 msgid "IATI Publisher is designed for small to medium-sized organisations who have a limited amount of IATI data to publish. Typically, this refers to organisations with less than 100 IATI activities. An ‘activity’ in IATI is an individual programme, project or other unit of development and humanitarian work, as defined by your organisation."
@@ -65,11 +65,11 @@ msgstr "Étapes de la publication"
 
 #: ../../index.rst:14
 msgid "For an overview of what data publishing involves, have a look at our page `How to publish data <https://iatistandard.org/en/guidance/publishing-data/publishing-checklist/>`_."
-msgstr "Pour un aperçu de ce qu'implique la publication de données, consultez notre page `Comment publier des données <https://IITAstandard.org/en/guidance/publishing-data/publishing-checklist/>`_."
+msgstr "Pour un aperçu de ce qu'implique la publication de données, consultez notre page `Comment publier des données <https://iatistandard.org/en/guidance/publishing-data/publishing-checklist/>`_."
 
 #: ../../index.rst:16
 msgid "If you are using IATI Publisher, you will register with IATI, enter, and publish data using the tool. IATI Publisher will check your data before you publish, using the `IATI Validator <https://validator.iatistandard.org/>`_, and provide feedback on any validation errors against the IATI schema."
-msgstr "Si vous utilisez IATI Publisher, vous vous inscrirez à l'IITA, saisirez et publierez des données à l'aide de l'outil. IATI Publisher vérifiera vos données avant que vous ne les publiiez, en utilisant lʼ`Outil de validation de lʼIITA <https://validator.IITAstandard.org/>`_, et fournira un retour d'information sur toute erreur de validation par rapport au schéma IITA."
+msgstr "Si vous utilisez IATI Publisher, vous vous inscrirez à l'IITA, saisirez et publierez des données à l'aide de l'outil. IATI Publisher vérifiera vos données avant que vous ne les publiiez, en utilisant lʼ`Outil de validation de lʼIITA <https://validator.iatistandard.org/>`_, et fournira un retour d'information sur toute erreur de validation par rapport au schéma IITA."
 
 #: ../../index.rst:19
 msgid "Help & Support"
@@ -77,7 +77,7 @@ msgstr "Aide et assistance"
 
 #: ../../index.rst:20
 msgid "`Get in touch <https://iatistandard.org/en/contact/>`_ if you have any questions relating to publishing, using or improving IATI data. You can also find an active community of IATI publishers and users on our community platform `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_."
-msgstr "`Contactez-nous <https://iatistandard.org/fr/guidance/get-support/>`_ pour toute question relative à la publication, à l'utilisation ou à l'amélioration des données de l'IITA. Vous trouverez également une communauté active de signataires et d'utilisateurs de l'IITA sur la plateforme de notre communauté `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_"
+msgstr "`Contactez-nous <https://iatistandard.org/fr/guidance/get-support/>`_ pour toute question relative à la publication, à l'utilisation ou à l'amélioration des données de l'IITA. Vous trouverez également une communauté active de signataires et d'utilisateurs de l'IITA sur la plateforme de notre communauté `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_."
 
 #: ../../index.rst:23
 msgid "Tool development"

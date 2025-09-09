@@ -29,7 +29,7 @@ msgstr "Les transactions sont un registre des entrées et sorties de fonds pour 
 
 #: ../../financials.rst:10
 msgid "Add budgets or transactions individually in IATI Publisher's data entry forms, or in bulk via the `bulk import functionality <https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_."
-msgstr "Ajoutez des budgets ou des transactions individuellement dans les formulaires de saisie dʼIATI Publisher, ou de manière groupée grâce à la `fonction d'importation groupée <https://docs.publisher.IITAstandard.org/en/latest/bulk-import/>`_."
+msgstr "Ajoutez des budgets ou des transactions individuellement dans les formulaires de saisie dʼIATI Publisher, ou de manière groupée grâce à la `fonction d'importation groupée <https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_."
 
 #: ../../financials.rst:13
 msgid "Adding budgets"

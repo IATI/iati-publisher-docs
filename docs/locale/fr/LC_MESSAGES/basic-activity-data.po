@@ -25,7 +25,7 @@ msgstr "La norme de données de l'IITA comprend deux types de fichiers de donn�
 
 #: ../../basic-activity-data.rst:7
 msgid "Most users will create activities manually in the interface, by entering information about the activity in IATI Publisher's data entry forms. If you want to add multiple activities at once, see the section on `bulk importing <https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_."
-msgstr "La plupart des utilisateurs créeront des activités manuellement depuis l'interface, en saisissant des informations sur l'activité dans les formulaires de saisie dʼIATI Publisher. Si vous souhaitez ajouter plusieurs activités à la fois, consultez la section sur l'`importation groupée <https://docs.publisher.IITAstandard.org/en/latest/bulk-import/>`_."
+msgstr "La plupart des utilisateurs créeront des activités manuellement depuis l'interface, en saisissant des informations sur l'activité dans les formulaires de saisie dʼIATI Publisher. Si vous souhaitez ajouter plusieurs activités à la fois, consultez la section sur l'`importation groupée <https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_."
 
 #: ../../basic-activity-data.rst:10
 msgid "Core elements"
@@ -37,7 +37,7 @@ msgstr "Les éléments de données de lʼIITA que vous pouvez renseigner pour un
 
 #: ../../basic-activity-data.rst:13
 msgid "It is recommended that you complete “core” elements. They are either mandatory according to the IATI Standard or required by most `donor governments’ publishing requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_."
-msgstr "Il est recommandé de renseigner les éléments « de base ». Ils sont soit obligatoires selon la norme de l'IITA, soit requis par la plupart des exigences de publication des `gouvernements donateurs <https://IITAstandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_."
+msgstr "Il est recommandé de renseigner les éléments « de base ». Ils sont soit obligatoires selon la norme de l'IITA, soit requis par la plupart des exigences de publication des `gouvernements donateurs <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_."
 
 #: ../../basic-activity-data.rst:15
 msgid "Other elements are optional. You are still encouraged to populate as many optional fields as you can, however, as this makes your data more useful to IATI's data users."

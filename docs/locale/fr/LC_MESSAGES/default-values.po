@@ -33,7 +33,7 @@ msgstr "Quels sont les paramètres par défaut que je dois renseigner ?"
 
 #: ../../default-values.rst:11
 msgid "We strongly recommend that you populate your default language and currency. There are other recommended default values that are often required by `donor governments’ IATI requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_, depending on who your funder is."
-msgstr "Nous vous recommandons vivement de renseigner votre langue et votre devise par défaut. Il existe d'autres valeurs par défaut recommandées qui sont souvent requises au titre des `exigences de l'IITA des gouvernements donateurs <https://IITAstandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_, en fonction de l'identité de votre bailleur de fonds."
+msgstr "Nous vous recommandons vivement de renseigner votre langue et votre devise par défaut. Il existe d'autres valeurs par défaut recommandées qui sont souvent requises au titre des `exigences de l'IITA des gouvernements donateurs <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_, en fonction de l'identité de votre bailleur de fonds."
 
 #: ../../default-values.rst:13
 msgid "Click the question mark icon next to each default value's data entry box in IATI Publisher to view more information on what it is."
@@ -53,7 +53,7 @@ msgstr "Modifier vos valeurs par défaut"
 
 #: ../../default-values.rst:21
 msgid "You can view or edit your default values in IATI Publisher's `Settings <https://publisher.iatistandard.org/setting>`_ at any time. IATI Publisher will apply the updated values to any new activities that you create in the interface."
-msgstr "Vous pouvez à tout moment consulter ou modifier vos valeurs par défaut depuis les `Paramètres <https://publisher.IITAstandard.org/setting>`_ dʼIATI Publisher. IATI Publisher appliquera les valeurs mises à jour à toutes les nouvelles activités que vous créerez depuis l'interface."
+msgstr "Vous pouvez à tout moment consulter ou modifier vos valeurs par défaut depuis les `Paramètres <https://publisher.iatistandard.org/setting>`_ dʼIATI Publisher. IATI Publisher appliquera les valeurs mises à jour à toutes les nouvelles activités que vous créerez depuis l'interface."
 
 #: ../../default-values.rst:23
 msgid "You can change default values for an individual activity by clicking 'Override this activity’s default values' in the top right of the screen when editing the activity. This will apply the new values to the specific activity, but not affect the defaults stored in Settings."

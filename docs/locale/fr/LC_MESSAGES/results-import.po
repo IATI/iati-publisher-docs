@@ -25,7 +25,7 @@ msgstr "Les données relatives aux résultats des activités peuvent être impor
 
 #: ../../results-import.rst:7
 msgid "Instead of populating the blank XLSX templates, it is typically easiest to add at least one result, indicator and period via IATI Publisher's interface first. This way, you can `export your existing activity data <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_ and see how it appears in each of IATI Publisher's XLSX templates. You can then add to or edit the data as required, before re-importing."
-msgstr "Au lieu de remplir des modèles XLSX vierges, il est généralement plus facile d'ajouter d'abord au moins un résultat, un indicateur et une période via l'interface d'IATI Publisher. De cette façon, vous pouvez `exporter vos données d'activité existantes <https://docs.publisher.IITAstandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_ et voir comment elles apparaissent dans chacun des modèles XLSX d'IATI Publisher. Vous pouvez ensuite compléter ou modifier les données si nécessaire, avant de les réimporter."
+msgstr "Au lieu de remplir des modèles XLSX vierges, il est généralement plus facile d'ajouter d'abord au moins un résultat, un indicateur et une période via l'interface d'IATI Publisher. De cette façon, vous pouvez `exporter vos données d'activité existantes <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_ et voir comment elles apparaissent dans chacun des modèles XLSX d'IATI Publisher. Vous pouvez ensuite compléter ou modifier les données si nécessaire, avant de les réimporter."
 
 #: ../../results-import.rst:10
 msgid "What information do I need in the import templates?"

@@ -21,7 +21,7 @@ msgstr "Se connecter"
 
 #: ../../sign-in.rst:5
 msgid "Sign in to IATI Publisher with the email address and password that you entered during registration. You can reset your password if needed from `IATI Publisher's homepage <https://publisher.iatistandard.org/>`_."
-msgstr "Connectez-vous à IATI Publisher avec l'adresse électronique et le mot de passe que vous avez saisis lors de votre inscription. Vous pouvez réinitialiser votre mot de passe si nécessaire depuis la `page d'accueil d'IATI Publisher <https://publisher.IITAstandard.org/>`_."
+msgstr "Connectez-vous à IATI Publisher avec l'adresse électronique et le mot de passe que vous avez saisis lors de votre inscription. Vous pouvez réinitialiser votre mot de passe si nécessaire depuis la `page d'accueil d'IATI Publisher <https://publisher.iatistandard.org/>`_."
 
 #: ../../sign-in.rst:7
 msgid "You will have received a verification email after registering. Use the link in this email to activate your new account, which is required before you can publish data."
@@ -45,7 +45,7 @@ msgstr "Ajouter d'autres personnes de votre organisation à IATI Publisher"
 
 #: ../../sign-in.rst:20
 msgid "If you are a new user from an organisation that is already using IATI Publisher, an admin user from your organisation can create an account for you. You can read more in the `Users section <https://docs.publisher.iatistandard.org/en/latest/users/>`_."
-msgstr "Si vous êtes un nouvel utilisateur d'une organisation qui utilise déjà IATI Publisher, un utilisateur administrateur de votre organisation peut créer un compte pour vous. Vous pouvez en savoir plus dans la section `section « Utilisateurs » <https://docs.publisher.IITAstandard.org/en/latest/users/>`_."
+msgstr "Si vous êtes un nouvel utilisateur d'une organisation qui utilise déjà IATI Publisher, un utilisateur administrateur de votre organisation peut créer un compte pour vous. Vous pouvez en savoir plus dans la section `section « Utilisateurs » <https://docs.publisher.iatistandard.org/en/latest/users/>`_."
 
 #: ../../sign-in.rst:22
 msgid "Getting help"
@@ -53,4 +53,4 @@ msgstr "Obtenir de l'aide"
 
 #: ../../sign-in.rst:24
 msgid "If you are unable to sign in, or need help getting access to your organisation's account, please `contact us <https://iatistandard.org/en/contact/>`_."
-msgstr "Si vous ne parvenez pas à vous connecter ou si vous avez besoin d'aide pour accéder au compte de votre organisation, veuillez `nous contacter <https://IITAstandard.org/en/contact/>`_."
+msgstr "Si vous ne parvenez pas à vous connecter ou si vous avez besoin d'aide pour accéder au compte de votre organisation, veuillez `nous contacter <https://iatistandard.org/en/contact/>`_."

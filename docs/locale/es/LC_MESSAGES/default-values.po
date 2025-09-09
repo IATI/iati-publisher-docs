@@ -33,7 +33,7 @@ msgstr "¿Qué valores predeterminados debo rellenar?"
 
 #: ../../default-values.rst:11
 msgid "We strongly recommend that you populate your default language and currency. There are other recommended default values that are often required by `donor governments’ IATI requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_, depending on who your funder is."
-msgstr "Le recomendamos encarecidamente que introduzca su idioma y moneda predeterminados. Hay otros valores predeterminados recomendados que se suelen exigir en los `requisitos de la IATI de los gobiernos donantes<https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_, dependiendo de quién sea su financiador."
+msgstr "Le recomendamos encarecidamente que introduzca su idioma y moneda predeterminados. Hay otros valores predeterminados recomendados que se suelen exigir en los `requisitos de la IATI de los gobiernos donantes <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_, dependiendo de quién sea su financiador."
 
 #: ../../default-values.rst:13
 msgid "Click the question mark icon next to each default value's data entry box in IATI Publisher to view more information on what it is."

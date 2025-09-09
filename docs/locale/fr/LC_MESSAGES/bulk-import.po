@@ -33,7 +33,7 @@ msgstr "Bien qu'il soit possible d'ajouter de nouvelles activités par importati
 
 #: ../../bulk-import.rst:11
 msgid "**Example:** `How do I import transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_"
-msgstr "**Exemple :** `Comment importer des transactions groupées ? <https://docs.publisher.IITAstandard.org/en/latest/import-transactions/>`_"
+msgstr "**Exemple :** `Comment importer des transactions groupées ? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_"
 
 #: ../../bulk-import.rst:15
 msgid "IATI Publisher will overwrite your data in the interface if you upload data for an existing activity. Activity identifiers are checked during import to assess whether you are importing a new activity, or updating an existing one. Be careful to avoid losing data when overwriting existing activities."
@@ -89,7 +89,7 @@ msgstr "Une fois que vous avez exporté vos données d'activité, vous pouvez mo
 
 #: ../../bulk-import.rst:45
 msgid "See `How do I upload transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_ as an example."
-msgstr "Voir `Comment téléverser des transactions groupées ? <https://docs.publisher.IITAstandard.org/en/latest/import-transactions/>`_ en guise dʼexemple."
+msgstr "Voir `Comment téléverser des transactions groupées ? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_ en guise dʼexemple."
 
 #: ../../bulk-import.rst:49
 msgid "Importing your data file"
@@ -117,7 +117,7 @@ msgstr "Importation via CSV"
 
 #: ../../bulk-import.rst:65
 msgid "You can download the IATI Publisher CSV template from the `CSV/XML data import page <https://publisher.iatistandard.org/import>`_. This template contains a wide range of IATI Standard fields and it is not necessary to populate everything. Refer to `IATI Standard guidance <https://iatistandard.org/en/iati-standard/203/activity-standard>`_ on how to interpret the fields."
-msgstr "Vous pouvez télécharger le modèle CSV dʼIATI Publisher depuis la `page d'importation de données CSV/XML <https://publisher.IITAstandard.org/import>`_. Ce modèle contient un large éventail de champs standard de l'IITA et il n'est pas nécessaire de tout remplir. Reportez-vous au `guide standard de l'IITA <https://IITAstandard.org/en/IITA-standard/203/activity-standard>`_ pour savoir comment interpréter les champs."
+msgstr "Vous pouvez télécharger le modèle CSV dʼIATI Publisher depuis la `page d'importation de données CSV/XML <https://publisher.iatistandard.org/import>`_. Ce modèle contient un large éventail de champs standard de l'IITA et il n'est pas nécessaire de tout remplir. Reportez-vous au `guide standard de l'IITA <https://iatistandard.org/en/iati-standard/203/activity-standard>`_ pour savoir comment interpréter les champs."
 
 #: ../../bulk-import.rst:68
 msgid "It is not possible to upload results, indicators or periods for your activities via the CSV import. Use the XLSX import functionality instead."
@@ -129,11 +129,11 @@ msgstr "Importation via XLSX"
 
 #: ../../bulk-import.rst:73
 msgid "There are four templates available on the `XLSX import page <https://publisher.iatistandard.org/import/xls>`_. These cover basic activity data, results, indicators and periods."
-msgstr "Quatre modèles sont disponibles sur la `page d'importation via XLSX <https://publisher.IITAstandard.org/import/xls>`_. Ils couvrent les données d'activité de base, les résultats, les indicateurs et les périodes."
+msgstr "Quatre modèles sont disponibles sur la `page d'importation via XLSX <https://publisher.iatistandard.org/import/xls>`_. Ils couvrent les données d'activité de base, les résultats, les indicateurs et les périodes."
 
 #: ../../bulk-import.rst:75
 msgid "See `Which import template should I use? <https://docs.publisher.iatistandard.org/en/latest/which-template/>`_ for help choosing the right template. If you are not publishing results data, you only need to use the 'Basic Activity Data' template."
-msgstr "Voir `Quel modèle d'importation dois-je utiliser ? <https://docs.publisher.IITAstandard.org/en/latest/which-template/>`_ pour vous aider à choisir le bon modèle. Si vous ne publiez pas de données de résultats, il vous suffit d'utiliser le modèle « Données d'activité de base »."
+msgstr "Voir `Quel modèle d'importation dois-je utiliser ? <https://docs.publisher.iatistandard.org/en/latest/which-template/>`_ pour vous aider à choisir le bon modèle. Si vous ne publiez pas de données de résultats, il vous suffit d'utiliser le modèle « Données d'activité de base »."
 
 #: ../../bulk-import.rst:79
 msgid "Pre-import checks"
@@ -141,7 +141,7 @@ msgstr "Contrôles préalables à l'importation"
 
 #: ../../bulk-import.rst:80
 msgid "Once you have uploaded your data, IATI Publisher will list the activities ready for import with information on any data validation errors. These errors are from the `IATI Validator <https://validator.iatistandard.org/>`_."
-msgstr "Une fois que vous avez téléversé vos données, IATI Publisher énumère les activités prêtes à être importées et fournit des informations sur les éventuelles erreurs de validation des données. Ces erreurs proviennent de lʼ`outil de validation de lʼIITA <https://validator.IITAstandard.org/>`_."
+msgstr "Une fois que vous avez téléversé vos données, IATI Publisher énumère les activités prêtes à être importées et fournit des informations sur les éventuelles erreurs de validation des données. Ces erreurs proviennent de lʼ`outil de validation de lʼIITA <https://validator.iatistandard.org/>`_."
 
 #: ../../bulk-import.rst:82
 msgid "Critical errors prevent the activity from being imported, whereas other errors will not prevent import. It is usually easier to fix errors in your data file before importing, rather than after in the interface."
