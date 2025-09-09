@@ -33,7 +33,7 @@ msgstr "1) Générer un jeton API"
 
 #: ../../publishing-settings.rst:12
 msgid "Log in to the `IATI Registry <https://iatiregistry.org/publisher/>`_ (note - credentials for the IATI Registry are not the same as for IATI Publisher)"
-msgstr "Se connecter au « `Registre de lʼIITA <https://iatiregistry.org/publisher/>`_ (remarque : les identifiants pour le registre de lʼIITA Registry ne sont pas les mêmes que pour IATI Publisher)"
+msgstr "Se connecter au « `Registre de lʼIITA <https://iatiregistry.org/publisher/>`_ »(remarque : les identifiants pour le registre de lʼIITA Registry ne sont pas les mêmes que pour IATI Publisher)"
 
 #: ../../publishing-settings.rst:13
 msgid "Click \"My Account” in the top-right, then on the tab 'API Tokens'"
