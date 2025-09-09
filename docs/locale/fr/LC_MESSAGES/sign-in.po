@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 14:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../sign-in.rst:3
+msgid "Signing in"
+msgstr "Se connecter"
+
+#: ../../sign-in.rst:5
+msgid "Sign in to IATI Publisher with the email address and password that you entered during registration. You can reset your password if needed from `IATI Publisher's homepage <https://publisher.iatistandard.org/>`_."
+msgstr "Connectez-vous à IATI Publisher avec l'adresse électronique et le mot de passe que vous avez saisis lors de votre inscription. Vous pouvez réinitialiser votre mot de passe si nécessaire depuis la `page d'accueil d'IATI Publisher <https://publisher.iatistandard.org/>`_."
+
+#: ../../sign-in.rst:7
+msgid "You will have received a verification email after registering. Use the link in this email to activate your new account, which is required before you can publish data."
+msgstr "Vous aurez reçu un e-mail de vérification après votre inscription. Utilisez le lien contenu dans cet e-mail pour activer votre nouveau compte, étape nécessaire pour pouvoir publier des données."
+
+#: ../../sign-in.rst:9
+msgid "When you first sign in, you will see 'Get Started' guidance on screen, which will walk you through remaining setup steps (Figure 1). Select 'Don’t show me this again' in the bottom-left corner of the guidance box to stop it appearing when you sign in. You can re-access it from your profile menu if needed."
+msgstr "Lorsque vous vous connecterez pour la première fois, vous verrez apparaître à l'écran le guide « Premiers pas », qui vous accompagnera dans les différentes étapes de configuration restantes (figure 1). Sélectionnez « Ne plus afficher » dans le coin inférieur gauche de la boîte d'orientation pour qu'elle n'apparaisse plus lorsque vous vous connectez. Vous pouvez y accéder à nouveau depuis le menu de votre profil si nécessaire."
+
+#: ../../sign-in.rst:11
+msgid "Screenshot of the 'Get Started' onboarding guidance, visible on first sign in, to help your organisation get set up."
+msgstr "Capture d'écran du guide d'accueil « Premiers pas », visible lors de la première connexion, pour aider votre organisation à démarrer."
+
+#: ../../sign-in.rst:16
+msgid "*Figure 1: 'Get Started' onboarding guidance to help your organisation get set up.*"
+msgstr "*Figure 1 : Capture d'écran du guide d'accueil « Premiers pas », visible lors de la première connexion, pour aider votre organisation à démarrer.*"
+
+#: ../../sign-in.rst:19
+msgid "Adding other people from your organisation to IATI Publisher"
+msgstr "Ajouter d'autres personnes de votre organisation à IATI Publisher"
+
+#: ../../sign-in.rst:20
+msgid "If you are a new user from an organisation that is already using IATI Publisher, an admin user from your organisation can create an account for you. You can read more in the `Users section <https://docs.publisher.iatistandard.org/en/latest/users/>`_."
+msgstr "Si vous êtes un nouvel utilisateur d'une organisation qui utilise déjà IATI Publisher, un utilisateur administrateur de votre organisation peut créer un compte pour vous. Vous pouvez en savoir plus dans la section `section « Utilisateurs » <https://docs.publisher.iatistandard.org/en/latest/users/>`_."
+
+#: ../../sign-in.rst:22
+msgid "Getting help"
+msgstr "Obtenir de l'aide"
+
+#: ../../sign-in.rst:24
+msgid "If you are unable to sign in, or need help getting access to your organisation's account, please `contact us <https://iatistandard.org/en/contact/>`_."
+msgstr "Si vous ne parvenez pas à vous connecter ou si vous avez besoin d'aide pour accéder au compte de votre organisation, veuillez `nous contacter <https://iatistandard.org/en/contact/>`_."

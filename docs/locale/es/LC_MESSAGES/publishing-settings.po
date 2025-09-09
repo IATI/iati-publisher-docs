@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../publishing-settings.rst:3
+msgid "Publishing settings"
+msgstr "Configuración de las publicaciones"
+
+#: ../../publishing-settings.rst:5
+msgid "If you signed up via the 'My organisation is new to IATI' registration route, your publishing settings will be automatically populated and no further action is needed. You can skip to the next section on `Default Values <https://docs.publisher.iatistandard.org/en/latest/default-values/>`_."
+msgstr "Si se ha inscrito a través de la opción \"Mi organización es nueva en la IATI\", la configuración de publicación se completará automáticamente, sin tener que hacer nada más. Puede pasar a la siguiente sección, sobre `Valores predeterminados <https://docs.publisher.iatistandard.org/en/latest/default-values/>`_."
+
+#: ../../publishing-settings.rst:7
+msgid "If your organisation was previously registered with IATI, you need to link your IATI Publisher account to your account on the IATI Registry by following the steps below."
+msgstr "Si su organización ya estaba registrada en la IATI, deberá vincular su cuenta de IATI Publisher a su cuenta del Registro de la IATI siguiendo los pasos que se indican a continuación."
+
+#: ../../publishing-settings.rst:10
+msgid "1) Generate an API token"
+msgstr "1) Generar una clave de API"
+
+#: ../../publishing-settings.rst:12
+msgid "Log in to the `IATI Registry <https://iatiregistry.org/publisher/>`_ (note - credentials for the IATI Registry are not the same as for IATI Publisher)"
+msgstr "Inicie sesión en el `Registro de la IATI <https://iatiregistry.org/publisher/>`_ (nota: las credenciales para el Registro de la IATI no son las mismas que para IATI Publisher)"
+
+#: ../../publishing-settings.rst:13
+msgid "Click \"My Account” in the top-right, then on the tab 'API Tokens'"
+msgstr "Haga clic en \"Mi cuenta\" en la parte superior derecha y, a continuación, en la pestaña \"Claves de API\""
+
+#: ../../publishing-settings.rst:14
+msgid "Enter a name for the new token (this can be anything)"
+msgstr "Introduzca un nombre para la nueva clave (el que desee)"
+
+#: ../../publishing-settings.rst:15
+msgid "Click 'Create API token'"
+msgstr "Haga clic en \"Crear clave de API\""
+
+#: ../../publishing-settings.rst:16
+msgid "Copy the API token string that appears at the top of the screen"
+msgstr "Copie la cadena de la clave de API que aparece en la parte superior de la pantalla"
+
+#: ../../publishing-settings.rst:20
+msgid "2) Copy your API token to IATI Publisher"
+msgstr "2) Copie su clave de API en IATI Publisher"
+
+#: ../../publishing-settings.rst:22
+msgid "Go to 'Settings' in the IATI Publisher main menu"
+msgstr "Vaya a \"Configuración\" en el menú principal de IATI Publisher"
+
+#: ../../publishing-settings.rst:23
+msgid "Paste the API token copied from the IATI Registry into the 'API token' box"
+msgstr "Pegue la clave de API copiada del Registro de la IATI en la casilla \"clave de API\""
+
+#: ../../publishing-settings.rst:24
+msgid "Click the 'Verify' button to check your API Token. You will see either a green “Correct” label or a red “Incorrect” one"
+msgstr "Haga clic en el botón \"Verificar\" para comprobar su clave de API. Verá una etiqueta verde \"Correcta\" o una roja \"Incorrecta\""
+
+#: ../../publishing-settings.rst:25
+msgid "Once your API token is correct, click on 'Save Publishing Settings' to save your information"
+msgstr "Cuando la clave de API sea correcta, haga clic en \"Guardar configuración de las publicaciones\" para guardar la información"

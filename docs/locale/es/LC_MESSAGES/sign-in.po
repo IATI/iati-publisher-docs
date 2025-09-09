@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 14:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../sign-in.rst:3
+msgid "Signing in"
+msgstr "Iniciar sesión"
+
+#: ../../sign-in.rst:5
+msgid "Sign in to IATI Publisher with the email address and password that you entered during registration. You can reset your password if needed from `IATI Publisher's homepage <https://publisher.iatistandard.org/>`_."
+msgstr "Inicie sesión en IATI Publisher con la dirección de correo electrónico y la contraseña que introdujo al registrarse. Puede restablecer su contraseña si hace falta desde la página de inicio de `IATI Publisher <https://publisher.iatistandard.org/>`_."
+
+#: ../../sign-in.rst:7
+msgid "You will have received a verification email after registering. Use the link in this email to activate your new account, which is required before you can publish data."
+msgstr "Tras registrarse, habrá recibido un correo electrónico de verificación. Utilice el enlace de este correo electrónico para activar su nueva cuenta, un paso necesario para poder publicar datos."
+
+#: ../../sign-in.rst:9
+msgid "When you first sign in, you will see 'Get Started' guidance on screen, which will walk you through remaining setup steps (Figure 1). Select 'Don’t show me this again' in the bottom-left corner of the guidance box to stop it appearing when you sign in. You can re-access it from your profile menu if needed."
+msgstr "Cuando inicie sesión por primera vez, verá en pantalla la guía \"Primeros pasos\", que le orientará por los pasos de configuración restantes (Figura 1). Seleccione \"No volver a mostrar este mensaje\" en la esquina inferior izquierda del cuadro de orientación para que deje de aparecer cuando inicie sesión. Puede volver a acceder a ella desde el menú de su perfil si lo necesita."
+
+#: ../../sign-in.rst:11
+msgid "Screenshot of the 'Get Started' onboarding guidance, visible on first sign in, to help your organisation get set up."
+msgstr "Captura de pantalla de la guía de incorporación \"Primeros pasos\", visible en el primer inicio de sesión, para ayudar a configurar su organización."
+
+#: ../../sign-in.rst:16
+msgid "*Figure 1: 'Get Started' onboarding guidance to help your organisation get set up.*"
+msgstr "*Figura 1: Guía de incorporación \"Primeros pasos\", para ayudar a configurar su organización.*"
+
+#: ../../sign-in.rst:19
+msgid "Adding other people from your organisation to IATI Publisher"
+msgstr "Añadir a otras personas de su organización a IATI Publisher"
+
+#: ../../sign-in.rst:20
+msgid "If you are a new user from an organisation that is already using IATI Publisher, an admin user from your organisation can create an account for you. You can read more in the `Users section <https://docs.publisher.iatistandard.org/en/latest/users/>`_."
+msgstr "Si es usted un usuario nuevo de una organización que ya utiliza IATI Publisher, puede solicitar a un usuario administrador de su organización que cree una cuenta para usted. Puede obtener más información en la `sección Usuarios <https://docs.publisher.iatistandard.org/en/latest/users/>`_."
+
+#: ../../sign-in.rst:22
+msgid "Getting help"
+msgstr "Obtener ayuda"
+
+#: ../../sign-in.rst:24
+msgid "If you are unable to sign in, or need help getting access to your organisation's account, please `contact us <https://iatistandard.org/en/contact/>`_."
+msgstr "Si no puede iniciar sesión o necesita ayuda para acceder a la cuenta de su organización, `póngase en contacto con nosotros <https://iatistandard.org/en/contact/>`_."

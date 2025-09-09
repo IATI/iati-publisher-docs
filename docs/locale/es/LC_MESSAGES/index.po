@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-23 17:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../index.rst:26
+msgid "About"
+msgstr "Acerca de"
+
+#: ../../index.rst:26
+msgid "Home"
+msgstr "Inicio"
+
+#: ../../index.rst:36
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../../index.rst:47
+msgid "Organisation Data"
+msgstr "Datos de la organización"
+
+#: ../../index.rst:55
+msgid "Activity Data"
+msgstr "Datos de actividades"
+
+#: ../../index.rst:67
+msgid "PDF"
+msgstr "PDF"
+
+#: ../../index.rst:67
+msgid "Download"
+msgstr "Descargar"
+
+#: ../../index.rst:3
+msgid "IATI Publisher"
+msgstr "IATI Publisher"
+
+#: ../../index.rst:5
+msgid "`IATI Publisher <https://publisher.iatistandard.org/>`_ is an online tool for organisations who want to publish data on their development and humanitarian activities according to the IATI Standard. It is free and managed by the IATI Secretariat."
+msgstr "`IATI Publisher <https://publisher.iatistandard.org/>`_ es una herramienta en línea para organizaciones que deseen publicar datos sobre sus actividades humanitarias y de desarrollo conforme a la Norma IATI. Es gratuita y está gestionada por la Secretaría de la IATI."
+
+#: ../../index.rst:7
+msgid "IATI Publisher is designed for small to medium-sized organisations who have a limited amount of IATI data to publish. Typically, this refers to organisations with less than 100 IATI activities. An ‘activity’ in IATI is an individual programme, project or other unit of development and humanitarian work, as defined by your organisation."
+msgstr "IATI Publisher se ha diseñado para organizaciones pequeñas y medianas que tienen pocos datos de la IATI que publicar. Normalmente, se trata de organizaciones con menos de 100 actividades de la IATI. Una \"actividad\" de la IATI es un programa individual, un proyecto u otra unidad de trabajo humanitario y de desarrollo, según lo haya definido su organización."
+
+#: ../../index.rst:9
+msgid "IATI Publisher is designed for people to enter data directly in the interface via online forms. It has some bulk import functionality, but is not recommended for organisations that need to manage their data in external workbooks or other tools. Large organisations, such as donor governments or UN agencies, are advised not to use IATI Publisher for this reason."
+msgstr "IATI Publisher está diseñada para que los usuarios introduzcan los datos directamente en la interfaz a través de formularios en línea. Dispone de algunas funciones de importación masiva, pero no se recomienda para organizaciones que necesiten gestionar sus datos en libros externos u otras herramientas. Por este motivo, se aconseja a las grandes organizaciones, como los gobiernos donantes o los organismos de las Naciones Unidas, que no utilicen IATI Publisher."
+
+#: ../../index.rst:12
+msgid "Steps to publishing"
+msgstr "Pasos para publicar"
+
+#: ../../index.rst:14
+msgid "For an overview of what data publishing involves, have a look at our page `How to publish data <https://iatistandard.org/en/guidance/publishing-data/publishing-checklist/>`_."
+msgstr "Para ver un resumen de lo que implica la publicación de datos, eche un vistazo a nuestra página `Cómo publicar datos <https://iatistandard.org/en/guidance/publishing-data/publishing-checklist/>`_."
+
+#: ../../index.rst:16
+msgid "If you are using IATI Publisher, you will register with IATI, enter, and publish data using the tool. IATI Publisher will check your data before you publish, using the `IATI Validator <https://validator.iatistandard.org/>`_, and provide feedback on any validation errors against the IATI schema."
+msgstr "Si utiliza IATI Publisher, se registrará en la IATI e introducirá y publicará los datos utilizando la herramienta. IATI Publisher comprobará sus datos antes de publicarlos, empleando para ello el `Validador de la IATI <https://validator.iatistandard.org/>`_, y proporcionará información sobre cualquier error de validación con respecto al esquema de la IATI."
+
+#: ../../index.rst:19
+msgid "Help & Support"
+msgstr "Ayuda y asistencia"
+
+#: ../../index.rst:20
+msgid "`Get in touch <https://iatistandard.org/en/contact/>`_ if you have any questions relating to publishing, using or improving IATI data. You can also find an active community of IATI publishers and users on our community platform `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_."
+msgstr "`Póngase en contacto con nosotros <https://iatistandard.org/en/contact/>`_ si tiene alguna pregunta sobre la publicación, el uso o la mejora de los datos de la IATI. Existe una comunidad activa de usuarios de la IATI y entidades que publican de conformidad con la IATI a la que se puede acceder en `IATI Connect <https://iaticonnect.org/data-publishing-cop/stream>`_."
+
+#: ../../index.rst:23
+msgid "Tool development"
+msgstr "Desarrollo de las herramientas"
+
+#: ../../index.rst:24
+msgid "IATI Publisher was first launched in December 2022. It is managed by the IATI Secretariat and has been developed by `YoungInnovations <https://younginnovations.com.np/>`_."
+msgstr "IATI Publisher se puso en marcha en diciembre de 2022. Está gestionado por la Secretaría de la IATI y ha sido desarrollado por `YoungInnovations <https://younginnovations.com.np/>`_."

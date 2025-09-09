@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../publish-activity.rst:3
+msgid "Publishing an activity"
+msgstr "Publier une activité"
+
+#: ../../publish-activity.rst:5
+msgid "Activities can be published from the listing page, or from an individual activity's detail page."
+msgstr "Il est possible de publier les activités depuis la page de liste des activités ou la page descriptive d'une activité individuelle."
+
+#: ../../publish-activity.rst:7
+msgid "*Publishing multiple activities from the activity listing page:*"
+msgstr "*Publication de plusieurs activités depuis la page de la liste des activités :*"
+
+#: ../../publish-activity.rst:9
+msgid "Publishing multiple activities from the activity list."
+msgstr "Publication de plusieurs activités à partir de la liste des activités:"
+
+#: ../../publish-activity.rst:14
+msgid "*Publishing a single activity from the activity detail page:*"
+msgstr "*Publication d'une activité unique à partir de la page descriptive de l'activité:*"
+
+#: ../../publish-activity.rst:16
+msgid "Publishing a single activity from the activity detail page."
+msgstr "Publication d'une activité unique à partir de la page descriptive de l'activité."
+
+#: ../../publish-activity.rst:21
+msgid "If the activity has been edited since it was first published, you will see the option to 'Republish'. Republishing is necessary to update your public data."
+msgstr "Si l'activité a été modifiée depuis sa première publication, vous verrez l'option « Republier ». La republication est nécessaire pour mettre à jour vos données publiques."
+
+#: ../../publish-activity.rst:24
+msgid "Publishing workflow"
+msgstr "Processus de publication"
+
+#: ../../publish-activity.rst:26
+msgid "**Checking core elements**"
+msgstr "**Vérification des éléments de base**"
+
+#: ../../publish-activity.rst:28
+msgid "After clicking to publish an activity, IATI Publisher will check first for 'core element' completeness. It is recommended that you populate core elements based on IATI Standard rules and most donor governments’ publishing requirements."
+msgstr "Une fois que vous aurez cliqué pour publier une activité, IATI Publisher vérifiera d'abord que l'élément de base est complet. Il est recommandé de renseigner les éléments de base selon les règles de la norme de l'IITA et les exigences de publication de la plupart des gouvernements donateurs."
+
+#: ../../publish-activity.rst:30
+msgid "Core elements are labelled with yellow rings in the IATI Publisher interface:"
+msgstr "Les éléments de base sont marqués d'un anneau jaune dans l'interface d'IATI Publisher :"
+
+#: ../../publish-activity.rst:32
+msgid "Displaying core (recommended) elements to populate for your activity."
+msgstr "Affichage des éléments de base (recommandés) à remplir pour votre activité."
+
+#: ../../publish-activity.rst:37
+msgid "You will see a warning message if any of the activities you are trying to publish are missing core elements:"
+msgstr "Un message d'avertissement s'affiche si l'une des activités que vous essayez de publier manque d'éléments de base :"
+
+#: ../../publish-activity.rst:39
+msgid "Warning message about some core elements being missing."
+msgstr "Message d'avertissement concernant l'absence de certains éléments de base."
+
+#: ../../publish-activity.rst:44
+msgid "You can cancel publishing at this point to go back and review your activities. Ensuring core elements are complete will help avoid errors at the next validation step."
+msgstr "Vous pouvez annuler la publication à ce stade pour revenir en arrière et examiner vos activités. Le fait de s'assurer que les éléments de base sont complets permet d'éviter les erreurs lors de l'étape de validation à suivre."
+
+#: ../../publish-activity.rst:46
+msgid "**Data validation**"
+msgstr "**Validation des données**"
+
+#: ../../publish-activity.rst:48
+msgid "If you continue to publish, your activity data is checked next using the IATI Validator. This assesses data based on the rules and guidance of the IATI Standard, to make sure it is accessible and useful to data users."
+msgstr "Si vous poursuivez la publication, les données de votre activité sont ensuite vérifiées à l'aide de lʼoutil de validation de l'IITA. Il évalue les données sur la base des règles et des orientations de la norme de lʼIITA, afin de s'assurer qu'elles sont accessibles et utiles aux utilisateurs des données."
+
+#: ../../publish-activity.rst:50
+msgid "Activities with validation issues are labelled in a list:"
+msgstr "Les activités présentant des problèmes de validation sont recensées dans une liste :"
+
+#: ../../publish-activity.rst:52
+msgid "Feedback displayed on validation errors before publication."
+msgstr "Retour d'information sur les erreurs de validation avant la publication."
+
+#: ../../publish-activity.rst:57
+msgid "Click on 'Open in new tab' to view your activity. On the activity detail page, expanding the text box in the top right will display information on the validation errors:"
+msgstr "Cliquez sur « Ouvrir dans un nouvel onglet » pour visualiser votre activité. Sur la page descriptive de l'activité, le fait de développer la zone de texte en haut à droite permet d'afficher des informations sur les erreurs de validation :"
+
+#: ../../publish-activity.rst:59
+msgid "Display of more detail on the validation error(s)."
+msgstr "Affichage de détails sur les erreurs de validation."
+
+#: ../../publish-activity.rst:64
+msgid "You can often click on each error to be taken to the relevant data entry form in IATI Publisher where a correction is needed."
+msgstr "Vous pouvez souvent cliquer sur chaque erreur pour accéder au formulaire de saisie de données adéquat dans IATI Publisher lorsquʼune correction est nécessaire."
+
+#: ../../publish-activity.rst:66
+msgid "There are different levels of severity for validation errors. Importantly, you will not be able to publish any activity that has critical errors. Critical errors usually prevent your activity from being publicly visible in IATI’s tools, so it is important to correct these before publication."
+msgstr "Il existe différents niveaux de gravité pour les erreurs de validation. Il est important de noter que vous ne pourrez pas publier une activité comportant des erreurs critiques. Les erreurs critiques empêchent généralement votre activité d'être visible publiquement dans les outils de l'IITA ; il est donc important de les corriger avant publication."
+
+#: ../../publish-activity.rst:68
+msgid "If you return to the publication process after having made changes to one of your activities, you will be prompted to revalidate (i.e. recheck) your data before continuing:"
+msgstr "Si vous revenez au processus de publication après avoir apporté des modifications à l'une de vos activités, vous devrez revalider (c'est-à-dire revérifier) vos données avant de continuer :"
+
+#: ../../publish-activity.rst:70
+msgid "Revalidating an activity after making changes."
+msgstr "Revalider une activité après y avoir apporté des modifications."
+
+#: ../../publish-activity.rst:75
+msgid "**Data publication**"
+msgstr "**Publication de données**"
+
+#: ../../publish-activity.rst:77
+msgid "If no errors are found during the validation step, IATI Publisher will continue to publish your activities."
+msgstr "Si aucune erreur n'est trouvée lors de l'étape de validation, IATI Publisher continuera à publier vos activités."
+
+#: ../../publish-activity.rst:79
+msgid "You’ll see a confirmation screen once publication has completed:"
+msgstr "Un écran de confirmation s'affiche une fois la publication terminée :"
+
+#: ../../publish-activity.rst:81
+msgid "Confirmation that your activity data has been published."
+msgstr "Confirmation de la publication de vos données d'activité."
+
+#: ../../publish-activity.rst:87
+msgid "Unpublishing activity data"
+msgstr "Annuler la publication de données dʼactivité"
+
+#: ../../publish-activity.rst:88
+msgid "Once published, IATI activities should remain public even after they have finished. You can update and republish your activity data as often as needed, for example to update budgets or end dates."
+msgstr "Une fois publiées, les activités de l'IITA doivent rester publiques même au-delà de leur terme. Vous pouvez mettre à jour et republier vos données d'activité aussi souvent que nécessaire, par exemple pour mettre à jour les budgets ou les dates de fin."
+
+#: ../../publish-activity.rst:90
+msgid "In some cases, however, activity data needs to be removed from public view. To do this, you can 'unpublish' your activity in IATI Publisher."
+msgstr "Dans certains cas, cependant, les données d'activité doivent être soustraites à la vue du public. Pour ce faire, vous pouvez « annuler la publication » de votre activité dans IATI Publisher."
+
+#: ../../publish-activity.rst:92
+msgid "To delete an activity from the IATI Publisher interface, select its checkbox in the activity list then click on the trash can icon next to 'Add Activity'. Deleting permanently removes the activity from IATI Publisher. You will be asked to unpublish the activity first, if applicable."
+msgstr "Pour supprimer une activité de l'interface d'IATI Publisher, cochez sa case dans la liste des activités puis cliquez sur l'icône de la corbeille à côté de « Ajouter une activité ». La suppression supprime définitivement l'activité d'IATI Publisher. Le cas échéant, il vous sera dʼabord demandé dʼannuler la publication de lʼactivité."

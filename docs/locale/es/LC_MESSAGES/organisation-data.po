@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../organisation-data.rst:3
+msgid "Organisation data"
+msgstr "Datos de la organización"
+
+#: ../../organisation-data.rst:5
+msgid "The IATI data standard includes two types of data file - organisation and activity. The organisation data file includes information such as your organisation’s unique identifier, future-looking budgets, total expenditure and links to reports or strategy documents."
+msgstr "La Norma IATI incluye dos tipos de archivos de datos: de organización y de actividad. El archivo de datos de la organización incluye información como el identificador único de su organización, presupuestos prospectivos, gasto total y enlaces a informes o documentos estratégicos."
+
+#: ../../organisation-data.rst:7
+msgid "In IATI Publisher, you must publish organisation data before you can publish activity data. You can start with the basic (“core”) elements and add more information over time."
+msgstr "En IATI Publisher deben publicarse los datos de la organización antes de poder publicarse datos de las actividades. Puede empezar con los elementos básicos e ir añadiendo más información con el tiempo."
+
+#: ../../organisation-data.rst:9
+msgid "You will be prompted to review and publish organisation data in the 'Get Started' guide."
+msgstr "En la guía \"Primeros pasos\" se le pedirá que revise y publique los datos de la organización."
+
+#: ../../organisation-data.rst:12
+msgid "Editing organisation data"
+msgstr "Modificar los datos de la organización"
+
+#: ../../organisation-data.rst:13
+msgid "You can view or edit your organisation data from IATI Publisher's Organisation Data page."
+msgstr "Puede ver o modificar los datos de su organización desde la página Datos de la organización de IATI Publisher."
+
+#: ../../organisation-data.rst:15
+msgid "Some of these data elements are mandatory to populate and are labelled “core” (with a yellow ring symbol). Other elements are optional and can be populated if relevant."
+msgstr "Es obligatorio cumplimentar algunos de estos datos, los etiquetados como \"básicos\" (con el símbolo de un anillo amarillo). Los demás elementos son facultativos y pueden rellenarse si procede."
+
+#: ../../organisation-data.rst:17
+msgid "You can search elements by name or filter on completion status."
+msgstr "Puede buscar elementos por nombre o filtrar por estado de finalización."
+
+#: ../../organisation-data.rst:21
+msgid "Publishing organisation data"
+msgstr "Publicación de los datos de la organización"
+
+#: ../../organisation-data.rst:23
+msgid "Ensure that core elements have been completed on the Organisation Data page"
+msgstr "Compruebe que se han cumplimentado los elementos básicos en la página Datos de la organización"
+
+#: ../../organisation-data.rst:24
+msgid "Click “Publish” in the top right of the screen"
+msgstr "Haga clic en \"Publicar\" en la parte superior derecha de la pantalla"
+
+#: ../../organisation-data.rst:25
+msgid "Click “Continue” after core element completeness has been checked"
+msgstr "Haga clic en \"Continuar\" una vez comprobada la integridad de los elementos básicos"
+
+#: ../../organisation-data.rst:26
+msgid "Publication of your organisation data will be confirmed"
+msgstr "Se confirmará la publicación de los datos de su organización"
+
+#: ../../organisation-data.rst:28
+msgid "You can edit information on the Organisation Data page at any time to update what you have published. After any changes, you will see the option to “Republish” in the top right."
+msgstr "Puede modificar la información en la página Datos de la organización en cualquier momento para actualizar lo que ha publicado. Después de cualquier cambio, verá la opción \"Volver a publicar\" en la parte superior derecha."
+
+#: ../../organisation-data.rst:30
+msgid "You need to publish organisation data in IATI Publisher before you can publish activity data. Once published, you can edit, add to and republish your organisation data at any time."
+msgstr "Es necesario publicar los datos de la organización en IATI Publisher antes de poder publicar datos de las actividades. Una vez publicados, puede modificar, añadir y volver a publicar los datos de su organización en cualquier momento."

@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../which-template.rst:3
+msgid "Which import template should I use?"
+msgstr "¿Qué plantilla de importación debo utilizar?"
+
+#: ../../which-template.rst:5
+msgid "IATI Publisher has activity import templates in CSV and XLSX file format. If you are uploading results data (i.e. results, indicators and periods for existing activities), you will need to use the XLSX import. If you are uploading basic activity data, which can include budgets and transactions, you can choose between the CSV and XLSX imports."
+msgstr "IATI Publisher dispone de plantillas de importación de actividades en formato CSV y XLSX. Si va a cargar datos de resultados (es decir, resultados, indicadores y períodos para actividades existentes), tendrá que utilizar la importación XLSX. Si va a cargar datos básicos de las actividades, que pueden incluir presupuestos y transacciones, puede elegir entre las importaciones CSV y XLSX."
+
+#: ../../which-template.rst:8
+msgid "CSV template"
+msgstr "Plantilla CSV"
+
+#: ../../which-template.rst:9
+msgid "IATI Publisher has a single CSV import template, which covers all elements of the IATI Standard for activities apart from `results <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/>`_."
+msgstr "IATI Publisher dispone de una única plantilla de importación CSV, que cubre todos los elementos de la Norma IATI para las actividades excepto los `resultados <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/>`_."
+
+#: ../../which-template.rst:11
+msgid "This template is recommended if you:"
+msgstr "Esta plantilla se recomienda si usted:"
+
+#: ../../which-template.rst:13
+msgid "want to work in a single flat file, rather than a workbook with multiple sheets"
+msgstr "desea trabajar en un único archivo sin formato y no en un libro con varias hojas"
+
+#: ../../which-template.rst:14
+msgid "don't need embedded codelists or dropdown menus to enter your data"
+msgstr "no necesita listas de códigos integradas ni menús desplegables para introducir sus datos"
+
+#: ../../which-template.rst:18
+msgid "XLSX templates"
+msgstr "Plantillas XLSX"
+
+#: ../../which-template.rst:19
+msgid "There are four templates available on the `XLSX import page <https://publisher.iatistandard.org/import/xls>`_:"
+msgstr "En la `página de importación XLSX <https://publisher.iatistandard.org/import/xls>`_ hay cuatro plantillas:"
+
+#: ../../which-template.rst:21
+msgid "Basic Activity Data - covers core and optional IATI data elements for activities, including transactions"
+msgstr "Datos básicos de las actividades: abarca los elementos de datos básicos y opcionales de la IATI para las actividades, incluidas las transacciones"
+
+#: ../../which-template.rst:22
+msgid "Results - to import `results <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/>`_ for existing activities"
+msgstr "Resultados: para importar `resultados <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/>`_ de las actividades existentes"
+
+#: ../../which-template.rst:23
+msgid "Indicators - to import `indicators <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/indicator/>`_ for existing results"
+msgstr "Indicadores: para importar `indicadores <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/indicator/>`_ de los resultados existentes"
+
+#: ../../which-template.rst:24
+msgid "Periods - to import `periods <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/indicator/period/>`_ for existing indicators"
+msgstr "Períodos: para importar `períodos <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/indicator/period/>`_ de los indicadores existentes"
+
+#: ../../which-template.rst:26
+msgid "These templates are recommended if you:"
+msgstr "Estas plantillas se recomiendan en los siguientes casos:"
+
+#: ../../which-template.rst:28
+msgid "prefer to work in a workbook that has multiple sheets (typically one per element of the IATI Standard)"
+msgstr "usted prefiere trabajar en un libro con varias hojas (normalmente una por cada elemento de la Norma IATI)"
+
+#: ../../which-template.rst:29
+msgid "find embedded codelists and dropdown menus helpful for entering your data"
+msgstr "las listas de códigos integradas y los menús desplegables le resultan útiles para introducir sus datos"
+
+#: ../../which-template.rst:30
+msgid "need help distinguishing between elements of the IATI Standard that require a single entry (e.g. activity status), versus those that accept multiple entries (e.g. budget)"
+msgstr "necesita ayuda para distinguir entre los elementos de la Norma IATI que requieren una única entrada (por ejemplo, el estado de la actividad) y los que aceptan varias entradas (por ejemplo, el presupuesto)"
+
+#: ../../which-template.rst:32
+msgid "Only one template can be uploaded at a time. It is normally recommended to `export existing activity data <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_ before adding to it via the import functionality."
+msgstr "Solo se puede cargar una plantilla a la vez. Normalmente se recomienda `exportar los datos de actividades existentes <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_ antes de añadirlos mediante la función de importación."

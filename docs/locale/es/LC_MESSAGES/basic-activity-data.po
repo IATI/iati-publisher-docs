@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../basic-activity-data.rst:3
+msgid "Creating an activity"
+msgstr "Crear una actividad"
+
+#: ../../basic-activity-data.rst:5
+msgid "The IATI data standard includes two types of data file - organisation and activity. The activity file includes information on the activities that your organisation carries out, such as your projects or humanitarian interventions. The IATI Standard includes data fields on what the activity is, where it is taking place, which organisations are involved and how it is financed."
+msgstr "La Norma IATI incluye dos tipos de archivos de datos: de organización y de actividad. El archivo de actividad incluye información sobre las actividades que lleva a cabo su organización, como los proyectos o intervenciones humanitarias. La Norma IATI incluye campos de datos relativos a en qué consiste la actividad, dónde se lleva a cabo, qué organizaciones participan en ella y cómo se financia."
+
+#: ../../basic-activity-data.rst:7
+msgid "Most users will create activities manually in the interface, by entering information about the activity in IATI Publisher's data entry forms. If you want to add multiple activities at once, see the section on `bulk importing <https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_."
+msgstr "La mayoría de los usuarios crearán actividades manualmente en la interfaz, introduciendo datos sobre la actividad en los correspondientes formularios de IATI Publisher. Si desea añadir varias actividades a la vez, consulte la sección sobre `importación masiva <https://docs.publisher.iatistandard.org/en/latest/bulk-import/>`_."
+
+#: ../../basic-activity-data.rst:10
+msgid "Core elements"
+msgstr "Elementos básicos"
+
+#: ../../basic-activity-data.rst:11
+msgid "The IATI data elements that you can complete for an activity are listed on the left hand side of the activity page (Figure 1). Some are labelled “core” and have a yellow ring symbol."
+msgstr "Los elementos de datos de la IATI que puede completar para una actividad se enumeran en la parte izquierda de la página de la actividad (Figura 1). Algunos están etiquetados como \"básicos\" y tienen el símbolo de un anillo amarillo."
+
+#: ../../basic-activity-data.rst:13
+msgid "It is recommended that you complete “core” elements. They are either mandatory according to the IATI Standard or required by most `donor governments’ publishing requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_."
+msgstr "Se recomienda cumplimentar los elementos básicos. Son obligatorios según la Norma IATI o exigidos por la mayoría de los `requisitos de publicación de los gobiernos donantes <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_."
+
+#: ../../basic-activity-data.rst:15
+msgid "Other elements are optional. You are still encouraged to populate as many optional fields as you can, however, as this makes your data more useful to IATI's data users."
+msgstr "Los demás elementos son facultativos. No obstante, le animamos a que rellene tantos campos facultativos como pueda, ya que esto hace que sus datos sean más útiles para los usuarios de la IATI."
+
+#: ../../basic-activity-data.rst:17
+msgid "IATI data elements that can be populated for an activity"
+msgstr "Elementos de los datos de la IATI que pueden rellenarse para una actividad"
+
+#: ../../basic-activity-data.rst:22
+msgid "Figure 1: The IATI data elements that can be populated for an activity."
+msgstr "Figura 1: Los elementos de datos de la IATI que pueden rellenarse para una actividad."
+
+#: ../../basic-activity-data.rst:26
+msgid "Adding or editing activity information"
+msgstr "Añadir o modificar la información de la actividad"
+
+#: ../../basic-activity-data.rst:27
+msgid "Click on each data element in the left hand menu of the activity page to add your data."
+msgstr "Haga clic en cada elemento de datos en el menú de la izquierda de la página de la actividad para añadir sus datos."
+
+#: ../../basic-activity-data.rst:29
+msgid "Mandatory fields are marked with a red asterisk (*) and are displayed towards the top of IATI Publisher’s data entry forms. These fields should always be populated to avoid errors in your published data."
+msgstr "Los campos obligatorios están marcados con un asterisco rojo (*) y aparecen en la parte superior de los formularios de introducción de datos de IATI Publisher. Estos campos deben rellenarse siempre para evitar errores en sus datos publicados."
+
+#: ../../basic-activity-data.rst:31
+msgid "Optional fields are displayed in collapsed format towards the bottom of data entry forms. Use the arrow icons to expand and collapse these sections as needed."
+msgstr "Los campos facultativos se muestran en formato contraído cerca de la parte inferior de los formularios de introducción de datos. Utilice los iconos de flecha para expandir y contraer estas secciones según proceda."
+
+#: ../../basic-activity-data.rst:33
+msgid "An example data entry form with mandatory fields highlighted at the top."
+msgstr "Ejemplo de formulario de introducción de datos con los campos obligatorios resaltados en la parte superior."
+
+#: ../../basic-activity-data.rst:38
+msgid "Figure 2: An example data entry form with mandatory fields highlighted at the top."
+msgstr "Figura 2: Ejemplo de formulario de introducción de datos con los campos obligatorios resaltados en la parte superior."
