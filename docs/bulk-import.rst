@@ -55,6 +55,8 @@ You can access the data import pages from 'Add or Import Activity' in IATI Publi
     :align: center
     :alt: A screenshot of the dropdown header menu, which allows the user to select whether they want to add activity data manually, via XML/CSV, or via XLSX file.
 
+See `Which import template should I use? <https://docs.publisher.iatistandard.org/en/latest/which-template/>`_ for help choosing the right template. 
+
 Import via XML
 """"""""""""""
 XML is the file format used by the IATI Standard. IATI Publisher creates and stores IATI XML files for you when you publish your activity and organisation data from the interface. The XML import functionality may be useful if you are transferring IATI activity data from a different publishing tool to IATI Publisher.
@@ -72,8 +74,9 @@ Import via XLSX
 """""""""""""""
 There are four templates available on the `XLSX import page <https://publisher.iatistandard.org/import/xls>`_. These cover basic activity data, results, indicators and periods.
 
-See `Which import template should I use? <https://docs.publisher.iatistandard.org/en/latest/which-template/>`_ for help choosing the right template. If you are not publishing results data, you only need to use the 'Basic Activity Data' template. 
+If you are not publishing results data, you only need to use the 'Basic Activity Data' template. 
 
+See `How do I complete the XLSX templates? <https://docs.publisher.iatistandard.org/en/latest/how-to-xlsx/>`_ for more guidance.
 
 Pre-import checks
 =================
@@ -91,8 +94,9 @@ You will have the chance to confirm the activities that you want to add or overw
 .. toctree::
    :hidden:
    :titlesonly:
-   :maxdepth: 3
+   :maxdepth: 4
 
    which-template
+   how-to-xlsx
    import-transactions
    results-import
