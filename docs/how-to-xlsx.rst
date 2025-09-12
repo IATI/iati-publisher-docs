@@ -2,20 +2,20 @@
 How do I complete the XLSX templates?
 ###################################
 
-If you are using IATI Publisher's XLSX templates, we recommend `exporting your existing data <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_  first, then editing it and re-importing the template.
+If you are using IATI Publisher's XLSX templates, we recommend `exporting your existing data <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_ first, then editing it and re-importing the template.
 
 The XLSX templates are split into sheets, which correspond to different data elements of the IATI Standard.
 
 Tips for using the XLSX templates
 ---------------------------------
-- Not all sheets need populating - focus on completing core data elements first.
+- Not all sheets need populating - focus on completing `core data elements <https://docs.publisher.iatistandard.org/en/latest/basic-activity-data/#core-elements>`_ first.
 - The 'Settings' sheet is only needed if you want to override your default values saved in IATI Publisher (i.e. for individual activities that you are importing).
 - If you are entering multiple values (e.g. transactions), enter these over multiple rows in the relevant sheet.
 - Don't edit sheet or column names, or change the order of columns in a sheet.
 - Don't make any edits to the 'Options' sheet.
 
-Colour-coding
--------------
+Column colour-coding
+"""""""""""""""""""""
 Columns are colour-coded pink, green, orange or blue based on the number of row entries expected.
 
 - Pink - column expects a single entry
