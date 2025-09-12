@@ -16,6 +16,7 @@ Columns are colour-coded pink, green, orange or blue based on the number of row 
 - Blue - column is optional and can have multiple entries if you choose to complete it
 
 .. admonition:: Tips
+
    - Not all sheets need populating - focus on completing `core data elements <https://docs.publisher.iatistandard.org/en/latest/basic-activity-data/#core-elements>`_ first.
    - The 'Settings' sheet is only needed if you want to override your default values saved in IATI Publisher (i.e. for individual activities that you are importing).
    - If you are entering multiple values (e.g. transactions), enter these over multiple rows in the relevant sheet.
