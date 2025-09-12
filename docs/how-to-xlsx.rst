@@ -6,14 +6,6 @@ If you are using IATI Publisher's XLSX templates, we recommend `exporting your e
 
 The XLSX templates are split into sheets, which correspond to different data elements of the IATI Standard.
 
-Tips for using the XLSX templates
----------------------------------
-- Not all sheets need populating - focus on completing `core data elements <https://docs.publisher.iatistandard.org/en/latest/basic-activity-data/#core-elements>`_ first.
-- The 'Settings' sheet is only needed if you want to override your default values saved in IATI Publisher (i.e. for individual activities that you are importing).
-- If you are entering multiple values (e.g. transactions), enter these over multiple rows in the relevant sheet.
-- Don't edit sheet or column names, or change the order of columns in a sheet.
-- Don't make any edits to the 'Options' sheet.
-
 Column colour-coding
 """""""""""""""""""""
 Columns are colour-coded pink, green, orange or blue based on the number of row entries expected.
@@ -23,3 +15,9 @@ Columns are colour-coded pink, green, orange or blue based on the number of row 
 - Orange - column is optional and expects a single entry if you choose to complete it
 - Blue - column is optional and can have multiple entries if you choose to complete it
 
+.. admonition:: Tips
+   - Not all sheets need populating - focus on completing `core data elements <https://docs.publisher.iatistandard.org/en/latest/basic-activity-data/#core-elements>`_ first.
+   - The 'Settings' sheet is only needed if you want to override your default values saved in IATI Publisher (i.e. for individual activities that you are importing).
+   - If you are entering multiple values (e.g. transactions), enter these over multiple rows in the relevant sheet.
+   - Don't edit sheet or column names, or change the order of columns in a sheet.
+   - Don't make any edits to the 'Options' sheet.
