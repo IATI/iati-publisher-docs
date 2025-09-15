@@ -26,4 +26,5 @@ Columns in the XLSX templates are colour-coded based on the number of row entrie
 Importing transactions and results
 """""""""""""""""""""
 `How do I import transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_
+
 `How do I import results data? <https://docs.publisher.iatistandard.org/en/latest/results-import/>`_
