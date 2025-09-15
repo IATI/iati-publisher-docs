@@ -16,7 +16,9 @@ The XLSX templates are split into sheets, which correspond to different data ele
 
 Column colour-coding
 """""""""""""""""""""
-Columns in the XLSX templates are colour-coded pink, green, orange or blue based on the number of row entries expected.
+Columns in the XLSX templates are colour-coded based on the number of row entries expected. 
+
+Note - this only applies if you choose to populate the sheet. `Core elements <https://docs.publisher.iatistandard.org/en/latest/basic-activity-data/#core-elements>`_ are mandatory, whereas other sheets in the template are optional.
 
 - Pink - column expects a single entry
 - Green - column expects at least one entry, and multiple entries are allowed (e.g. for title narratives in multiple languages)
