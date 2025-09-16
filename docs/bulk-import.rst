@@ -1,6 +1,6 @@
-################
+###################
 Bulk data import
-################
+###################
 
 IATI Publisher allows you to import and export activity data in three file formats (XML, CSV and XLSX). This functionality can be useful if you want to import multiple activities, transactions, budgets or results in one go.
 
@@ -15,7 +15,7 @@ While it is possible to add new activities by bulk import, we normally recommend
    IATI Publisher will overwrite your data in the interface if you upload data for an existing activity. Activity identifiers are checked during import to assess whether you are importing a new activity, or updating an existing one. Be careful to avoid losing data when overwriting existing activities.
 
 1) Export your existing data
-============================
+================================
 As IATI Publisher's import functionality requires complete activities to be uploaded, if you are updating an existing activity, you will need to export the data you have entered for it in the interface first. 
 
 1. On the activity listing page, select the activity (or activities) that you want to edit or add data to. 
@@ -39,14 +39,14 @@ If you choose XLSX files, IATI Publisher will show a progress bar as your data f
 This will download a zipped (compressed) folder containing IATI Publisher's four XLSX templates.
 
 2) Add or edit your data
-===========
+==========================
 Once you have exported your activity data, you can edit or add to the exported file as needed, then re-import it to update your activity. Avoid changing the template structure in any way - e.g. by deleting columns or renaming sheets.
 
 See `How do I upload transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_ as an example.
 
 
 3) Re-import your data file
-========================
+============================
 
 You can access the data import pages from 'Add or Import Activity' in IATI Publisher's header. Select the file format from the dropdown menu that you wish to use:
 
@@ -58,7 +58,7 @@ You can access the data import pages from 'Add or Import Activity' in IATI Publi
 See `Which import template should I use? <https://docs.publisher.iatistandard.org/en/latest/which-template/>`_ for help choosing the right template. 
 
 4) Pre-import checks
-=================
+======================
 Once you have uploaded your data, IATI Publisher will list the activities ready for import with information on any data validation errors. These errors are from the `IATI Validator <https://validator.iatistandard.org/>`_.
 
 Critical errors prevent the activity from being imported, whereas other errors will not prevent import. It is usually easier to fix errors in your data file before importing, rather than after in the interface.
