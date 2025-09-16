@@ -30,3 +30,5 @@ These templates are recommended if you:
 - need help distinguishing between elements of the IATI Standard that require a single entry (e.g. activity status), versus those that accept multiple entries (e.g. budget)
 
 Only one template can be uploaded at a time. It is normally recommended to `export existing activity data <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_ before adding to it via the import functionality.
+
+See `How do I complete the XLSX templates? <https://docs.publisher.iatistandard.org/en/latest/how-to-xlsx/>`_ for more guidance.
