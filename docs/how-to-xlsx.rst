@@ -9,7 +9,7 @@ The XLSX templates are split into sheets, which correspond to different data ele
 .. admonition:: Tips
 
    - Not all sheets need populating - focus on completing `core data elements <https://docs.publisher.iatistandard.org/en/latest/basic-activity-data/#core-elements>`_ first.
-   - The 'Settings' sheet is only needed if you want to override your default values saved in IATI Publisher (i.e. for individual activities that you are importing).
+   - Enter activity identifiers on the 'Settings' sheet to be able to pre-populate them on other sheets. You don't need to populate other columns on the 'Settings' sheet unless you want to override your default values saved in IATI Publisher.
    - If you are entering multiple values (e.g. transactions), enter these over multiple rows in the relevant sheet.
    - Don't edit sheet or column names, or change the order of columns in a sheet.
    - Don't make any edits to the 'Options' sheet.
