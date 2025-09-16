@@ -1,6 +1,6 @@
-###################################
+#########################################
 How do I complete the XLSX templates?
-###################################
+#########################################
 
 If you are using IATI Publisher's XLSX templates, we recommend `exporting your existing data <https://docs.publisher.iatistandard.org/en/latest/bulk-import/#exporting-your-existing-data>`_ first, then editing it and re-importing the template.
 
@@ -24,7 +24,7 @@ Columns in the XLSX templates are colour-coded based on the number of row entrie
 - Blue - column is optional and can have multiple entries if you choose to complete it
 
 Importing transactions and results
-"""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""
 `How do I import transactions in bulk? <https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_
 
 `How do I import results data? <https://docs.publisher.iatistandard.org/en/latest/results-import/>`_
