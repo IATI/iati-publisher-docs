@@ -69,7 +69,7 @@ msgstr "Para ver un resumen de lo que implica la publicación de datos, eche un 
 
 #: ../../index.rst:16
 msgid "If you are using IATI Publisher, you will register with IATI, enter, and publish data using the tool. IATI Publisher will check your data before you publish, using the `IATI Validator <https://validator.iatistandard.org/>`_, and provide feedback on any validation errors against the IATI schema."
-msgstr "Si utiliza IATI Publisher, se registrará en la IATI e introducirá y publicará los datos utilizando la herramienta. IATI Publisher comprobará sus datos antes de publicarlos, empleando para ello el `Validador de la IATI <https://validator.iatistandard.org/>`_, y proporcionará información sobre cualquier error de validación con respecto al esquema de la IATI."
+msgstr "Si utiliza IATI Publisher, se registrará en IATI e introducirá y publicará los datos utilizando la herramienta. IATI Publisher comprobará sus datos antes de publicarlos, empleando para ello el `Validador de la IATI <https://validator.iatistandard.org/>`_, y proporcionará información sobre cualquier error de validación con respecto al esquema de la IATI."
 
 #: ../../index.rst:19
 msgid "Help & Support"
