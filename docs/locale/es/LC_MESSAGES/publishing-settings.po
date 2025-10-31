@@ -21,11 +21,11 @@ msgstr "Configuración de las publicaciones"
 
 #: ../../publishing-settings.rst:5
 msgid "If you signed up via the 'My organisation is new to IATI' registration route, your publishing settings will be automatically populated and no further action is needed. You can skip to the next section on `Default Values <https://docs.publisher.iatistandard.org/en/latest/default-values/>`_."
-msgstr "Si se ha inscrito a través de la opción \"Mi organización es nueva en la IATI\", la configuración de publicación se completará automáticamente, sin tener que hacer nada más. Puede pasar a la siguiente sección, sobre `Valores predeterminados <https://docs.publisher.iatistandard.org/en/latest/default-values/>`_."
+msgstr "Si se ha inscrito a través de la opción \"Mi organización es nueva en IATI\", la configuración de publicación se completará automáticamente, sin tener que hacer nada más. Puede pasar a la siguiente sección, sobre `Valores predeterminados <https://docs.publisher.iatistandard.org/en/latest/default-values/>`_."
 
 #: ../../publishing-settings.rst:7
 msgid "If your organisation was previously registered with IATI, you need to link your IATI Publisher account to your account on the IATI Registry by following the steps below."
-msgstr "Si su organización ya estaba registrada en la IATI, deberá vincular su cuenta de IATI Publisher a su cuenta del Registro de la IATI siguiendo los pasos que se indican a continuación."
+msgstr "Si su organización ya estaba registrada en IATI, deberá vincular su cuenta de IATI Publisher a su cuenta del Registro de la IATI siguiendo los pasos que se indican a continuación."
 
 #: ../../publishing-settings.rst:10
 msgid "1) Generate an API token"
