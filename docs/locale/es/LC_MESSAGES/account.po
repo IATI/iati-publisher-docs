@@ -21,11 +21,11 @@ msgstr "Crear una cuenta"
 
 #: ../../account.rst:5
 msgid "How you sign up to IATI Publisher depends on whether your organisation has previously registered with IATI or not. You can find a list of organisations that have already registered and published data on the `IATI Registry`_."
-msgstr "La forma de inscribirse en IATI Publisher dependerá de si su organización ya se ha registrado en la IATI. Puede encontrar una lista de organizaciones que ya se han registrado y han publicado datos en el `Registro de la IATI`_."
+msgstr "La forma de inscribirse en IATI Publisher dependerá de si su organización ya se ha registrado en IATI. Puede encontrar una lista de organizaciones que ya se han registrado y han publicado datos en el `Registro de la IATI`_."
 
 #: ../../account.rst:8
 msgid "If you have never registered with IATI, follow the instructions below for `Option A: My organisation is new to IATI <https://docs.publisher.iatistandard.org/en/latest/account/#id1>`_. Otherwise, refer to `Option B: My organisation has registered with IATI <https://docs.publisher.iatistandard.org/en/latest/account/#id2>`_."
-msgstr "Si nunca se ha registrado en la IATI, siga estas instrucciones, correspondientes a la `Opción A: Mi organización es nueva en la IATI <https://docs.publisher.iatistandard.org/en/latest/account/#id1>`_. En caso contrario, elija la `Opción B: Mi organización está registrada en la IATI <https://docs.publisher.iatistandard.org/en/latest/account/#id2>`_."
+msgstr "Si nunca se ha registrado en IATI, siga estas instrucciones, correspondientes a la `Opción A: Mi organización es nueva en IATI <https://docs.publisher.iatistandard.org/en/latest/account/#id1>`_. En caso contrario, elija la `Opción B: Mi organización está registrada en IATI <https://docs.publisher.iatistandard.org/en/latest/account/#id2>`_."
 
 #: ../../account.rst:11
 msgid "There are question mark icons next to each data entry field in IATI Publisher, which you can click on for guidance."
@@ -33,11 +33,11 @@ msgstr "Haga clic en los signos de interrogación que acompañan a todos los cam
 
 #: ../../account.rst:14
 msgid "Option A: My organisation is new to IATI"
-msgstr "Opción A: Mi organización es nueva en la IATI"
+msgstr "Opción A: Mi organización es nueva en IATI"
 
 #: ../../account.rst:15
 msgid "On the IATI Publisher homepage, click 'Join Now', then select 'My organisation is new to IATI'."
-msgstr "En la página de inicio de IATI Publisher, haga clic en \"Únase ahora\" y, a continuación, seleccione \"Mi organización es nueva en la IATI\"."
+msgstr "En la página de inicio de IATI Publisher, haga clic en \"Únase ahora\" y, a continuación, seleccione \"Mi organización es nueva en IATI\"."
 
 #: ../../account.rst:17
 msgid "Enter information about your organisation. Visit the `How to create your IATI organisation identifier`_ page for help."
@@ -62,11 +62,11 @@ msgstr "Haga clic en \"Primeros pasos\" para volver a la página de inicio."
 
 #: ../../account.rst:25
 msgid "Option B: My organisation has registered with IATI"
-msgstr "Opción B: Mi organización está registrada en la IATI"
+msgstr "Opción B: Mi organización está registrada en IATI"
 
 #: ../../account.rst:26
 msgid "On the IATI Publisher homepage, click 'Join Now', then select 'My organisation has registered with IATI'."
-msgstr "En la página de inicio de IATI Publisher, haga clic en \"Únase ahora\" y, a continuación, seleccione \"Mi organización está registrada en la IATI\"."
+msgstr "En la página de inicio de IATI Publisher, haga clic en \"Únase ahora\" y, a continuación, seleccione \"Mi organización está registrada en IATI\"."
 
 #: ../../account.rst:28
 msgid "Enter your organisation details, making sure that your organisation name, identifier and publisher ID match your account information on the `IATI Registry`_."
