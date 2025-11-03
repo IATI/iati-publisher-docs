@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../default-values.rst:3
+msgid "Default values"
+msgstr "Valores predeterminados"
+
+#: ../../default-values.rst:5
+msgid "Default values are fields such as language and currency, which occur often in the IATI Standard. It is easiest to populate these once so that IATI Publisher can automatically apply them to any new data you enter in the tool."
+msgstr "Los valores predeterminados son campos como el idioma y la moneda, que aparecen con frecuencia en la Norma IATI. Lo más fácil es rellenarlos una vez para que IATI Publisher pueda aplicarlos automáticamente a cualquier dato nuevo que introduzca en la herramienta."
+
+#: ../../default-values.rst:7
+msgid "You will be prompted to complete default values in Step 2 of the 'Get Started' onboarding guidance, which appears after you first sign in."
+msgstr "Se le pedirá que complete los valores predeterminados en el paso 2 de la guía de incorporación \"Primeros pasos\", que aparece después de iniciar sesión por primera vez."
+
+#: ../../default-values.rst:10
+msgid "Which defaults should I populated?"
+msgstr "¿Qué valores predeterminados debo rellenar?"
+
+#: ../../default-values.rst:11
+msgid "We strongly recommend that you populate your default language and currency. There are other recommended default values that are often required by `donor governments’ IATI requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_, depending on who your funder is."
+msgstr "Le recomendamos encarecidamente que introduzca su idioma y moneda predeterminados. Hay otros valores predeterminados recomendados que se suelen exigir en los `requisitos de la IATI de los gobiernos donantes <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_, dependiendo de quién sea su financiador."
+
+#: ../../default-values.rst:13
+msgid "Click the question mark icon next to each default value's data entry box in IATI Publisher to view more information on what it is."
+msgstr "Haga clic en el icono del signo de interrogación situado junto a la casilla de introducción de datos de cada valor predeterminado en IATI Publisher para obtener más información acerca de en qué consiste."
+
+#: ../../default-values.rst:15
+msgid "**Recommended defaults for activity data** - these are commonly required by funders, who may provide specific advice on how to complete them."
+msgstr "**Valores predeterminados recomendados para los datos de las actividades**: los financiadores suelen exigirlos y pueden ofrecer asesoramiento específico sobre cómo cumplimentarlos."
+
+#: ../../default-values.rst:17
+msgid "**Optional defaults for activity data** - these are not required by the IATI Standard or most funders. You can populate them if relevant to your organisation's activities."
+msgstr "**Valores predeterminados opcionales para los datos de las actividades**: no son exigidos por la Norma IATI ni por la mayoría de los financiadores. Puede rellenarlos si son pertinentes para las actividades de su organización."
+
+#: ../../default-values.rst:20
+msgid "Changing your default values"
+msgstr "Cambiar los valores predeterminados"
+
+#: ../../default-values.rst:21
+msgid "You can view or edit your default values in IATI Publisher's `Settings <https://publisher.iatistandard.org/setting>`_ at any time. IATI Publisher will apply the updated values to any new activities that you create in the interface."
+msgstr "Puede ver o modificar sus valores predeterminados en `Configuración <https://publisher.iatistandard.org/setting>`_ de IATI Publisher en cualquier momento. IATI Publisher aplicará los valores actualizados a las nuevas actividades que cree en la interfaz."
+
+#: ../../default-values.rst:23
+msgid "You can change default values for an individual activity by clicking 'Override this activity’s default values' in the top right of the screen when editing the activity. This will apply the new values to the specific activity, but not affect the defaults stored in Settings."
+msgstr "Puede cambiar los valores predeterminados de una actividad individual haciendo clic en \"Reemplazar los valores predeterminados de esta actividad\", en la parte superior derecha de la pantalla al modificar la actividad. Esto aplicará los nuevos valores a la actividad de que se trate, pero no afectará a los valores predeterminados almacenados en Configuración."

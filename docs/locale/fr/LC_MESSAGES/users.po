@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher: Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-10 13:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../users.rst:3
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: ../../users.rst:5
+msgid "IATI Publisher's `Users page <https://publisher.iatistandard.org/users/>`_ lists all individuals in your organisation that have an account. Anyone with admin level permissions can add, edit or remove users from this page."
+msgstr "La page `« Utilisateurs » d'IATI Publisher <https://publisher.iatistandard.org/users/>`_ liste tous les individus de votre organisation qui ont un compte. Toute personne ayant des droits d'administrateur peut ajouter, modifier ou supprimer des comptes dʼutilisateurs depuis cette page."
+
+#: ../../users.rst:8
+msgid "Adding or removing user accounts"
+msgstr "Ajouter ou supprimer des comptes d'utilisateurs"
+
+#: ../../users.rst:9
+msgid "To add a new user, you will need to enter their full name, email address and user type (see information on user permissions below). You will also create a password for them, which they should change after signing in for the first time."
+msgstr "Pour ajouter un nouvel utilisateur, vous devez saisir son nom complet, son adresse électronique et le type d'utilisateur (voir les informations sur les autorisations des utilisateurs ci-dessous). Vous leur créerez également un mot de passe, qu'ils devront modifier après s'être connectés pour la première fois."
+
+#: ../../users.rst:13
+msgid "User permissions"
+msgstr "Autorisations des utilisateurs"
+
+#: ../../users.rst:14
+msgid "There are two types of user accounts on IATI Publisher - admins and general users. Admins have the highest level of permission for your organisation."
+msgstr "Il existe deux types de comptes dʼutilisateurs sur IATI Publisher : les administrateurs et les utilisateurs généraux. Les administrateurs disposent du niveau d'autorisation le plus élevé pour votre organisation."
+
+#: ../../users.rst:16
+msgid "**Admin users can:**"
+msgstr "**Les utilisateurs administrateurs peuvent :**"
+
+#: ../../users.rst:18
+msgid "Add other users to their organisation (setting them as 'co-admins' or 'general users')"
+msgstr "Ajouter d'autres utilisateurs à leur organisation (en les définissant comme « co-administrateurs » ou « utilisateurs généraux »)"
+
+#: ../../users.rst:19
+#: ../../users.rst:27
+msgid "Add, edit and publish activity data"
+msgstr "Ajouter, modifier et publier des données d'activité"
+
+#: ../../users.rst:20
+msgid "Add, edit and publish organisation data"
+msgstr "Ajouter, modifier et publier des données sur l'organisation"
+
+#: ../../users.rst:21
+msgid "Edit settings such as default values and your organisation's identifiers"
+msgstr "Modifier les paramètres tels que les valeurs par défaut et les identifiants de votre organisation"
+
+#: ../../users.rst:24
+msgid "**General users can:**"
+msgstr "**Les utilisateurs généraux peuvent :**"
+
+#: ../../users.rst:26
+msgid "View, but not edit or add, other users for their organisation"
+msgstr "Voir, mais sans modifier ni ajouter, d'autres utilisateurs de leur organisation"
+
+#: ../../users.rst:28
+msgid "View, but not edit or publish, organisation data"
+msgstr "Consulter, mais sans modifier ni publier, les données de l'organisation"
+
+#: ../../users.rst:29
+msgid "View, but not edit, settings"
+msgstr "Consulter, mais sans modifier, les paramètres"

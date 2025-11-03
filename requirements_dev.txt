@@ -8,7 +8,7 @@ alabaster==1.0.0
     # via
     #   -r requirements.txt
     #   sphinx
-anyio==4.9.0
+anyio==4.10.0
     # via
     #   starlette
     #   watchfiles
@@ -114,7 +114,7 @@ packaging==25.0
     #   sphinx
 pathspec==0.12.1
     # via black
-platformdirs==4.3.8
+platformdirs==4.4.0
     # via black
 pygments==2.19.2
     # via
@@ -155,7 +155,7 @@ sphinx==8.2.3
     #   sphinx-intl
     #   sphinx-togglebutton
     #   sphinxcontrib-opendataservices
-sphinx-autobuild==2024.10.3
+sphinx-autobuild==2025.8.25
     # via -r requirements_dev.in
 sphinx-intl==2.3.1
     # via -r requirements.txt
@@ -191,13 +191,13 @@ sphinxcontrib-serializinghtml==2.0.0
     # via
     #   -r requirements.txt
     #   sphinx
-starlette==0.47.1
+starlette==0.47.3
     # via sphinx-autobuild
 urllib3==2.5.0
     # via
     #   -r requirements.txt
     #   requests
-uvicorn==0.34.3
+uvicorn==0.35.0
     # via sphinx-autobuild
 watchfiles==1.1.0
     # via sphinx-autobuild
