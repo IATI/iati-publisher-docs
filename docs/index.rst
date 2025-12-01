@@ -2,7 +2,7 @@
 IATI Publisher
 **************
 
-`IATI Publisher <https://publisher.iatistandard.org/>`_ is an online tool for organisations that want to publish data on their development and humanitarian activities according to the IATI Standard. It is free and managed by the IATI Secretariat.
+`IATI Publisher <https://publisher.iatistandard.org/>`_ is an online tool for organisations that want to publish data according to the IATI Standard. It is free and managed by the IATI Secretariat.
 
 It is designed for:
 
