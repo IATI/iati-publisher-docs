@@ -3,7 +3,7 @@ Signing in
 ##########
 
 .. attention:: 
-    IATI Publisher switched to using IATI single sign-on in December 2025. You will need an IATI Account to use IATI Publisher. All existing user accounts were automatically migrated across.
+    IATI Publisher switched to use IATI single sign-on in December 2025. You will need an IATI Account to use IATI Publisher. All existing user accounts are being automatically migrated 1-5th December. 
 
 Sign in to IATI Publisher with your IATI Account email address and password. You can reset your password if needed.
 
