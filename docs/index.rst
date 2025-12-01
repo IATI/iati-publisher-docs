@@ -14,12 +14,12 @@ It is designed for:
 
 Steps to publishing
 -------------------
-.. tip:: 
-   For an overview of what data publishing involves, have a look at our page `How to publish data <https://iatistandard.org/en/guidance/publishing-data/publishing-checklist/>`_.
-
-To use IATI Publisher, you will first need to register via IATI Account. You can then sign in to prepare and publish your data using IATI Publisher. 
+To use IATI Publisher, first register via IATI Account. You can then sign in to prepare and publish your data using IATI Publisher. 
 
 IATI Publisher uses the `IATI Validator <https://validator.iatistandard.org/>`_ to check your data before you publish, providing feedback on validation errors against the IATI schema.
+
+.. tip:: 
+   For more information on data publishing, see `How to publish data <https://iatistandard.org/en/guidance/publishing-data/publishing-checklist/>`_.
 
 Help & Support
 --------------
