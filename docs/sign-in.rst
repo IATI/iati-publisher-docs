@@ -23,7 +23,7 @@ Select 'Don’t show me this again' in the bottom-left corner of the guidance bo
 
 Adding other people from your organisation to IATI Publisher
 ------------------------------------------------------------
-All new users should create an account via IATI Account. If their organisation is already registered with IATI, they will be able to search for it and request to be added to it.
+All new users should create an account via `IATI Account <https://account.iatistandard.org/en/>`_. If their organisation is already registered with IATI, they will be able to search for it and request to be added to it.
 
 Once their request is appoved, the new user will be able to sign in to IATI Publisher and see their organisation's data.
 
