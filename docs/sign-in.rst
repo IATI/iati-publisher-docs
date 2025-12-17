@@ -2,11 +2,15 @@
 Signing in
 ##########
 
-Sign in to IATI Publisher with the email address and password that you entered during registration. You can reset your password if needed from `IATI Publisher's homepage <https://publisher.iatistandard.org/>`_.
+.. attention:: 
+    IATI Publisher switched to use IATI single sign-on in December 2025. You will need an `IATI Account <https://account.iatistandard.org/en/>`_ to use IATI Publisher. All existing user accounts are being automatically migrated 1-5th December. 
 
-You will have received a verification email after registering. Use the link in this email to activate your new account, which is required before you can publish data. 
+Sign in to IATI Publisher with your `IATI Account <https://account.iatistandard.org/en/>`_ email address and password. You can reset your password if needed.
 
-When you first sign in, you will see 'Get Started' guidance on screen, which will walk you through remaining setup steps (Figure 1). Select 'Don’t show me this again' in the bottom-left corner of the guidance box to stop it appearing when you sign in. You can re-access it from your profile menu if needed.
+Getting Started
+-----------------
+
+When you first sign in, you will see 'Get Started' guidance on screen, which will walk you through the setup steps (Figure 1).
 
 .. figure:: images/get_started_guidance.png
     :width: 100 %
@@ -15,9 +19,13 @@ When you first sign in, you will see 'Get Started' guidance on screen, which wil
 
     *Figure 1: 'Get Started' onboarding guidance to help your organisation get set up.*
 
+Select 'Don’t show me this again' in the bottom-left corner of the guidance box to stop it appearing when you sign in. You can re-access it from your profile menu if needed.
+
 Adding other people from your organisation to IATI Publisher
 ------------------------------------------------------------
-If you are a new user from an organisation that is already using IATI Publisher, an admin user from your organisation can create an account for you. You can read more in the `Users section <https://docs.publisher.iatistandard.org/en/latest/users/>`_.
+All new users should create an account via `IATI Account <https://account.iatistandard.org/en/>`_. If their organisation is already registered with IATI, they will be able to search for it and request to be added to it.
+
+Once their request is appoved, the new user will be able to sign in to IATI Publisher and see their organisation's data.
 
 .. admonition:: Getting help
 
