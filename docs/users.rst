@@ -3,7 +3,7 @@ Users
 #####
 
 .. attention:: 
-   IATI Publisher's "Users" page was removed in December 2025 as part of the switch to IATI single sign-on. To view or edit the users associated with your organisation's account, visit IATI Account.
+   IATI Publisher's "Users" page was removed in December 2025 as part of the switch to IATI single sign-on. To view or edit the users associated with your organisation's account, visit `IATI Account <https://account.iatistandard.org/>`_.
 
 IATI Account's Users page lists all individuals in your organisation that have an account. Anyone with admin level permissions can add, edit or remove users.
 
