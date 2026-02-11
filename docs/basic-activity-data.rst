@@ -10,7 +10,28 @@ Core elements
 -------------
 The IATI data elements that you can complete for an activity are listed on the left hand side of the activity page (Figure 1). Some are labelled “core” and have a yellow ring symbol.
 
-It is recommended that you complete “core” elements. They are either mandatory according to the IATI Standard or required by most `donor governments’ publishing requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_.
+It is recommended that you complete all “core” elements. They are either mandatory according to the IATI Standard or required by most `donor governments’ publishing requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_.
+
+The list of core elements for an activity is:
+
+- title
+- reporting-org
+- iati-identifier
+- description
+- activity-status
+- activity-date
+- recipient-country and/or recipient-region
+- sector
+- participating-org
+- budget
+- transactions
+
+The following default values are also labelled as core, as most donor governments include them in their IATI publishing requirements:
+
+- default-aid-type
+- default-flow-type
+- default-tied-status
+- default-finance-type
 
 Other elements are optional. You are still encouraged to populate as many optional fields as you can, however, as this makes your data more useful to IATI's data users. 
 
