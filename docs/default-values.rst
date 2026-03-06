@@ -6,8 +6,8 @@ Default values are fields such as language and currency, which occur often in th
 
 You will be prompted to complete default values in Step 2 of the 'Get Started' onboarding guidance, which appears after you first sign in.
 
-Which defaults should I populated?
-----------------------------------
+Which defaults should I populate?
+---------------------------------
 We strongly recommend that you populate your default language and currency. There are other recommended default values that are often required by `donor governments’ IATI requirements <https://iatistandard.org/en/guidance/standard-overview/donors-reporting-requirements/>`_, depending on who your funder is. 
 
 Click the question mark icon next to each default value's data entry box in IATI Publisher to view more information on what it is. 
