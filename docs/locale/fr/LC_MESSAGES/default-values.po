@@ -76,9 +76,9 @@ msgid ""
 "**Recommended defaults for activity data** - these are commonly required by "
 "funders, who may provide specific advice on how to complete them."
 msgstr ""
-"**Paramètres par défaut recommandés pour les données d'activité** – ces "
-"paramètres sont généralement exigés par les financeurs, qui peuvent fournir "
-"des conseils spécifiques sur la manière de les renseigner."
+"**Valeurs par défaut recommandées pour les données d'activité** – ces "
+"valeurs sont généralement exigées par les bailleurs de fonds, qui peuvent "
+"fournir des conseils spécifiques sur la manière de les renseigner."
 
 #: ../../default-values.rst:17
 msgid ""

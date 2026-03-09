@@ -63,8 +63,8 @@ msgid ""
 "Screenshot of the 'Get Started' onboarding guidance, visible on first sign "
 "in, to help your organisation get set up."
 msgstr ""
-"*Figure 1 : Guide d'accueil « Commencer » pour aider votre organisation à se"
-" configurer.*"
+"Capture d'écran du guide d'intégration « Get Started », visible lors de la "
+"première connexion, pour aider votre organisation à se configurer."
 
 #: ../../sign-in.rst:20
 msgid ""

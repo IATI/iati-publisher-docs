@@ -72,7 +72,7 @@ msgid ""
 "IATI organisation identifier`_ page for help."
 msgstr ""
 "Saisissez les informations relatives à votre organisation. Consultez la page"
-" `Comment créer votre identifiant de l'organisation IITA`_ pour obtenir de "
+" `Comment créer votre identifiant de l’organisation IITA`_ pour obtenir de "
 "l'aide."
 
 #: ../../account.rst:18
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../../account.rst:22 ../../account.rst:31
 msgid "Click 'Get Started' to return to the homepage."
-msgstr "Cliquez sur « Premiers pas » pour revenir à la page dʼaccueil."
+msgstr "Cliquez sur « Commencer » pour revenir à la page d’accueil."
 
 #: ../../account.rst:25
 msgid "Option B: My organisation has registered with IATI"
