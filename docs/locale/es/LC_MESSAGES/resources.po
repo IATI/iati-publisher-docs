@@ -20,9 +20,19 @@ msgid "Other resources"
 msgstr "Otros recursos"
 
 #: ../../resources.rst:5
-msgid "An IATI Publisher demo video, and more information on other IATI tools, can be found on the `IATI website <https://iatistandard.org/en/iati-tools-and-resources/iati-publisher/>`_."
-msgstr "Puede encontrar un vídeo de demostración de IATI Publisher, así como más información sobre otras herramientas de la IATI, en el `sitio web de la IATI <https://iatistandard.org/en/iati-tools-and-resources/iati-publisher/>`_."
+msgid ""
+"An IATI Publisher demo video, and more information on other IATI tools, can "
+"be found on the `IATI website <https://iatistandard.org/en/iati-tools-and-"
+"resources/iati-publisher/>`_."
+msgstr ""
+"Puede encontrar un vídeo de demostración de IATI Publisher, así como más "
+"información sobre otras herramientas de la IATI, en el `sitio web de la IATI"
+" <https://iatistandard.org/es/iati-tools-and-resources/iati-publisher/>`_."
 
 #: ../../resources.rst:7
-msgid "A PDF version of this user documentation is available to download here: IATI Publisher user manual v.1.1"
-msgstr "Aquí puede descargar una versión en PDF de esta documentación de usuario: Manual del usuario de IATI Publisher v.1.1"
+msgid ""
+"A PDF version of this user documentation is available to download here: IATI"
+" Publisher user manual v.1.1"
+msgstr ""
+"Aquí puede descargar una versión en PDF de esta documentación de usuario: "
+"Manual del usuario de IATI Publisher v.1.1"
