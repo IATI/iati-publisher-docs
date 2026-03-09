@@ -57,21 +57,3 @@ msgid ""
 msgstr ""
 "Figure 1 : Accéder à « Votre profil » depuis le menu déroulant en haut à "
 "droite d'IATI Publisher."
-
-#~ msgid "You can edit the following on your profile page:"
-#~ msgstr "Vous pouvez modifier les éléments suivants sur votre page de profil :"
-
-#~ msgid "Name"
-#~ msgstr "Nom"
-
-#~ msgid "Username"
-#~ msgstr "Nom d'utilisateur"
-
-#~ msgid "Email address"
-#~ msgstr "Adresse électronique"
-
-#~ msgid "Language preference"
-#~ msgstr "Préférence linguistique"
-
-#~ msgid "Password"
-#~ msgstr "Mot de passe"
