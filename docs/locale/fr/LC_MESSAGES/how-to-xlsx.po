@@ -1,0 +1,161 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the
+# IATI Secretariat
+# This file is distributed under the same license as the IATI Publisher:
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Publisher: Documentation 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-27 14:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: fr <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../how-to-xlsx.rst:3
+msgid "How do I complete the XLSX templates?"
+msgstr "Comment compléter les modèles XLSX ?"
+
+#: ../../how-to-xlsx.rst:5
+msgid ""
+"If you are using IATI Publisher's XLSX templates, we recommend `exporting "
+"your existing data <https://docs.publisher.iatistandard.org/en/latest/bulk-"
+"import/#exporting-your-existing-data>`_ first, then editing it and re-"
+"importing the template."
+msgstr ""
+"Si vous utilisez les modèles XLSX de l'IATI Publisher, nous vous "
+"recommandons de `exporter vos données existantes "
+"<https://docs.publisher.iatistandard.org/fr/latest/bulk-import/#exporting-"
+"your-existing-data>`_ en premier lieu, puis de les modifier et de réimporter"
+" le modèle."
+
+#: ../../how-to-xlsx.rst:7
+msgid ""
+"The XLSX templates are split into sheets, which correspond to different data"
+" elements of the IATI Standard."
+msgstr ""
+"Les modèles XLSX sont divisés en feuilles, qui correspondent à différents "
+"éléments de données de la Norme de l'IITA."
+
+#: ../../how-to-xlsx.rst:9
+msgid "Tips"
+msgstr "Conseils"
+
+#: ../../how-to-xlsx.rst:11
+msgid ""
+"Not all sheets need populating - focus on completing `core data elements "
+"<https://docs.publisher.iatistandard.org/en/latest/basic-activity-"
+"data/#core-elements>`_ first."
+msgstr ""
+"Toutes les feuilles ne nécessitent pas d'être remplies — concentrez-vous "
+"d'abord sur la complétion des `éléments de données de base "
+"<https://docs.publisher.iatistandard.org/fr/latest/basic-activity-"
+"data/#core-elements>`_."
+
+#: ../../how-to-xlsx.rst:12
+msgid ""
+"Enter activity identifiers on the 'Settings' sheet to be able to pre-"
+"populate them on other sheets. You don't need to populate other columns on "
+"the 'Settings' sheet unless you want to override your default values saved "
+"in IATI Publisher."
+msgstr ""
+"Saisissez les identifiants d'activité sur la feuille « Paramètres » afin de "
+"pouvoir les pré-remplir sur d'autres feuilles. Vous n'avez pas besoin de "
+"remplir les autres colonnes de la feuille « Paramètres » sauf si vous "
+"souhaitez remplacer vos valeurs par défaut enregistrées dans IATI Publisher."
+
+#: ../../how-to-xlsx.rst:13
+msgid ""
+"If you are entering multiple values (e.g. transactions), enter these over "
+"multiple rows in the relevant sheet."
+msgstr ""
+"Si vous saisissez plusieurs valeurs (par exemple, des transactions), entrez "
+"celles-ci sur plusieurs lignes dans la feuille pertinente."
+
+#: ../../how-to-xlsx.rst:14
+msgid ""
+"Don't edit sheet or column names, or change the order of columns in a sheet."
+msgstr ""
+"Ne modifiez pas les noms des feuilles ou des colonnes, ni l'ordre des "
+"colonnes dans une feuille."
+
+#: ../../how-to-xlsx.rst:15
+msgid "Don't make any edits to the 'Options' sheet."
+msgstr "Ne modifiez pas la feuille 'Options'."
+
+#: ../../how-to-xlsx.rst:18
+msgid "Column colour-coding"
+msgstr "Couleur de codage des colonnes"
+
+#: ../../how-to-xlsx.rst:19
+msgid ""
+"Columns in the XLSX templates are colour-coded based on the number of row "
+"entries expected. Note that this only applies if you choose to populate the "
+"sheet. `Core elements "
+"<https://docs.publisher.iatistandard.org/en/latest/basic-activity-"
+"data/#core-elements>`_ are mandatory, whereas other sheets in the template "
+"are optional."
+msgstr ""
+"Les colonnes des modèles XLSX sont codées par couleur en fonction du nombre "
+"d'entrées de ligne attendues. Notez que cela ne s'applique que si vous "
+"choisissez de remplir la feuille. Les `éléments de base "
+"<https://docs.publisher.iatistandard.org/fr/latest/basic-activity-"
+"data/#core-elements>`_ sont obligatoires, tandis que les autres feuilles du "
+"modèle sont facultatives."
+
+#: ../../how-to-xlsx.rst:21
+msgid "Pink - column expects a single entry"
+msgstr "Rose - la colonne s'attend à une seule entrée"
+
+#: ../../how-to-xlsx.rst:22
+msgid ""
+"Green - column expects at least one entry, and multiple entries are allowed "
+"(e.g. for title narratives in multiple languages)"
+msgstr ""
+"Vert - la colonne attend au moins une entrée, et plusieurs entrées sont "
+"autorisées (par exemple, pour les récits de titre dans plusieurs langues)"
+
+#: ../../how-to-xlsx.rst:23
+msgid ""
+"Orange - column is optional and expects a single entry if you choose to "
+"complete it"
+msgstr ""
+"Orange - la colonne est facultative et attend une seule entrée si vous "
+"choisissez de la compléter."
+
+#: ../../how-to-xlsx.rst:24
+msgid ""
+"Blue - column is optional and can have multiple entries if you choose to "
+"complete it"
+msgstr ""
+"Bleu - la colonne est facultative et peut comporter plusieurs entrées si "
+"vous choisissez de la compléter."
+
+#: ../../how-to-xlsx.rst:27
+msgid "Importing transactions and results"
+msgstr "Importation des transactions et des résultats"
+
+#: ../../how-to-xlsx.rst:28
+msgid ""
+"`How do I import transactions in bulk? "
+"<https://docs.publisher.iatistandard.org/en/latest/import-transactions/>`_"
+msgstr ""
+"`Comment importer des transactions en masse ? "
+"<https://docs.publisher.iatistandard.org/fr/latest/import-transactions/>`_"
+
+#: ../../how-to-xlsx.rst:30
+msgid ""
+"`How do I import results data? "
+"<https://docs.publisher.iatistandard.org/en/latest/results-import/>`_"
+msgstr ""
+"`Comment importer des données de résultats ? "
+"<https://docs.publisher.iatistandard.org/fr/latest/results-import/>`_"

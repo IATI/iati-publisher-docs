@@ -34,7 +34,7 @@ If you choose XLSX files, IATI Publisher will show a progress bar as your data f
 .. figure:: images/download-ready.png
     :width: 100 %
     :align: center
-    :alt: Clicking the bottom-right 'Download' button when the XLS files have finished being prepared.
+    :alt: Clicking the bottom-right 'Download' button when the XLSX files have finished being prepared.
 
 This will download a zipped (compressed) folder containing IATI Publisher's four XLSX templates.
 
